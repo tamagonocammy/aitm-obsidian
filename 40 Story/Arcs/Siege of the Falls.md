@@ -144,6 +144,7 @@ Tsu'lan lets Luka go. He escapes wounded: "There are many of us." Unlike the son
 - **Chuchu's moment** happens outside the Falls.
 - **Notä's minigun** is gone. Rest in peace.
 - **"Special War Powers"** is a *Bleach: TYBW* reference.
+- **The founder's line.** Rawìl descends directly from Tunskxe, the Second Toruk Makto and founder of the clan. The teenagers show no Spiral Power and no inherited ability; the link is between generations. The ancient heroes do not return to fight. They gave the knowledge, through Sänrri, and the living defend the Falls themselves. The Siege's sequence of events does not change. See [[Ambition and Hope — The Ones Who Know All]].
 
 ## Still open
 

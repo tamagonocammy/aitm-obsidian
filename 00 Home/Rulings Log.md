@@ -66,6 +66,21 @@ Millie's canon decisions, newest thinking first within each section. When an old
 - The Mangkwan kidnap Sänrri, the Cohort and Txafwe. The Reckoning's cameos are shots from *Avatar: Fire and Ash*, showing AITM and the films share one world.
 - The Thanator and the Slinger are Tsu'ong and Ketxe. The arc is their arrival at the Falls and the drama of exes returning with a new family.
 
+## Ruled on 2026-11-12: the ancient Toruk Makto
+
+Full detail, with the proposals and open questions kept apart, is on [[Ambition and Hope — The Ones Who Know All]].
+
+- Tunskxe, the Second Toruk Makto (Simon the Digger, *Tengen Toppa Gurren Lagann*), founded the Astikasya thousands of years before the story. The clan is that old.
+- The present Samaya family descends directly from Tunskxe. The descent is history and symbol. It carries no inherited power, and the Astikasya are not born superior to other Na'vi.
+- Yoko'fya, the Third Toruk Makto, is Madoka Kaname's Na'vi counterpart (*Puella Magi Madoka Magica*).
+- Both lived many thousands of years before Sänrri. They are never contemporaries of Jake Sully, Sänrri or the present clan.
+- Tunskxe teaches ambition and Yoko'fya teaches hope. Will is the force; ambition and hope are how it is projected (unchanged).
+- What Sänrri receives is old knowledge the Na'vi have largely forgotten, restored, and it is no new power. Living in balance with nature, they had little reason to keep a way of asserting their will against another mind inside the bond. In times of great sorrow that capacity matters again.
+- Limits: the teaching takes effort and understanding. It gives no one dominion over Eywa, no limitless reality-changing power, and no answer to every conflict. The Astikasya still never start a forced tsaheylu. Kiri's exception stands.
+- The ancient heroes do not return to fight their descendants' battles. They give the knowledge and the living do the rest. Nobody at the Siege shows Spiral Power or any inherited ability.
+- These identities and the founding belong to AITM, not to the official *Avatar* canon.
+- Not ruled, and not to be invented: founding dates, the generations in between, the circumstances of the founding, their looks as living Na'vi, and whether the two knew each other in life.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

@@ -18,3 +18,10 @@ Their home, the **Sheltering Falls**, also known as the Falls, is a breathtaking
 This spirit of adaptation is further exemplified by their remarkable ingenuity, especially in aerial combat; their most celebrated creation: the **ikran-mounted crossbow**, which has changed the course of their defense efforts, its swift, accurate design making even RDA aircraft wary. Yet every tool they forge carries meaning, created with intention and weighed against its harmony with Eywa. Much of this rapid advancement can be attributed to **Sänrri te Tsawtral Tanhì'ite**, formerly known as **Dr. Tomori Takamatsu**, a former human avatar driver ("dreamwalker/uniltìranyu" to the Na'vi) and now the clan's tsakarem. Once a scientist, she chose a new path guided by Eywa's sacred rhythms, her unique knowledge bridging human insight and Na'vi wisdom. Under 'Ipxerey’s mentorship, Sänrri has helped develop tools that enhance, not disrupt, their communion with Eywa. Though forged in hardship, the Astikasya are not defined by grief but by growth. Every mist surrounding their home carries memory, and every woven thread or carved staff bears witness to their story: a people who remember, who dream forward, and whose songs and inventions echo the belief that adaptation is not betrayal, but rather, it is reverence in motion.
 
 ---
+
+## Founding
+
+> [!info] Ruled on 2026-11-12
+> **Tunskxe, the Second Toruk Makto, founded the Astikasya** thousands of years before the story. The [[Samaya]] family descends directly from him. The descent is history and symbol; it carries no inherited power and does not set the clan above other Na'vi. The lore is kept on [[Ambition and Hope — The Ones Who Know All]].
+
+- [ ] The circumstances of the founding. No dates, intermediate generations, migrations, weapons or rituals are set, and none may be invented.

@@ -61,6 +61,60 @@ Sänrri comes home with the Cohort and the Ashes, carrying the warning "They are
 
 - The **will** is the force behind everything, like a soul. **Ambition and hope** are the two ways that will is projected. So "Tunskxe teaches will" and "they teach ambition and hope" describe the same lesson.
 
+## Ruled on 2026-11-12: the ancient Toruk Makto
+
+From Millie's canon integration brief of 2026-11-12. These lines are confirmed canon.
+
+**Who they are**
+
+- **Tunskxe** is the Second Toruk Makto and the Na'vi counterpart of Simon the Digger (*Tengen Toppa Gurren Lagann*). He founded the [[Astikasya]] thousands of years before the story, and the present [[Samaya]] family descends directly from him.
+- **Yoko'fya** is the Third Toruk Makto and the Na'vi counterpart of Madoka Kaname (*Puella Magi Madoka Magica*).
+- Both lived many thousands of years before Sänrri. They are never contemporaries of Jake Sully, Sänrri or the present-day clan.
+- Descent from Tunskxe is history and symbol. It gives no inherited power, and it does not make the Astikasya superior to other Na'vi. Their strength comes from history, culture, adaptation, community and choice.
+
+**What each one teaches**
+
+- Will is the force. Ambition and hope are the two ways it is projected (the earlier ruling stands).
+- **Tunskxe teaches ambition:** asserting your own existence and will against a reality someone imposes on you, and refusing to give up agency, identity or the chance of change. It is the forward-moving side of will, and it is more than physical strength.
+- **Yoko'fya teaches hope:** suffering does not take away the right to want something better. Hope here is an active commitment to a future worth having, even when things look hopeless.
+- The two work together. Ambition pushes against the circumstances and hope gives the push somewhere to go. Neither is enough alone. Together they let a person keep their identity and agency under extreme suffering, which is what a forced tsaheylu attacks.
+
+**The forgotten knowledge**
+
+- What Sänrri receives is ancient knowledge that the Na'vi have largely forgotten. It is restored, and it is no newly invented power.
+- The Na'vi live in harmony with Eywa and with nature, and ordinary tsaheylu is a sacred, consenting bond. They had little reason to keep techniques for asserting their will against another consciousness inside it.
+- In times of great sorrow the Na'vi can assert their own will and change their circumstances. That capacity never left. The knowledge of how to use it was lost or neglected over generations.
+- The Mangkwan's forced tsaheylu exploits that gap. Through will, ambition and hope, a victim can learn to defend their identity and take back agency from inside the bond.
+
+**Limits**
+
+- The teaching takes effort, understanding and individual agency. It does not solve every conflict.
+- It gives no one dominion over Eywa and no limitless power over reality.
+- The Astikasya do not start a forced tsaheylu against others. Kiri's exceptional relationship with the Eywa network stands as before.
+
+**What it means for the clan**
+
+- Sänrri belongs to the Astikasya through her chosen family and her spiritual life, with no descent from the founder. Tunskxe teaches her anyway, and she carries the knowledge home to his descendants. The founder's legacy runs through belonging and teaching as well as blood.
+- The ancient heroes do not come back to fight for their descendants. They give the knowledge that lets the living defend themselves. See [[Siege of the Falls]].
+- All of this is AITM continuity and is no part of the official *Avatar* canon.
+
+## Proposed, not yet canon
+
+> [!warning] Millie's concepts under development (2026-11-12)
+> Everything in this section is a proposal. Do not treat it as fact in scenes or other notes until Millie settles its status. No final prose has been approved.
+
+**Their greater nature.** Their presences inside Eywa may be fragments or local manifestations of much larger original existences. For Tunskxe the source is Simon's passage through the Multiversal Labyrinth; for Yoko'fya it is Madoka becoming the Law of Cycles. As such they may keep knowledge from beyond their Na'vi lifetimes, hold more independence inside Eywa than ordinary ancestors, and recognise things no ancient Na'vi could know. None of that means unlimited power, free intervention or omniscience. This is AITM's own crossover reading, and it makes no claim that the source series share a multiverse. Source details should be verified before any feat is treated as established, and *Walpurgis no Kaiten* counts only as far as its released material can be checked.
+
+**Why they stay.** They remain with Eywa because Pandora is a beautiful place. They are not held, obliged or absorbed. Their Na'vi lives mattered to them, and the Astikasya matter to Tunskxe. No mechanism for their independence is set.
+
+**The secret farewell (scene outline).** After the teaching, Sänrri is overwhelmed and thanks them through tears. As the meeting ends, Yoko'fya thanks her in Japanese and calls her by her human name. Suggested line, not approved: 「ありがとう、友利さん。」 (*Arigatō, Tomori-san.*) In the same moment Tunskxe's eyes show a luminous green spiral and Yoko'fya's shine golden yellow. Nothing else transforms. The moment stays small and intimate. Sänrri understands at once that two Na'vi dead for thousands of years have no reason to know Japanese or her old name. Her reaction keeps to her character: astonishment, vulnerability, trouble finding words, quiet processing, and a decision to keep their secret.
+
+**What she tells the clan, and what she keeps.** She tells them she met Tunskxe and Yoko'fya, that they were the Second and Third Toruk Makto, that they taught her to resist forced tsaheylu through will, ambition and hope, and that this may help the clan survive what is coming. She keeps back the Japanese farewell, the eyes, and her suspicion that they are more than ordinary ancestors. She hides nothing the clan needs for its defence. Her silence comes from respect: they chose how to show themselves, and she does not think their deeper identity is hers to expose.
+
+**Looks.** No design is approved for either of them as living Na'vi. The spiral and golden eyes belong to the farewell only. Millie plans to commission art.
+
+- [ ] Flag for Millie on the suggested line: 友利 is a surname spelling of "Tomori." Tomori Takamatsu's given name is written 燈 in *MyGO!!!!!* (高松 燈). Choose the kanji, and the honorific, before the line is used.
+
 ## Still open
 
 - [x] Conflict on the lesson's wording: the Era note says Tunskxe teaches "will" and Yoko'fya teaches hope, while the Rulings Log says the lesson recovers "ambition" and "hope." This synopsis follows the Rulings Log, and the Era line still says "will." **Ruled 2026-11-12:** no conflict; will is the force, ambition and hope are its projection.
@@ -71,10 +125,26 @@ Sänrri comes home with the Cohort and the Ashes, carrying the warning "They are
 - [ ] Whether Roneyu and Syayvi knew each other inside the Mangkwan.
 - [ ] The arc's final title. "Ambition and Hope — The Ones Who Know All" is a working title.
 - [ ] "The Outside": the summary names it as a Twenty One Pilots reference, and the files say nothing about what it means for this arc's events.
-- [ ] The "knowledge of the previous Toruk Makto" the summary mentions. The files cover the lesson but no other knowledge.
+- [ ] The "knowledge of the previous Toruk Makto" the summary mentions. The files cover the lesson but no other knowledge. *(2026-11-12: the brief rules that the lesson itself is ancient, forgotten knowledge. Whether the summary means anything beyond the lesson is still open.)*
 - [ ] Txafwe's part after capture. The files show him seeing Varang with Quaritch and nothing more.
 - [ ] Apayì's part beyond carrying the message to Tsu'lan.
 - [ ] How the Mangkwan's forced tsaheylu is done. The files give only its purpose.
+
+- [ ] Whether the proposals under **Proposed, not yet canon** become canon: the greater nature, why they stay, the Japanese farewell, the eyes, and Sänrri's silence.
+
+Left unresolved on purpose by Millie (2026-11-12). Do not answer these independently:
+
+- [ ] How much Eywa knows about their greater nature. Three readings are on the table: she knows; she does not know; she knows more than she shows. Millie's image for the anomaly is a neutrino flipping a bit in a computer, as a picture and no literal mechanism. No power ranking between them and Eywa is set, and nothing says they can override her.
+- [ ] Whether Eywa can fully comprehend them.
+- [ ] Their exact relationship with causality.
+- [ ] How much autonomy they have inside the network.
+- [ ] Whether their greater identities are continuously aware of these Na'vi manifestations.
+- [ ] What they know beyond their ordinary ancestral memories.
+- [ ] Whether they can intervene outside special circumstances.
+- [ ] Their full historical biographies.
+- [ ] Their appearances as living Na'vi.
+- [ ] Their relationship with each other in life, including whether they ever met.
+- [ ] The circumstances of Tunskxe's founding of the Astikasya: dates, generations in between, migrations.
 
 ## Scenes
 
