@@ -71,7 +71,7 @@ Millie's canon decisions, newest thinking first within each section. When an old
 Full detail, with the proposals and open questions kept apart, is on [[Ambition and Hope — The Ones Who Know All]].
 
 - Tunskxe, the Second Toruk Makto (Simon the Digger, *Tengen Toppa Gurren Lagann*), founded the Astikasya thousands of years before the story. The clan is that old.
-- The present Samaya family descends directly from Tunskxe. The descent is history and symbol. It carries no inherited power, and the Astikasya are not born superior to other Na'vi.
+- The present Samaya family descends directly from Tunskxe, through Eyfuwen. The descent is history and symbol. It carries no inherited power, and the Astikasya are not born superior to other Na'vi.
 - Yoko'fya, the Third Toruk Makto, is Madoka Kaname's Na'vi counterpart (*Puella Magi Madoka Magica*).
 - Both lived many thousands of years before Sänrri. They are never contemporaries of Jake Sully, Sänrri or the present clan.
 - Tunskxe teaches ambition and Yoko'fya teaches hope. Will is the force; ambition and hope are how it is projected (unchanged).

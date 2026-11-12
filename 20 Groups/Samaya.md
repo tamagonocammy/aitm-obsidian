@@ -21,9 +21,10 @@ The Samaya are the family of the clan's two leaders, Olo'eyktan [[Eyfuwen]] and 
 ### What defines them
 The house is a line of leaders and healers: Eyfuwen has encouraged his daughters since childhood, and 'Ipxerey came from darkness and vengeance and has built her way toward light while her children watched *(Relationship Lore)*. Sänrri entered the family through 'Ipxerey's mentorship and through Kaymi, who chose her "with the same ferocity she brings to combat" *(Relationship Lore)*. Lì'may "made them a family before they fully realized they already were one" *(Relationship Lore)*. Atanvi and Mìreya began on opposite sides of a tension, when Tsu'ong challenged Atanvi for Mìreya and lost, and became a couple who "chose each other repeatedly" *(Relationship Lore)*.
 ### Ruled on 2026-11-12
-- The Samaya are the direct descendants of Tunskxe, the Second Toruk Makto and founder of the [[Astikasya]], who lived thousands of years ago. Rawìl and Notä inherit that legacy. The descent is history and symbol and gives no inherited power. See [[Ambition and Hope — The Ones Who Know All]].
+- The Samaya are the direct descendants of Tunskxe, the Second Toruk Makto and founder of the [[Astikasya]], who lived thousands of years ago. The line runs through [[Eyfuwen]], and Rawìl and Notä inherit that legacy. The descent is history and symbol and gives no inherited power. See [[Ambition and Hope — The Ones Who Know All]].
 ### Still open
-- [ ] Through whom the line from Tunskxe runs. The ruling names Eyfuwen, Kaymi, Atanvi and their descendants and does not name 'Ipxerey. The generations in between are not set.
+- [x] Through whom the line from Tunskxe runs. **Ruled 2026-11-12:** through Eyfuwen.
+- [ ] The generations between Tunskxe and Eyfuwen are not set.
 - [ ] Where the name Samaya comes from. No note explains it.
 - [ ] Mìreya's Na'vi name reads "te Mowa'tal Notä'ite" and Sänrri's reads "te Tsawtral Tanhì'ite", yet both notes file them under Samaya. The vault does not say what Mowa'tal is or how the two joined the house by name *(Mìreya's and Sänrri's notes)*.
 - [x] Kaymi is eyktanay and Rawìl is "future eyktanay". The vault does not say how succession between them works *(Kaymi's and Rawìl's notes)*. **Ruled 2026-11-12:** it is the line of succession. When Kaymi becomes olo'eykte, Rawìl takes her role as eyktanay.

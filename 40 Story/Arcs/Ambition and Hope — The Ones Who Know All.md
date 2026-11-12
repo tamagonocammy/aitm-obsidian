@@ -107,13 +107,13 @@ From Millie's canon integration brief of 2026-11-12. These lines are confirmed c
 
 **Why they stay.** They remain with Eywa because Pandora is a beautiful place. They are not held, obliged or absorbed. Their Na'vi lives mattered to them, and the Astikasya matter to Tunskxe. No mechanism for their independence is set.
 
-**The secret farewell (scene outline).** After the teaching, Sänrri is overwhelmed and thanks them through tears. As the meeting ends, Yoko'fya thanks her in Japanese and calls her by her human name. Suggested line, not approved: 「ありがとう、友利さん。」 (*Arigatō, Tomori-san.*) In the same moment Tunskxe's eyes show a luminous green spiral and Yoko'fya's shine golden yellow. Nothing else transforms. The moment stays small and intimate. Sänrri understands at once that two Na'vi dead for thousands of years have no reason to know Japanese or her old name. Her reaction keeps to her character: astonishment, vulnerability, trouble finding words, quiet processing, and a decision to keep their secret.
+**The secret farewell (scene outline).** After the teaching, Sänrri is overwhelmed and thanks them through tears. As the meeting ends, Yoko'fya thanks her in Japanese and calls her by her human name. Suggested line, not approved: 「ありがとう、燈さん。」 (*Arigatō, Tomori-san.*) In the same moment Tunskxe's eyes show a luminous green spiral and Yoko'fya's shine golden yellow. Nothing else transforms. The moment stays small and intimate. Sänrri understands at once that two Na'vi dead for thousands of years have no reason to know Japanese or her old name. Her reaction keeps to her character: astonishment, vulnerability, trouble finding words, quiet processing, and a decision to keep their secret.
 
 **What she tells the clan, and what she keeps.** She tells them she met Tunskxe and Yoko'fya, that they were the Second and Third Toruk Makto, that they taught her to resist forced tsaheylu through will, ambition and hope, and that this may help the clan survive what is coming. She keeps back the Japanese farewell, the eyes, and her suspicion that they are more than ordinary ancestors. She hides nothing the clan needs for its defence. Her silence comes from respect: they chose how to show themselves, and she does not think their deeper identity is hers to expose.
 
 **Looks.** No design is approved for either of them as living Na'vi. The spiral and golden eyes belong to the farewell only. Millie plans to commission art.
 
-- [ ] Flag for Millie on the suggested line: 友利 is a surname spelling of "Tomori." Tomori Takamatsu's given name is written 燈 in *MyGO!!!!!* (高松 燈). Choose the kanji, and the honorific, before the line is used.
+- [x] Kanji of the suggested line. The brief wrote 友利, a surname spelling of "Tomori"; her given name is written 燈 (高松 燈). **Ruled 2026-11-12:** the line uses 燈さん. The line itself is still a proposal.
 
 ## Still open
 

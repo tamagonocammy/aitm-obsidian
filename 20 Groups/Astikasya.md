@@ -22,6 +22,6 @@ This spirit of adaptation is further exemplified by their remarkable ingenuity, 
 ## Founding
 
 > [!info] Ruled on 2026-11-12
-> **Tunskxe, the Second Toruk Makto, founded the Astikasya** thousands of years before the story. The [[Samaya]] family descends directly from him. The descent is history and symbol; it carries no inherited power and does not set the clan above other Na'vi. The lore is kept on [[Ambition and Hope — The Ones Who Know All]].
+> **Tunskxe, the Second Toruk Makto, founded the Astikasya** thousands of years before the story. The [[Samaya]] family descends directly from him, through [[Eyfuwen]]. The descent is history and symbol; it carries no inherited power and does not set the clan above other Na'vi. The lore is kept on [[Ambition and Hope — The Ones Who Know All]].
 
 - [ ] The circumstances of the founding. No dates, intermediate generations, migrations, weapons or rituals are set, and none may be invented.
