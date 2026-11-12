@@ -1,0 +1,32 @@
+---
+type: "character"
+source_series: "Mobile Suit Gundam: The Witch from Mercury"
+groups:
+  - "[[Earth House]]"
+birthday: "March 22"
+canon: "confirmed"
+---
+
+## Profile
+
+**Personality:** Nuno Kargan is the most dangerous kind of person in an intelligence operation: a natural systems thinker who is also extremely funny, because it means people talk to him. He has an involuntary talent for social environments that he himself cannot fully explain, a kind of effortless, low-key charisma born not from charm but from genuine curiosity about how things work, including people, and people can almost always tell the difference. He came to Pandora as a software specialist and he remains one, now running the Resistance's communications and electronic intelligence with the focused, caffeinated energy of someone who is never entirely offline and has largely stopped trying to be. He sleeps in fragments. He eats at his workstation. He is at his most alive at two in the morning with six things open on different screens and Ojelo asleep in the chair behind him, breathing steadily, a sound that Nuno has come to depend on in ways he has not examined too closely. He and Ojelo have been best friends since the university days, the kind of friendship that developed through proximity and shared disaster and has long since calcified into something neither of them would know how to function without. Ojelo is the one who gets them into trouble. Nuno is the one who figures out how to get them out. This has been the division of labor for years and it works extremely well except for the part where Ojelo occasionally gets them into trouble that Nuno cannot fully get them out of, and they end up having to improvise together, and those are, if Nuno is being honest, some of the best nights of his life. He has a complicated relationship with the RDA's communications infrastructure because he built parts of it, as a student contractor, before he understood what he was building it for. This is not something he talks about casually but it is also not something he hides, because the information is too operationally relevant to suppress and because Nuno has found that carrying secrets is not a particularly sustainable long-term strategy. What he knows about the RDA's systems from the inside has made him essential to the Resistance in ways that cost him something, a specific, grinding guilt that he processes by being extremely good at his job and by winning arguments about it against the part of himself that thinks he should have known sooner. He did not know sooner. He knows now. He is working on making it count. His relationship with the Astikasya began through data, specifically through monitoring their communication patterns around the Sheltering Falls and realizing with growing respect that a people without technology were running better operational security than most of the humans he had worked with. He has not fully gotten over this. He brings it up occasionally as a point of professional admiration that Tsu'ong, on a visit to the base, received with patient bemusement and what Nuno is fairly certain was a suppressed smile.
+
+> [!quote]- Earlier version — AITM_05_Factions_Profiles
+> **Personality:** Nuno Kargan is the most dangerous kind of person in an intelligence operation: a natural systems thinker who is also extremely funny, because it means people talk to him. He has an involuntary talent for social environments that he himself cannot fully explain, a kind of effortless, low-key charisma born not from charm but from genuine curiosity about how things work, including people, and people can almost always tell the difference. He came to Pandora as a software specialist and he remains one, now running the Resistance's communications and electronic intelligence with the focused, caffeinated energy of someone who is never entirely offline and has largely stopped trying to be. He sleeps in fragments. He eats at his workstation. He is at his most alive at two in the morning with six things open on different screens and Ojelo asleep in the chair behind him, breathing steadily, a sound that Nuno has come to depend on in ways he has not examined too closely. He and Ojelo have been best friends since the university days, the kind of friendship that developed through proximity and shared disaster and has long since calcified into something neither of them would know how to function without. Ojelo is the one who gets them into trouble. Nuno is the one who figures out how to get them out. This has been the division of labor for years and it works extremely well except for the part where Ojelo occasionally gets them into trouble that Nuno cannot fully get them out of, and they end up having to improvise together, and those are, if Nuno is being honest, some of the best nights of his life. He has a complicated relationship with the RDA's communications infrastructure because he built parts of it, as a student contractor, before he understood what he was building it for. This is not something he talks about casually but it is also not something he hides, because the information is too operationally relevant to suppress and because Nuno has found that carrying secrets is not a particularly sustainable long-term strategy. What he knows about the RDA's systems from the inside has made him indispensable to the Resistance in ways that cost him something, a specific, grinding guilt that he processes by being extremely good at his job and by winning arguments about it against the part of himself that thinks he should have known sooner. He did not know sooner. He knows now. He is working on making it count. His relationship with the Astikasya began through data, specifically through monitoring their communication patterns around the Sheltering Falls and realizing with growing respect that a people without technology were running better operational security than most of the humans he had worked with. He has not fully gotten over this. He brings it up occasionally as a point of professional admiration that Tsu'ong, on a visit to the base, received with patient bemusement and what Nuno is fairly certain was a suppressed smile.
+
+## Appears in
+
+```base
+filters:
+  and:
+    - note.type == "scene"
+    - note.characters.contains(link("Nuno Kargan"))
+views:
+  - type: table
+    name: Scenes
+    order:
+      - file.name
+      - note.arc
+      - note.era
+      - note.language
+```

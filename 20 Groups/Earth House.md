@@ -1,0 +1,50 @@
+---
+type: "group"
+kind: "faction"
+aliases:
+  - "The Resistance"
+  - "The Resistance (Earth House)"
+---
+
+> [!info] Synopsis written 2026-11-12 from the notes in this vault. Nothing in it is new canon; gaps are listed under Still open.
+
+Earth House is the Sky People resistance against the RDA, led by Nika "Silver Hand" and based deep in the Clouded Forest *(Worldbuilding Reference)*. It is a strong ally of the Astikasya, with technology exchange, mutual defense and shared work on the ikran-mounted crossbow *(Worldbuilding Reference)*. Nika, who helped Tomori into her avatar body at RDA Sci-Ops, leads after Alma Cortez stepped down and contact with Jake Sully was lost *(Nika's profile)*. Before the Siege the group wore a shared mark and presented it to Eyfuwen and 'Ipxerey.
+### Who they are
+- [[Nika]]: leader, mechanic and engineer; former RDA Sci-Ops who lost her hand escaping; her wife Sabina Fardin is on Earth.
+- [[Chuchu]]: hot-headed fighter who knows Tomori from before Pandora; taught [[Tsu'lan]] boxing and [[Tsa'rawm]] curse words.
+- [[Aliya]]: diviner and peacekeeper who reads stones; averse to weapons.
+- [[Kobeni]]: intelligence asset, former RDA Sec-Ops; defected after the Delta-7 raid and Sänrri's Japanese; [[Lamaytxa]] calls her "funny for a pinkskin".
+- [[Miri Sugo]]: engineer and former RDA, defected at Bridgehead; rebuilding Nika's prosthetic.
+- [[Till Nys]]: quiet mechanic, third-year student; works with Miri without needing words.
+- [[Nuno Kargan]]: runs communications and electronic intelligence; best friend of Ojelo; built parts of RDA comms as a student contractor.
+- [[Ojelo Gabel]]: mechanic and the group's morale-maker; will not earn money through weapons.
+- [[Lilique Kadoka Lipati]]: logistics; organized the Siege resupply; will not handle firearms.
+- [[Martin Upmont]]: logistics and organization; reported Nika to the RDA, was forced out, and joined them.
+### What defines them
+The mark has two parts: a blackened right hand for allegiance to Nika, and cyan somewhere on the body or gear for Earth House *(The Mark of Earth House)*. 'Ipxerey told them, "You have made yourselves a clan. A clan of Sky People" *(The Mark of Earth House)*. Many arrived through RDA programs and left them: Nika, Kobeni, Miri, Martin, Nuno *(member profiles)*. Chuchu's shotgun blast outside the Falls, "THEY'RE CHILDREN," is the group's best-known Siege moment *(Siege of the Falls)*.
+### Still open
+- [x] The Mark note says "nine of them now instead of four" but names ten members, and it lists both [[Till]] (the dead ANAKT Recom) and [[Till Nys]]. **Ruled 2026-11-12:** Earth House has ten members. The stray link to the Recom Till is removed.
+- [x] Miri's note still says the Nine Spears ambushed him; the Rulings Log says that is not canon *(Rulings Log, Miri Sugo)*. **Ruled 2026-11-12:** noted on his page as not canon.
+- [ ] Where they live: the Worldbuilding Reference says deep in the Clouded Forest, The Thanator and the Slinger says the Resistance gets a place near the Falls, and the Siege note leaves Nika and Earth House at the Falls.
+- [ ] Which members took part in the Siege. The Siege note names only Nika, Chuchu, Kobeni and Aliya; the profiles of Till Nys and Lilique also describe it.
+- [ ] Lilique, Martin, Nuno, Ojelo and Till Nys have no role listed, so the member table is blank for them.
+
+## Members
+
+```base
+filters:
+  and:
+    - note.type == "character"
+    - file.inFolder("10 Characters")
+    - note.groups.contains(link("Earth House"))
+views:
+  - type: table
+    name: Members
+    order:
+      - file.name
+      - note.epithet
+      - note.role
+      - note.ikran
+      - note.status
+      - note.mbti
+```

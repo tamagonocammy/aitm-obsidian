@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("30 World")
+views:
+  - type: table
+    name: World
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - canon

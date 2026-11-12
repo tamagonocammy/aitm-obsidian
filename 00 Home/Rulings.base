@@ -1,0 +1,10 @@
+filters:
+  and:
+    - note.canon == "tentative"
+views:
+  - type: table
+    name: Waiting on a ruling
+    order:
+      - file.name
+      - note.type
+      - file.folder

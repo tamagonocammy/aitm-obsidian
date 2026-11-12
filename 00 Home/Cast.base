@@ -1,0 +1,44 @@
+filters:
+  and:
+    - note.type == "character"
+    - file.inFolder("10 Characters")
+properties:
+  file.name:
+    displayName: Name
+  note.navi_name:
+    displayName: Full Na'vi name
+  note.source_name:
+    displayName: Source
+  note.mbti:
+    displayName: MBTI
+views:
+  - type: table
+    name: Everyone
+    order:
+      - file.name
+      - navi_name
+      - family
+      - role
+      - ikran
+      - birthday
+      - mbti
+  - type: table
+    name: By family
+    groupBy:
+      property: family
+      direction: ASC
+    order:
+      - file.name
+      - role
+      - source_name
+      - source_series
+  - type: table
+    name: Nine Spears
+    filters:
+      and:
+        - note.groups.contains(link("Nine Spears of the Mists"))
+    order:
+      - file.name
+      - epithet
+      - weapon
+      - ikran

@@ -1,0 +1,108 @@
+---
+type: "arc"
+order: 2
+characters:
+  - "[[Rewon]]"
+  - "[[Tsa'rawm]]"
+  - "[[Atanvi]]"
+  - "[[Mìreya]]"
+  - "[[Sänrri]]"
+  - "[['Ipxerey]]"
+  - "[[Anake]]"
+  - "[[Rawìl]]"
+  - "[[Kaymi]]"
+  - "[[Lì'may]]"
+  - "[[Txewan]]"
+  - "[[Syulang]]"
+  - "[[Kayan]]"
+  - "[[Notä]]"
+  - "[[Mìyo]]"
+  - "[[Mìrì]]"
+  - "[[Netezu]]"
+  - "[[Tulìpey]]"
+  - "[[Eantu]]"
+status: "synopsis"
+canon: "confirmed"
+---
+> [!summary] Millie's summary of this arc (2026-11-12)
+> The Great Games of the Western Frontier take place, the children are conceived and born. One by one, she becomes a better tsakarem.
+
+> [!info] About this synopsis
+> Written 2026-11-12 from the notes already in this vault, with a source after each paragraph. It adds no new canon. Everything the files do not yet say is listed under **Still open**.
+
+## Synopsis
+
+The author's summary names the Great Games of the Western Frontier as the arc's main event. It says the children are conceived and born in the years that follow, and that [[Sänrri]] becomes a better tsakarem, one step at a time. *(author's summary)*
+
+The Great Games end on an afternoon at the Heart of the Plains, under the banners of the Western Frontier clans. The Astikasya win the archery competitions and impress the Zeswa with their dance-fighting. That evening, three young couples sit around a small fire, passing gourds of fermented zangke, a drink stronger than usual that year. *(scene: The Great Games Legacy, Part I)*
+
+[[Txewan]] and [[Syulang]] leave first to rest. The remaining couples are [[Atanvi]] with [[Mìreya]], and [[Rewon]] with [[Tsa'rawm]]. Rewon and Tsa'rawm leave the fire together, and Atanvi and Mìreya follow them into the dark. *(scene: The Great Games Legacy, Part I)*
+
+Several weeks later, life at [[Sheltering Falls]] has returned to its normal rhythm. Mìreya and Rewon both feel sick, and they meet on the path to [['Ipxerey]]'s healing hut. Sänrri is inside, organizing ceremonial supplies. 'Ipxerey confirms that both women are expecting, with the babies due around the same time. *(scene: The Great Games Legacy, Part II)*
+
+Mìreya and Rewon laugh and cry together. Sänrri says the news is new life born from celebration and joy. *(scene: The Great Games Legacy, Part II)*
+
+Fifteen years later, the clan mothers watch their children practice archery under [[Kayan]]'s strict instruction. [[Rawìl]] shoots with precision, and [[Anake]] shoots with more flair and commentary. Anake's show ends with him tangled in the practice rope. The mothers agree that they would not change the night at the Great Games. *(scene: The Great Games Legacy, Part III)*
+
+Rawìl and Anake are conceived on that night at the Heart of the Plains. The era notes name Atanvi and Mìreya as Rawìl's parents, and Tsa'rawm and Rewon as Anake's. *(Era: The Dreamwalker Years)*
+
+Sänrri is already bonded with [[Kaymi]] by then. [[Lì'may]] is rescued from an RDA facility and adopted by Kaymi and Sänrri. The era note leaves open whether the bonding came before or after Sänrri's consciousness transfer, and exactly when Lì'may was adopted. *(Era: The Dreamwalker Years)*
+
+Sänrri trains as tsakarem under 'Ipxerey. The character notes later call her 'Ipxerey's heir in spiritual leadership, and they describe her leading ceremonies with a voice that carries through the chambers of Sheltering Falls. *(Era: The Dreamwalker Years; character notes)*
+
+The Rulings Log says The Great Games Legacy belongs to this arc. It also places The Great Games second in the nine arcs, after A Torchlight. *(Rulings Log)*
+
+The Rulings Log also places Overcompensate outside this arc. Welcome Back to Trench is the Overcompensate scene, and it belongs to Prelude to Fire. *(Rulings Log)*
+
+## Who is in it
+
+- Sänrri: tsakarem in training under 'Ipxerey; bonded with Kaymi; adoptive mother of Lì'may. She is in the hut scene and does not appear at the fire.
+- 'Ipxerey: tsahìk; confirms the pregnancies in the healing hut.
+- Atanvi: Mìreya's mate; one of the two parents named for Rawìl; faints at the news in Part II only as a joke.
+- Mìreya: Atanvi's mate; pregnant in Part II; mother of [[Notä]] in the children's notes.
+- Rewon: Tsa'rawm's mate; pregnant in Part II; a parent of Anake in the Era note; the rest of her children are outside this arc.
+- Tsa'rawm: Rewon's mate; loud and boastful at the games; father of Anake in the children's notes.
+- Txewan: at the games with Syulang; leaves early; father of [[Netezu]] in the children's notes.
+- Syulang: at the games with Txewan; leaves early; mother of the twins [[Mìyo]] and [[Mìrì]] in the children's notes.
+- Kayan: stern archery instructor to the children in Part III.
+- Kaymi: bonded with Sänrri; named in the era notes; not in the scene.
+- Zeswa: the hosts of the Great Games; a Zeswa champion challenges Tsa'rawm in the racing.
+
+Children, with ages as given in the files:
+- Age 15: Rawìl, Anake, [[Tulìpey]], [[Eantu]]
+- Age 13: Notä, [[Nìla]]
+- Age 12: [[Kxayì]]
+- Age 11: [[Mawpay]]
+- Age 10: [[Lawarey]]
+- Age 9: [[Oarä]]
+- Age 8: Mìyo and Mìrì (twins)
+- Age 3: Lì'may
+- Age 1: Netezu
+
+## Still open
+
+- [ ] Who wins the racing competition. The scene has Tsa'rawm's mount overtaking the Zeswa champion in the final stretch, but no result is given.
+- [ ] How Sänrri becomes a better tsakarem, step by step. The files name no training stages for this arc.
+- [ ] Whether the Mangkwan captivity, the Toruk Makto meetings and the "Scaled and Icy" era fall inside this arc. The Rulings Log puts them in the story spine, but no excerpt dates them against The Great Games.
+- [ ] Rawìl's mother. The children's notes name Atanvi, while the scene makes Mìreya the pregnant one and calls Rawìl "her serious son". The Era note names both women, and it outranks the other two, so both stay as parents, but who carried him is not stated.
+- [ ] Rawìl's sister. Part III says he protects "his sister", but the children's notes give Notä to Mìreya and Rawìl to Atanvi, so they would not share a mother. No excerpt names this sister.
+- [ ] Txewan's place at the fire. The scene seats the three couples in a circle around their fire, then has Txewan speak from the neighboring fire. No excerpt says whether Txewan and Syulang conceived a child that night.
+- [ ] Children's ages. The Great Games fall about 15 years before the Siege. Conception then, plus about nine months to birth, puts Rawìl and Anake at about 14 years 3 months at the Siege, not 15. Part III's "Fifteen years later" has the same gap. Lì'may (age 3) would be born about three years before the Siege, so an adoption about 15 years before it cannot fit. The files do not say when the ages are counted.
+- [ ] Sänrri and Kaymi. The era note leaves open whether the bonding came before or after the transfer, and when Lì'may was adopted.
+- [ ] Other children. Tulìpey and Eantu are also age 15, but no excerpt names the night they were conceived.
+
+## Scenes
+
+```base
+filters:
+  and:
+    - note.type == "scene"
+    - note.arc == link("The Great Games")
+views:
+  - type: table
+    name: Scenes
+    order:
+      - file.name
+      - note.language
+      - note.status
+```

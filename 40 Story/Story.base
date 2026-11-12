@@ -1,0 +1,54 @@
+filters:
+  or:
+    - note.type == "arc"
+    - note.type == "era"
+    - note.type == "scene"
+views:
+  - type: table
+    name: Scenes
+    filters:
+      and:
+        - note.type == "scene"
+    order:
+      - file.name
+      - note.arc
+      - note.era
+      - note.language
+      - note.status
+      - note.canon
+  - type: table
+    name: Arcs
+    filters:
+      and:
+        - note.type == "arc"
+    order:
+      - note.order
+      - file.name
+      - note.era
+      - note.status
+  - type: table
+    name: Eras
+    filters:
+      and:
+        - note.type == "era"
+    order:
+      - note.order
+      - file.name
+  - type: table
+    name: Side stories
+    filters:
+      and:
+        - note.kind == "side story"
+    order:
+      - file.name
+      - note.language
+  - type: table
+    name: Needs placing
+    filters:
+      and:
+        - note.type == "scene"
+        - note.era == null
+        - note.kind != "side story"
+    order:
+      - file.name
+      - note.language
