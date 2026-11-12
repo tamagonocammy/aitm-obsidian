@@ -48,7 +48,7 @@ status: "outline"
 canon: "confirmed"
 ---
 > [!summary] Millie's summary of this arc (2026-11-12)
-> Oh, you already know.
+> In the air, are my People, fighting while I fight Luka, even though I'm past the point of no return, make my way to the depths, "Show yourself!" I yell louder, even though I'm past the point of no retu-
 
 > [!info] About this version
 > Renovated 2026-11-12. It merges the original summary with the Story Timeline and with Millie's rulings from November 2026. Nothing here is new invention: every line comes from one of those three. Where they disagree, the newer ruling is used and the disagreement is listed under **Still open**. The original summary is folded at the bottom, untouched.

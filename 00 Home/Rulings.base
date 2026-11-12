@@ -6,5 +6,5 @@ views:
     name: Waiting on a ruling
     order:
       - file.name
-      - note.type
+      - type
       - file.folder

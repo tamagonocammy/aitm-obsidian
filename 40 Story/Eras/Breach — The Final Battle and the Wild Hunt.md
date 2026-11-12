@@ -1,8 +1,8 @@
 ---
-type: "era"
+type: era
 order: 7
 aliases:
-  - "Breach"
+  - Breach
 characters:
   - "[[Luka]]"
   - "[[Sänrri]]"
@@ -17,11 +17,15 @@ characters:
   - "[[Yukeyo]]"
   - "[[Tsyokanì]]"
   - "[['Ipxerey]]"
-canon: "confirmed"
+canon: confirmed
 ---
+[!summary] Millie's summary of this era (2026-11-12)
+> "So few, so proud, so... emotional."
+> "Hello, Dr. Takamatsu" - Luka, the Strangler Fig
+
 *"City Walls" opens it.*
 
-**The final battle of the Siege: the Nine against Luka**, in the Cave of Truth. Luka takes Sänrri: "Hello, Dr. Takamatsu." This is AITM's "Nico and the Niners," and the first time all nine fight as nine. It reconciles the three older versions into one three-stage fight: Tsu'lan's "I'm you" moment; the full Nine striking together with the Scattered Ashes; and Kaymi and Sänrri at the center with "City Walls." The sacred pond runs red. Tsu'lan lets Luka go, and Luka escapes wounded: "There are many of us."
+**The final battle of the Siege: the Nine against Luka**, in the Cave of Truth. Luka takes Sänrri: "Hello, Dr. Takamatsu." This is AITM's coup de grâce, and the first time all nine fight as nine. It reconciles the three older versions into one three-stage fight: Tsu'lan's "I'm you" moment; the full Nine striking together with the Scattered Ashes; and Kaymi and Sänrri at the center with "City Walls." The sacred pond runs red. Tsu'lan lets Luka go, and Luka escapes wounded: "There are many of us."
 
 **Aftermath.** The clan rebuilds and argues over keeping the human weapons. Tìmeyo and Yawyay leave for the reef. Syayvi and Nì'syu stay, and Sìlpey is coming. Mizi wanders the mist guiding lost children home.
 

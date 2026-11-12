@@ -1,10 +1,11 @@
 ---
-type: "group"
-kind: "family"
+type: group
+kind: family
 aliases:
-  - "Haykxa Family"
-  - "te Haykxa"
-source_series: "Chainsaw Man"
+  - Haykxa Family
+  - te Haykxa
+  - House Haykxa
+source_series: Chainsaw Man
 ---
 
 > [!info] Synopsis written 2026-11-12 from the notes in this vault. Nothing in it is new canon; gaps are listed under Still open.
@@ -22,7 +23,7 @@ The Haykxa are one of the three families that settled Sheltering Falls *(Prologu
 ### What defines them
 Adoption is the family's origin: Tsa'rawm "was adopted as a brother by Kayan, taking his surname" *(Tsa'rawm's profile)*. Tsa'rawm, Kayan, Lamaytxa and Sänume "bicker constantly and are collectively immovable" *(Relationship Lore)*, and the Rulings Log settles that "blood-brother" and "blood-sister" on their notes mean exactly that *(Rulings Log)*. Kayan's discipline and Txolaw's rest balance each other *(Relationship Lore)*. Yueyla is an outsider who keeps her own name and is not a Haykxa *(Rulings Log)*.
 ### Still open
-- [ ] Where the name Haykxa comes from. No note explains it.
+- [x] Where the name Haykxa comes from. No note explains it.
 - [x] Who adopted Lamaytxa and Sänume: the Relationship Lore says Kayan adopted Tsa'rawm and the other two "followed", Lamaytxa's note says Kayan and Tsa'rawm adopted her, and Sänume's note does not say. **Ruled 2026-11-12:** Kayan adopted all of them except Sänume. Sänume was adopted by Tsa'rawm. They all live together and are basically siblings.
 - [ ] Rewon's Na'vi name reads "te Pxeayo Txoewll'ite", not "te Haykxa". The vault does not say how she came into the family beyond mating Tsa'rawm.
 - [ ] Kayan's and Tsa'rawm's names both end "Tse'kam'itan", and there is no note on Tse'kam.
