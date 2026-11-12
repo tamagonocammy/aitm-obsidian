@@ -4,8 +4,9 @@ aliases:
   - "Yuta Okkotsu"
   - "Yuta"
   - "Okkotsu"
+  - "Tsyokanì te Okxa Yutil'itan"
   - "Tsyokanì te Okka Yutil'itan"
-navi_name: "Tsyokanì te Okka Yutil'itan"
+navi_name: "Tsyokanì te Okxa Yutil'itan"
 source_name: "Yuta Okkotsu"
 source_series: "Jujutsu Kaisen"
 ikran: "Hayu"
@@ -15,6 +16,8 @@ canon: "confirmed"
 ---
 
 ## Profile
+
+**Status:** Clanless. Known across the Western Frontier as the Ghost of the Northern Ravines. *(Master List_cleaned; restored 2026-11-12)*
 
 **Personality:** Quiet, contained, and precise, Tsyokanì moves through the world with the economy of someone who has long since stopped wasting energy on anything unnecessary. He does not perform. He does not perform calm, or confidence, or indifference, what you see is simply what is there, and what is there is a Na'vi who decided something a long time ago and has been living inside that decision ever since. Clans on the Western Frontier speak of him in the same breath as ghost stories and warnings: a fighter who appears alone in the Northern Ravines, who cuts through Mangkwan and RDA forces with unsettling precision, who leaves almost no evidence he was there. He did not name himself the Ghost. He finds the name neither accurate nor wrong.
 
@@ -53,6 +56,10 @@ He arrives at the Astikasya as someone who has not had a home in a very long tim
   
 
 He is learning, slowly, that being known is not the same as being in danger.
+
+## Notes
+
+- **Okxa**, not Okka: ruled by Millie, 2026-11-12. The archived files disagreed (Local_Only_Core AITM_00 has Okxa, Master List_cleaned has Okka). The old spelling stays as an alias.
 
 ## Appears in
 

@@ -81,6 +81,17 @@ Full detail, with the proposals and open questions kept apart, is on [[Ambition 
 - These identities and the founding belong to AITM, not to the official *Avatar* canon.
 - Not ruled, and not to be invented: founding dates, the generations in between, the circumstances of the founding, their looks as living Na'vi, and whether the two knew each other in life.
 
+## Ruled on 2026-11-12: after the full proof review
+
+From Millie's answers to the classification in `60 Meta/_admin/full-proof-classification-20261112.txt`.
+
+- Tsa'rawm lost his left eye to a thanator, a different one from any other thanator in the files. His eye patch is canon (carved bone, bioluminescent clan markings, made by Zìsaw and Txolaw). See [[Tsa'rawm]].
+- Tsyokanì is clanless, known across the Western Frontier as the Ghost of the Northern Ravines.
+- Tsyokanì's Na'vi name is Tsyokanì te **Okxa** Yutil'itan, not Okka.
+- Mawpay's source given name is Mirei, not Misuzu.
+- Syulang's source name is Ikuyo Gotou: she is married to a woman, Txewan (Hitori Gotou), and took her name.
+- Sänrri's source name is Tomori Samaya. By Japanese naming a married couple shares one surname, and the Samaya are much wealthier than the Takamatsu.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

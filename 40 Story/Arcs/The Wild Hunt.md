@@ -80,7 +80,7 @@ The Hunt assembles through convergence, not planning. Each person arrives at the
 | Rider | Na'vi name | Ikran | Role in the Hunt |
 |---|---|---|---|
 | Tsu'lan (Itadori Yuji) | Tsu'lan te Palu'vul Sayran'itan | Kxatu | The Hunt itself. The vow made flesh. |
-| Tsyokanì (Yuta Okkotsu) | Tsyokanì te Okka Yutil'itan | Hayu | The blade. The Ghost who was already in the field. |
+| Tsyokanì (Yuta Okkotsu) | Tsyokanì te Okxa Yutil'itan | Hayu | The blade. The Ghost who was already in the field. |
 | Yukeyo (Yuko Ozawa) | Yukeyo te Hì'tayo Rewni'ite | Syäwem | The tracker. The one who knows the terrain. |
 | Teysaw (Maka Albarn) | Teysaw te Herwì Kami'ite | Sìkaya | Navigation. Reads every welcome and every warning. |
 | Txokän (Soul Evans) | Txokän te Ivansì Evar'itan | Relvä | Stillness before something matters. |

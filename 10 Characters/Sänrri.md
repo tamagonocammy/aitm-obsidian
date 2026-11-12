@@ -1,6 +1,7 @@
 ---
 type: character
 aliases:
+  - Tomori Samaya
   - Tomori Samaya-Takamatsu
   - Tomori
   - Tomori Takamatsu
@@ -8,7 +9,7 @@ aliases:
   - Sänrri te Tsawtral Tanhì'ite
   - Clancy
 navi_name: Sänrri te Tsawtral Tanhì'ite
-source_name: Tomori Samaya-Takamatsu
+source_name: Tomori Samaya
 source_series: BanG Dream! It's MyGO!!!!!
 family: "[[Samaya]]"
 groups:
@@ -80,6 +81,7 @@ Voice notes: [[Astikasya Accent Reference#Sänrri te Tsawtral Tanhì'ite]]
 
 ## Notes
 
+- **Tomori Samaya**: her married name, ruled by Millie, 2026-11-12. Japanese naming gives a couple one surname, and the Samaya are far wealthier than the Takamatsu, so she takes theirs. Takamatsu stays her birth name (高松 燈). Earlier source name: *Tomori Samaya-Takamatsu*; the rosters had *Tomori Takamatsu-Samaya*.
 - **Towa** (her ikran): the name is Japanese but sounds Na'vi as well, and it is a Hololive reference (TMT). Ruled by Millie, 2026-11-11; the Character Database's *Zìsya* is superseded.
 
 ## Appears in
