@@ -11,6 +11,10 @@ groups:
 ikran: "Txewm"
 birthday: "February 18"
 mbti: "INFP — The Mediator"
+gender: 
+pronouns:
+  - "they/them"
+transition: 
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ ikran: "Keyna"
 birthday: "August 9"
 age: "Adult"
 mbti: "INTP — The Thinker"
+gender: 
+pronouns:
+  - "he/him"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

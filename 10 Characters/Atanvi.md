@@ -17,6 +17,10 @@ ikran: "Payri"
 birthday: "April 9"
 age: "Adult"
 mbti: "ISFJ — The Defender"
+gender: 
+pronouns:
+  - "she/her"
+transition: "Through the Eye of Eywa, together with Txewan"
 canon: "confirmed"
 ---
 

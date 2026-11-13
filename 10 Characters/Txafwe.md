@@ -14,6 +14,10 @@ ikran: "Tximya"
 birthday: "April 7"
 age: "Adult"
 mbti: "ISTP — The Virtuoso"
+gender: "trans man"
+pronouns:
+  - "he/him"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

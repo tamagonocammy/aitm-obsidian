@@ -11,6 +11,14 @@ properties:
     displayName: Source
   note.mbti:
     displayName: MBTI
+  note.gender:
+    displayName: Gender
+  note.pronouns:
+    displayName: Pronouns
+  note.transition:
+    displayName: Transition
+  note.canon:
+    displayName: Canon status
 views:
   - type: table
     name: Everyone
@@ -42,3 +50,15 @@ views:
       - epithet
       - weapon
       - ikran
+  - type: table
+    name: Gender & Pronouns
+    groupBy:
+      property: gender
+      direction: ASC
+    order:
+      - file.name
+      - source_name
+      - gender
+      - pronouns
+      - transition
+      - canon

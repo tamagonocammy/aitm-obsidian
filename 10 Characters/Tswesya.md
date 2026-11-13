@@ -13,6 +13,10 @@ ikran: "Lokxtu"
 birthday: "September 18"
 age: "Adult"
 mbti: "INTP — The Thinker"
+gender: 
+pronouns:
+  - "they/them"
+transition: 
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ ikran: "Lurtu"
 birthday: "September 28"
 age: "Adult"
 mbti: "ESFP — The Entertainer"
+gender: 
+pronouns:
+  - "she/her"
+transition: "Through the Eye of Eywa, years before Atanvi and Txewan"
 canon: "confirmed"
 ---
 

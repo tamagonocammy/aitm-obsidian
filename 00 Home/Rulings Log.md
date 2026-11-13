@@ -92,6 +92,17 @@ From Millie's answers to the classification in `60 Meta/_admin/full-proof-classi
 - Syulang's source name is Ikuyo Gotou: she is married to a woman, Txewan (Hitori Gotou), and took her name.
 - Sänrri's source name is Tomori Samaya. By Japanese naming a married couple shares one surname, and the Samaya are much wealthier than the Takamatsu.
 
+## Ruled on 2026-11-12: gender and pronouns
+
+From Millie's brief for the gender and pronoun metadata. The working list of open questions is `60 Meta/_admin/gender-pronoun-review-20261112.md`.
+
+- Rängay (Taki Shiina) is a trans woman. She transitioned through the Eye of Eywa.
+- Txafwe (Umiri Yahata) is a trans man. He transitioned through the Eye of Eywa.
+- Rängay and Txafwe are mates, and their relationship is ST4T.
+- Character notes carry three separate properties: `gender`, `pronouns` (a list) and `transition`. They are independent of one another.
+- A blank value means "not established." It never means cisgender. Gender is never inferred from pronouns, appearance, anatomy, the source franchise or a Na'vi name, and a source character's identity does not decide the AITM character's.
+- Not every trans character transitioned through the Eye of Eywa; `transition` records only what the files or Millie say.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

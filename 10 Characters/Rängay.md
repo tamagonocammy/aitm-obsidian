@@ -14,6 +14,10 @@ ikran: "'Eyeng"
 birthday: "August 9"
 age: "Adult"
 mbti: "ISTJ — The Logistician"
+gender: "trans woman"
+pronouns:
+  - "she/her"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 
