@@ -1,27 +1,27 @@
 ---
-type: "character"
+type: character
 aliases:
-  - "Kerevi"
-  - "Mutsumi Togawa"
-  - "Mutsumi"
-  - "Mortis"
-  - "Tìmeyo te Kilvay Luey'ite"
-navi_name: "Tìmeyo te Kilvay Luey'ite"
+  - Kerevi
+  - Mutsumi Togawa
+  - Mutsumi
+  - Mortis
+  - Tìmeyo te Kilvay Luey'ite
+navi_name: Tìmeyo te Kilvay Luey'ite
 source_name: "Mutsumi Togawa (Kerevi: Mortis)"
-source_series: "BanG Dream! Ave Mujica"
+source_series: BanG Dream! Ave Mujica
 groups:
   - "[[The Scattered Ashes]]"
-role: "Scattered Ashes member"
-ikran: "Fe'pey"
-birthday: "January 14"
-age: "Adult"
-mbti: "INTP — The Thinker"
-gender:
+role: Scattered Ashes member
+ikran: Fe'pey
+birthday: January 14
+age: Adult
+mbti: INTP — The Thinker
+gender: cis woman (Tìmeyo); Kerevi is Kerevi
 pronouns:
-  - "she/her (Tìmeyo)"
-  - "they/them (Kerevi)"
+  - she/her (Tìmeyo)
+  - they/them (Kerevi)
 transition:
-canon: "confirmed"
+canon: confirmed
 ---
 
 > [!abstract] At a glance

@@ -4,7 +4,7 @@ aliases:
   - "Rulings"
   - "Canon decisions"
 ---
-Millie's canon decisions, newest thinking first within each section. When an older document disagrees with a line here, this log wins. Add a dated line whenever you rule on something.
+[]()Millie's canon decisions, newest thinking first within each section. When an older document disagrees with a line here, this log wins. Add a dated line whenever you rule on something.
 
 ## The story's spine (November 2026)
 
@@ -103,6 +103,8 @@ From Millie's brief for the gender and pronoun metadata. The working list of ope
 - Name endings: -'itan is for sons, -'ite for daughters, and **-'itu is for nonbinary people**.
 - Every trans Na'vi character transitioned through the Eye of Eywa: Txewan, Atanvi, Rängay, Apayì, Tìfyaw, Zìsaw, Txafwe, Txolaw, Tswesya and Oarä. The one exception is Roneyu, who is Mangkwan-born and did not.
 - Oarä (Runa) is nonbinary and uses she/they. Kerevi uses they/them; Tìmeyo uses she/her.
+- Oarä's full name is **Oarä te Hafyon Katirì'itu**, following the -'itu rule (it was Katirì'ite). The old form stays as an alias; [[MBTI Reference]] is a carried original and keeps it.
+- Tìmeyo is a cis woman. Kerevi is Kerevi: no other gender label applies.
 - Every character not on the trans list is cis. Their notes record cis woman or cis man with the pronouns their profiles already use, approved by Millie in bulk.
 - Character notes carry three separate properties: `gender`, `pronouns` (a list) and `transition`. They are independent of one another.
 - A blank value means "not established." It never means cisgender. Gender is never inferred from pronouns, appearance, anatomy, the source franchise or a Na'vi name, and a source character's identity does not decide the AITM character's.

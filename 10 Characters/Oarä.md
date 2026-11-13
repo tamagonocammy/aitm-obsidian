@@ -3,8 +3,9 @@ type: "character"
 aliases:
   - "Runa Ijichi"
   - "Runa"
+  - "Oarä te Hafyon Katirì'itu"
   - "Oarä te Hafyon Katirì'ite"
-navi_name: "Oarä te Hafyon Katirì'ite"
+navi_name: "Oarä te Hafyon Katirì'itu"
 source_name: "Runa Ijichi"
 source_series: "Original character"
 credit: "Millie"
@@ -20,7 +21,7 @@ canon: "confirmed"
 ---
 
 > [!abstract] At a glance
-> **Family:** Daughter of [[Tswesya]] & [[Katirì]]
+> **Family:** Child of [[Tswesya]] & [[Katirì]]
 > **Key Traits:** Nature-obsessed wildchild. Nonchalant [[Tswesya]] energy. Treats death-defying exploration casually. Appears/disappears like forest spirit from impossible heights. Few words, sharp observations. "Show don't tell" philosophy like [[Pamyaw]]. Fearless toward Pandora's dangers - scales peaks, investigates thanator dens. Skittish around humans (exception: [[Sänrri]]). Dreams of ikran bond conflicts with fierce independence. Inherited Katirì's rhythm love - taps complex beats on rocks/logs. Waynhì's protective concern intimidating to free spirit. Comfort in parents' presence while pushing boundaries. Legend among clan children. Unaware of Mìrì's hidden crush - views extra kindness as simple friendship, more interested in perfect drumming stone [[Mìrì]] found.
 
 ## Profile
