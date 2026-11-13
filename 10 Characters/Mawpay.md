@@ -11,6 +11,10 @@ credit: "Millie"
 birthday: "February 9"
 age: "11"
 mbti: "ISTJ — The Logistician"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

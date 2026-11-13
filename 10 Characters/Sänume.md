@@ -13,6 +13,10 @@ ikran: "Payarä"
 birthday: "December 14"
 age: "Adult (young adult)"
 mbti: "ESTP — The Dynamo"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

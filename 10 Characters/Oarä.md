@@ -11,6 +11,11 @@ credit: "Millie"
 birthday: "December 12"
 age: "9"
 mbti: "ISTP — The Virtuoso"
+gender: "nonbinary"
+pronouns:
+  - "she/her"
+  - "they/them"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

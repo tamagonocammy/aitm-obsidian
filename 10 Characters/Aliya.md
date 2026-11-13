@@ -7,6 +7,10 @@ groups:
   - "[[Earth House]]"
 role: "Diviner & Peacekeeper"
 mbti: "INFJ — The Advocate"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

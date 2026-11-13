@@ -7,6 +7,12 @@ characters:
   - "[[Txewan]]"
   - "[[Tìfyaw]]"
   - "[[Txolaw]]"
+  - "[[Rängay]]"
+  - "[[Txafwe]]"
+  - "[[Apayì]]"
+  - "[[Zìsaw]]"
+  - "[[Tswesya]]"
+  - "[[Oarä]]"
 canon: "confirmed"
 ---
 **Process:** Sacred spiritual and physical transformation
@@ -16,6 +22,14 @@ canon: "confirmed"
 - Txewan (with Atanvi)  
 - Tìfyaw (years prior)
 - Txolaw
+- Rängay
+- Txafwe
+- Apayì
+- Zìsaw
+- Tswesya
+- Oarä
+
+Every trans Na'vi character in AITM came to themself this way. The one exception is Roneyu, who is Mangkwan-born (ruled 2026-11-12; see [[Rulings Log]]).
 
 **Method:**
 - Journey to Eye of Eywa

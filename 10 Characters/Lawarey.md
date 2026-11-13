@@ -11,6 +11,10 @@ credit: "Millie"
 birthday: "October 10"
 age: "10"
 mbti: "INFJ — The Advocate"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

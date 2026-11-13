@@ -10,6 +10,10 @@ epithet: "The Nightshade"
 role: "Second-in-Command/Joy Warrior"
 mbti: "ESTP — The Dynamo"
 status: "Deceased"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

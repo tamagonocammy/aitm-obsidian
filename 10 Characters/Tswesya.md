@@ -13,10 +13,10 @@ ikran: "Lokxtu"
 birthday: "September 18"
 age: "Adult"
 mbti: "INTP — The Thinker"
-gender: 
+gender: "nonbinary"
 pronouns:
   - "they/them"
-transition: 
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

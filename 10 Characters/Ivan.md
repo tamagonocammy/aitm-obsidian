@@ -10,6 +10,10 @@ epithet: "The Scolopendra"
 role: "Strategic Tactician"
 mbti: "INTJ — The Architect"
 status: "Deceased"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

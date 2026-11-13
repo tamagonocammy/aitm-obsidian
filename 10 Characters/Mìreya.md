@@ -13,6 +13,10 @@ ikran: "Tsawla"
 birthday: "May 7"
 age: "Adult"
 mbti: "INTJ — The Architect"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

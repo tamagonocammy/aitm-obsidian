@@ -13,6 +13,10 @@ groups:
 ikran: "Relvä"
 birthday: "November 4"
 mbti: "ISTP — The Virtuoso"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

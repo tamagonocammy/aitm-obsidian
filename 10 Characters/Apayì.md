@@ -15,6 +15,10 @@ ikran: "Fiay"
 birthday: "September 8"
 age: "Adult"
 mbti: "ESFJ — The Consul"
+gender: "trans woman"
+pronouns:
+  - "she/her"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

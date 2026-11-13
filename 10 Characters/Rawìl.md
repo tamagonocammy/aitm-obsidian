@@ -14,6 +14,10 @@ ikran: "Telisi"
 birthday: "November 16"
 age: "15"
 mbti: "INTJ — The Architect"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

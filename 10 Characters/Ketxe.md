@@ -16,6 +16,10 @@ ikran: "Kxäng"
 birthday: "September 30"
 age: "Adult"
 mbti: "ENTP — The Debater"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

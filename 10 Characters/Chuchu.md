@@ -8,6 +8,10 @@ groups:
   - "[[Earth House]]"
 role: "Hot-headed Fighter"
 mbti: "ESFP — The Entertainer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

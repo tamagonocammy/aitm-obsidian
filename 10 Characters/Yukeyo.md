@@ -11,6 +11,10 @@ source_series: "Jujutsu Kaisen"
 ikran: "Syäwem"
 birthday: "January 10"
 mbti: "ENFJ — The Protagonist"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

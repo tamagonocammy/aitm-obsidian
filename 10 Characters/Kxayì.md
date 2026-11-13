@@ -14,6 +14,10 @@ ikran: "Nimun"
 birthday: "October 18"
 age: "12"
 mbti: "ESFP — The Entertainer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -10,6 +10,10 @@ epithet: "The Clematis"
 role: "Silent Assassin"
 mbti: "INFJ — The Advocate"
 status: "Deceased"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

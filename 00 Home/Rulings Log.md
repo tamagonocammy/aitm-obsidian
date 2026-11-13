@@ -99,6 +99,11 @@ From Millie's brief for the gender and pronoun metadata. The working list of ope
 - Rängay (Taki Shiina) is a trans woman. She transitioned through the Eye of Eywa.
 - Txafwe (Umiri Yahata) is a trans man. He transitioned through the Eye of Eywa.
 - Rängay and Txafwe are mates, and their relationship is ST4T.
+- Millie's full list of trans characters, by source name: Hitori, Suletta, Taki, Anon, Kikuri, PA-san, Umiri, Angel, Crona, Ryou and Runa. Of them, Umiri and Angel are trans men; Ryou, Runa and Crona are nonbinary; the rest are trans women. In AITM names: Txewan, Atanvi, Rängay, Apayì, Tìfyaw and Zìsaw are trans women; Txafwe and Txolaw are trans men; Tswesya, Oarä and Roneyu are nonbinary.
+- Name endings: -'itan is for sons, -'ite for daughters, and **-'itu is for nonbinary people**.
+- Every trans Na'vi character transitioned through the Eye of Eywa: Txewan, Atanvi, Rängay, Apayì, Tìfyaw, Zìsaw, Txafwe, Txolaw, Tswesya and Oarä. The one exception is Roneyu, who is Mangkwan-born and did not.
+- Oarä (Runa) is nonbinary and uses she/they. Kerevi uses they/them; Tìmeyo uses she/her.
+- Every character not on the trans list is cis. Their notes record cis woman or cis man with the pronouns their profiles already use, approved by Millie in bulk.
 - Character notes carry three separate properties: `gender`, `pronouns` (a list) and `transition`. They are independent of one another.
 - A blank value means "not established." It never means cisgender. Gender is never inferred from pronouns, appearance, anatomy, the source franchise or a Na'vi name, and a source character's identity does not decide the AITM character's.
 - Not every trans character transitioned through the Eye of Eywa; `transition` records only what the files or Millie say.

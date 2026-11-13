@@ -4,6 +4,10 @@ source_series: "Mobile Suit Gundam: The Witch from Mercury"
 groups:
   - "[[Earth House]]"
 birthday: "March 22"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

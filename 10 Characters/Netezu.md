@@ -12,6 +12,10 @@ family: "[[Ngotxì]]"
 role: "Baby"
 birthday: "September 7"
 age: "1"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

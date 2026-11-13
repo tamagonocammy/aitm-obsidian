@@ -14,6 +14,10 @@ ikran: "Säno"
 birthday: "February 1"
 age: "8 (twins)"
 mbti: "ENFP — The Campaigner"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

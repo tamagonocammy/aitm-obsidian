@@ -19,6 +19,10 @@ ikran: Towa
 birthday: November 22
 age: Adult
 mbti: INFP — The Mediator
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: confirmed
 ---
 

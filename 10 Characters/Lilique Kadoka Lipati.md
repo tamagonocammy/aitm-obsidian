@@ -4,6 +4,10 @@ source_series: "Mobile Suit Gundam: The Witch from Mercury"
 groups:
   - "[[Earth House]]"
 birthday: "February 28"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

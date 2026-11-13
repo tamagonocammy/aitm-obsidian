@@ -11,6 +11,10 @@ groups:
 ikran: "Srakat"
 birthday: "August 3"
 mbti: "ESFP — The Entertainer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -12,6 +12,10 @@ epithet: The Strangler Fig
 role: True Leader/Manipulator
 mbti: INFJ — The Advocate
 status: Deceased (dies at the end of the Wild Hunt)
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: confirmed
 ---
 

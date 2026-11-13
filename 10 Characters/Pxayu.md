@@ -14,6 +14,10 @@ ikran: "Awsun"
 birthday: "May 27"
 age: "Adult"
 mbti: "ISFJ — The Defender"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

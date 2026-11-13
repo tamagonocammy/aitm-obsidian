@@ -12,6 +12,10 @@ groups:
 ikran: "Tsyeri"
 birthday: "May 2"
 mbti: "ENFP — The Campaigner"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ ikran: "Moey"
 birthday: "March 3"
 age: "Elder"
 mbti: "ISFJ — The Defender"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

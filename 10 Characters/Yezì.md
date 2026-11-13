@@ -12,6 +12,10 @@ groups:
 ikran: "Folrä"
 birthday: "May 2"
 mbti: "ISFP — The Adventurer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

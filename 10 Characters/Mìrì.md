@@ -14,6 +14,10 @@ ikran: "Kxarä"
 birthday: "February 1"
 age: "8 (twins)"
 mbti: "INFP — The Mediator"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

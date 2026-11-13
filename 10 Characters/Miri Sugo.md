@@ -8,6 +8,10 @@ groups:
   - "[[Earth House]]"
 role: "Engineer & Intelligence Asset (Former RDA)"
 mbti: "ESFP — The Entertainer"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

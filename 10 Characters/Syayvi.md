@@ -18,6 +18,10 @@ ikran: "Tìfnu"
 birthday: "February 14"
 age: "Adult"
 mbti: "ENFJ — The Protagonist"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

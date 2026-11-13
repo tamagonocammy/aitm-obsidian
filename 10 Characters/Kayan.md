@@ -13,6 +13,10 @@ ikran: "Tswalay"
 birthday: "November 11"
 age: "Adult"
 mbti: "ISTJ — The Logistician"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -12,6 +12,10 @@ ikran: "Ìley"
 birthday: "August 13"
 age: "13"
 mbti: "ISFP — The Adventurer"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

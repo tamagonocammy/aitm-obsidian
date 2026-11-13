@@ -8,6 +8,10 @@ groups:
   - "[[Earth House]]"
 role: "Intelligence Asset (Former RDA Sec-Ops)"
 mbti: "ISFJ — The Defender"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

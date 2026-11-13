@@ -13,6 +13,10 @@ ikran: "Fenwì"
 birthday: "January 29"
 age: "Adult"
 mbti: "ESFP — The Entertainer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -8,6 +8,10 @@ source_name: "Himeno"
 source_series: "Chainsaw Man"
 ikran: "Eywll"
 birthday: "January 17"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

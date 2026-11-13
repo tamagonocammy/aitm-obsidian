@@ -14,6 +14,10 @@ ikran: "Tsyìra"
 birthday: "March 15"
 age: "15"
 mbti: "ENTJ — The Commander"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

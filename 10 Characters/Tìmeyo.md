@@ -16,6 +16,11 @@ ikran: "Fe'pey"
 birthday: "January 14"
 age: "Adult"
 mbti: "INTP — The Thinker"
+gender:
+pronouns:
+  - "she/her (Tìmeyo)"
+  - "they/them (Kerevi)"
+transition:
 canon: "confirmed"
 ---
 

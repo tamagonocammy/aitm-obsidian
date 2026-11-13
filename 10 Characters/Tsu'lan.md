@@ -17,6 +17,10 @@ ikran: "Kxatu"
 birthday: "March 20"
 age: "Adult"
 mbti: "ISFP — The Adventurer"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -17,6 +17,10 @@ ikran: "Hawnyu"
 birthday: "June 26"
 age: "Adult"
 mbti: "INFJ — The Advocate"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

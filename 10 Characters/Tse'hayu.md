@@ -13,6 +13,10 @@ ikran: "Ìkìtä'"
 birthday: "March 3"
 age: "Elder"
 mbti: "ISFP — The Adventurer"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -17,6 +17,10 @@ ikran: "Eykran"
 birthday: "September 12"
 age: "Adult"
 mbti: "ESTP — The Dynamo"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

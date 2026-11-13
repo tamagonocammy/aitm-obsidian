@@ -13,6 +13,10 @@ groups:
 ikran: "Nawra"
 birthday: "March 7"
 mbti: "ISFJ — The Defender"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

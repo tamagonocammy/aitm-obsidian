@@ -11,6 +11,10 @@ ikran: "Mìktu"
 birthday: "November 11"
 age: "Adult"
 mbti: "INFJ — The Advocate"
+gender: "trans woman"
+pronouns:
+  - "she/her"
+transition: "Through the Eye of Eywa"
 canon: "confirmed"
 ---
 

@@ -14,6 +14,10 @@ ikran: "Temek"
 birthday: "June 1"
 age: "13"
 mbti: "ENTP — The Debater"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -11,10 +11,10 @@ groups:
 ikran: "Txewm"
 birthday: "February 18"
 mbti: "INFP — The Mediator"
-gender: 
+gender: "nonbinary"
 pronouns:
   - "they/them"
-transition: 
+transition: "Not through the Eye of Eywa (Mangkwan-born)"
 canon: "confirmed"
 ---
 

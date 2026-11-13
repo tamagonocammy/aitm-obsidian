@@ -10,6 +10,10 @@ epithet: "The Thornbriar"
 role: "Demolitions/Berserker"
 mbti: "ISFP — The Adventurer"
 status: "Deceased"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -15,6 +15,10 @@ ikran: "Yawntu"
 birthday: "June 1"
 age: "Adult"
 mbti: "ENTJ — The Commander"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

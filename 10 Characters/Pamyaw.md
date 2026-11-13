@@ -15,6 +15,10 @@ ikran: "Frrsay"
 birthday: "February 22"
 age: "Adult"
 mbti: "ISFP — The Adventurer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

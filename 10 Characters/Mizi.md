@@ -10,6 +10,10 @@ epithet: "The Witch"
 role: "Protector"
 mbti: "ESFJ — The Consul"
 status: "Defected/wandering"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

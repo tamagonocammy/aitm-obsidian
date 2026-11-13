@@ -14,6 +14,10 @@ ikran: "Pxayvi"
 birthday: "March 15"
 age: "15"
 mbti: "ESTP — The Dynamo"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

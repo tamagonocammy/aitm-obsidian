@@ -13,6 +13,10 @@ ikran: "Torya"
 birthday: "March 13"
 age: "Elder"
 mbti: "ENFJ — The Protagonist"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

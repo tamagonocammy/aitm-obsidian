@@ -12,6 +12,10 @@ ikran: "Txi'ra"
 birthday: "December 24"
 age: "Adult"
 mbti: "ISTJ — The Logistician"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

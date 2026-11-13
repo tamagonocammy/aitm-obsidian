@@ -14,6 +14,10 @@ ikran: "Faylu"
 birthday: "November 23"
 age: "15"
 mbti: "ENTP — The Debater"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ ikran: "Sìltu"
 birthday: "July 7"
 age: "Young adult"
 mbti: "ENFP — The Campaigner"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ role: "\"Strongest Warrior on Pandora\" (self-proclaimed)"
 birthday: "September 9"
 age: "3"
 mbti: "ESFP — The Entertainer"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

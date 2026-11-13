@@ -18,6 +18,10 @@ ikran: "Räyä"
 birthday: "July 13"
 age: "Adult"
 mbti: "INTP — The Thinker"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -13,6 +13,10 @@ groups:
 ikran: "Sìkaya"
 birthday: "December 28"
 mbti: "ESTJ — The Executive"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

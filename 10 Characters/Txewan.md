@@ -18,7 +18,7 @@ ikran: "Kxeyo"
 birthday: "February 21"
 age: "Adult"
 mbti: "INFP — The Mediator"
-gender: 
+gender: "trans woman"
 pronouns:
   - "she/her"
 transition: "Through the Eye of Eywa, together with Atanvi"

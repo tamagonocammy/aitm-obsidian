@@ -11,6 +11,10 @@ groups:
 ikran: "Kxì've"
 birthday: "September 13"
 mbti: "ISTJ — The Logistician"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -11,6 +11,10 @@ groups:
 ikran: "Txampì"
 birthday: "August 11"
 mbti: "ESFP — The Entertainer"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

@@ -12,6 +12,10 @@ source_series: "Jujutsu Kaisen"
 ikran: "Hayu"
 birthday: "March 7"
 mbti: "INFJ — The Advocate"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

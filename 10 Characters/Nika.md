@@ -9,6 +9,10 @@ groups:
 role: "Resistance Leader, Mechanic & Engineer"
 ikran: "Morrigan"
 mbti: "INTJ — The Architect"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

@@ -17,6 +17,10 @@ ikran: "Nìwak"
 birthday: "October 2"
 age: "Adult"
 mbti: "ESTP — The Dynamo"
+gender: "cis man"
+pronouns:
+  - "he/him"
+transition:
 canon: "confirmed"
 ---
 

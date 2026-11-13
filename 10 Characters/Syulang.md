@@ -13,6 +13,10 @@ ikran: "Kxarì"
 birthday: "April 21"
 age: "Adult"
 mbti: "ESFJ — The Consul"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 

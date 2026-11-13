@@ -12,6 +12,10 @@ ikran: "Peynu"
 birthday: "May 29"
 age: "Adult"
 mbti: "ENFJ — The Protagonist"
+gender: "cis woman"
+pronouns:
+  - "she/her"
+transition:
 canon: "confirmed"
 ---
 
