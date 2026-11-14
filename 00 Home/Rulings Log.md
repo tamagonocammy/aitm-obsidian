@@ -110,6 +110,17 @@ From Millie's brief for the gender and pronoun metadata. The working list of ope
 - A blank value means "not established." It never means cisgender. Gender is never inferred from pronouns, appearance, anatomy, the source franchise or a Na'vi name, and a source character's identity does not decide the AITM character's.
 - Not every trans character transitioned through the Eye of Eywa; `transition` records only what the files or Millie say.
 
+## Ruled on 2026-11-14: the Nine when drunk
+
+Accepted from `_inbox/2026-11-14 Drunk Personalities of the Nine.md`. These apply wherever the characters drink, main story or derivative stories. Each line is also on that character's note.
+
+- Biggest change to smallest, among the Nine: Txewan, Atanvi, Rewon, Ketxe, Tsu'ong, Tsu'lan, Kaymi, Tsa'rawm. Syayvi drinks only in the flashback arc; in the Siege era she is pregnant and does not.
+- Txewan turns into Tìfyaw when drunk, losing her stutter as she does when performing; that is why she drinks so slowly.
+- Atanvi loses her stutter and gives speeches; Mìreya's voice brings it back. Rewon turns giggly and soft about Tsa'rawm and denies it in the morning. Ketxe happily explains explosives while the circle moves the fire away. Tsu'ong retells his duel, with deeper mud each time. Tsu'lan falls asleep sitting up mid arm-wrestle and cannot be moved. Kaymi goes sentimental and denies it. Tsa'rawm only gets louder, then sincere.
+- Mates: Mìreya lists Atanvi's virtues in strategic detail; Sänrri explains everything thoroughly and sings; Syulang organizes everyone, then cries with pride over Txewan; Nì'syu's serene mask holds perfectly.
+- Siblings: Kayan cries over each sibling; Lamaytxa's lies grow; Txolaw sleeps in the warmest spot, touch aversion respected; Sänume corrects Sänrri's plant facts; 'Eweyn questions Nika about Earth.
+- Tìmeyo/Kerevi get no drunk version: a switch is not a joke.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

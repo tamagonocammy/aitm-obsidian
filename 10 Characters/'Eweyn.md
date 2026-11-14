@@ -47,6 +47,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk she corners [[Nika]] with questions about Earth. Kept small. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

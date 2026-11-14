@@ -44,6 +44,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk he cries over each of his siblings in turn and tells them they are his responsibility. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

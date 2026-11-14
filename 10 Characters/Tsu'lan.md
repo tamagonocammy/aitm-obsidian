@@ -80,6 +80,10 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 Voice notes: [[Astikasya Accent Reference#Tsu'lan te Palu'vul Sayran'itan]]
 
+## Notes
+
+- When drunk he challenges everyone to arm-wrestling, then falls asleep sitting upright mid-match, and nobody can move him. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

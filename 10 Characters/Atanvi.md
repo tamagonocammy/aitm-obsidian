@@ -66,6 +66,10 @@ She carries the **Tender Spear** not because she is soft, though she is also sof
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk her stutter disappears and she gives speeches with total conviction; one word from [[Mìreya]] brings the stutter back. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

@@ -87,6 +87,10 @@ During the **Siege of the Falls**, he fought not for the first time, and not for
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk he tells the story of his duel with [[Atanvi]] himself, louder each time, and the mud gets deeper with every telling. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

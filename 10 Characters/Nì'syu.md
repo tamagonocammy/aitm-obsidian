@@ -53,6 +53,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-12.** 'Awll took Nì'syu's name herself. Any line on this page saying she was forced into it is the older version.
 - **One note, two names.** 'Awll took Nì'syu's name, but she knows who she is (ruled by Millie, 2026-11-12).
+- When drunk her serene mask holds perfectly, which is the unsettling part. Better used for a quiet moment than a joke. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in
 

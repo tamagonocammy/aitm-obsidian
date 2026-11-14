@@ -94,6 +94,10 @@ She learned this. It is the hardest thing she has ever made.
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk she is giggly and clingy with [[Tsa'rawm]], says every soft thing she thinks about him and the children, and denies it all in the morning. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

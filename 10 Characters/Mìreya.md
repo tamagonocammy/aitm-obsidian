@@ -62,6 +62,10 @@ She considers Syulang and Rewon her sisters in every way that counts. Syulang be
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk she clings to [[Atanvi]] and lists Atanvi's good qualities in strategic detail, in order, with supporting evidence. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

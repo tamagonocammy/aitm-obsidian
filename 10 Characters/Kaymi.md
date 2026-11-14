@@ -76,6 +76,10 @@ The Crimson Spear she carries is not a comfortable weight. It is exactly the rig
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk she goes sentimental and tells people she loves them, [[Sänrri]] most of all, then acts as if it never happened. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base

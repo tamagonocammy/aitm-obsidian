@@ -59,6 +59,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - **Txewì** is a nickname for Txewan, the way Bocchi is for Hitori (ruled by Millie, 2026-11-12).
+- When drunk she turns into [[Tìfyaw]]: climbs on things, plays too loud, tells strangers they are beautiful, and loses her stutter as she does when performing. She regrets it all the next morning, which is why she drinks so slowly. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in
 

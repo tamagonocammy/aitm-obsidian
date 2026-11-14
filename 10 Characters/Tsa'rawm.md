@@ -99,6 +99,10 @@ He lost his left eye in battle, a wound he wears with complete and slightly unne
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- When drunk he changes least of the Nine: louder, until he suddenly turns sincere. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+
 ## Appears in
 
 ```base
