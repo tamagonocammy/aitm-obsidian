@@ -46,6 +46,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** In the Falls thread she goes to Sänrri's shelter uninvited and finds the songcords Sänrri has been knotting in her silence, a song she will not sing aloud. Na'vi do not write; the songcords are the AITM stand-in for Tomori's lyrics. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+
 ## Appears in
 
 ```base

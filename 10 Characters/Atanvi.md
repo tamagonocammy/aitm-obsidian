@@ -68,6 +68,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Stands up to Narayra for her sister-in-law Sänrri without stuttering once, and everyone at the fire notices. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk her stutter disappears and she gives speeches with total conviction; one word from [[Mìreya]] brings the stutter back. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in

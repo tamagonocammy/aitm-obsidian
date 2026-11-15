@@ -131,6 +131,8 @@ Accepted from `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
 - **The Siege and the Hunt are days apart**, like *The Way of Water* and *Fire and Ash*. Lì'may is still three.
 - **The Hunt's "nine" is the Flying Troupe** (Teysaw, Txokän, Layon, Sìltsyu, Seytu, Yezì, Pakì, Paysìn, Roneyu). The Hunt is the Troupe plus whoever joins: Tsu'lan, Yukeyo and Tsyokanì.
 - **[[Miri Sugo]] is a deserter who was found** by the clan's warriors (not ambushed) and told to go to Nika. Who found him is still open, since there were not yet nine Spears.
+- **The Cohort cracks in the Falls thread** (accepted from `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`): Sänrri's silence; Rängay's hurt at the door turns to rage; Pamyaw tells Apayì her playing is all fear; Pxayu tells Rängay what she was really demanding from the Cohort; Apayì goes to Sänrri's shelter and finds the **songcords** Sänrri has been knotting alone, a song she will not sing aloud (the AITM stand-in for Tomori's lyrics, since Na'vi do not write); Sänrri breaks.
+- **The families answer Narayra:** 'Ipxerey defends Sänrri as strategy (*"We needed her."*); Eyfuwen points out the Founder's line runs through him; Mìreya out-argues her; Atanvi faces her without stuttering; Txewan carries the evening song at the fire in Sänrri's place; Sänume snaps; Tsa'rawm is loud; Kayan grants a procedural point and sides with the clan; Lamaytxa exaggerates; Syulang feeds her; 'Eweyn draws her opinions as the Sky People liaison.
 
 ## Standing rules
 

@@ -85,6 +85,7 @@ Voice notes: [[Astikasya Accent Reference#Sänrri te Tsawtral Tanhì'ite]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** In the Falls thread her silence breaks the Cohort open, and she breaks when Apayì finds the songcords she has been knotting alone, a song she will not sing aloud. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - **Tomori Samaya**: her married name, ruled by Millie, 2026-11-12. Japanese naming gives a couple one surname, and the Samaya are far wealthier than the Takamatsu, so she takes theirs. Takamatsu stays her birth name (高松 燈). Earlier source name: *Tomori Samaya-Takamatsu*; the rosters had *Tomori Takamatsu-Samaya*.
 - **Towa** (her ikran): the name is Japanese but sounds Na'vi as well, and it is a Hololive reference (TMT). Ruled by Millie, 2026-11-11; the Character Database's *Zìsya* is superseded.
 - When drunk everything becomes extremely interesting and needs a thorough explanation, and she sings. (ruled by Millie, 2026-11-14; see [[Rulings Log]])

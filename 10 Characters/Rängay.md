@@ -50,6 +50,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Shut out at the door, her hurt turns to rage. Pxayu tells her what she was really demanding from the Cohort: that they stay exactly as they were, for her. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - **Ruled 2026-11-15:** in [[The Wild Hunt]]'s Falls thread, Rängay goes to Sänrri's shelter uninvited and is shut out (*"Her song is gone."*). When Narayra arrives she meets her with *"You decided to show up, after all of this?"* "Backslide" is her song for this stretch: she hears her sister's tone in her own mouth while correcting Nìla and stops mid-sentence. See `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
 
 ## Appears in

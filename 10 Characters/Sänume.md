@@ -49,6 +49,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Snaps at Narayra in defense of Sänrri, the only human she ever made an exception for. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she corrects [[Sänrri]]'s plant facts. Kept small. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in

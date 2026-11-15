@@ -66,6 +66,10 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ![[Proverbs and Sayings of the Falls#'Ipxerey — the Tsahìk]]
 
+## Notes
+
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Answers Narayra for letting a human into the clan: it was strategy, and Sänrri has since reached Tunskxe and Yoko'fya. *"I did not bring a human into this clan out of kindness. We needed her. She has spoken with the one who founded us. Carry that to the other clans, envoy."* See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+
 ## Appears in
 
 ```base

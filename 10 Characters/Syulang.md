@@ -47,6 +47,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Sits Narayra down and makes her eat. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she organizes everyone, assigns seats and settles arguments nobody was having, then cries about how proud she is of [[Txewan]]. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in

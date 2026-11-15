@@ -101,6 +101,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Loud in Sänrri's defense against Narayra. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk he changes least of the Nine: louder, until he suddenly turns sincere. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in

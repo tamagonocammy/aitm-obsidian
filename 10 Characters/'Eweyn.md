@@ -49,6 +49,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** The clan's liaison to the Sky People; Narayra has opinions about that. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she corners [[Nika]] with questions about Earth. Kept small. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in

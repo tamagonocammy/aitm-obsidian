@@ -45,6 +45,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** In the Falls thread she sees in Rängay what she knows in herself and tells her what she was really demanding from the Cohort: that they stay exactly as they were, for her. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+
 ## Appears in
 
 ```base

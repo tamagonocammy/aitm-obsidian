@@ -64,6 +64,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 ## Notes
 
+- **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Out-argues Narayra point by point, and enjoys it. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she clings to [[Atanvi]] and lists Atanvi's good qualities in strategic detail, in order, with supporting evidence. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 ## Appears in
