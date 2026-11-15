@@ -34,6 +34,11 @@ characters:
   - "[[Hyuna]]"
   - "[[Yezì]]"
   - "[[Pakì]]"
+  - "[[Narayra]]"
+  - "[[Rängay]]"
+  - "[[Lì'may]]"
+  - "[[Ketxe]]"
+  - "[[Nìla]]"
 status: "outline"
 canon: "confirmed"
 ---
@@ -189,6 +194,10 @@ Nine riders at dawn. The color coming back into the world, the blue first, then 
 
 Tsyokanì among them.
 
+## The Falls thread (ruled 2026-11-15)
+
+The arc cross-cuts between the Hunt and the Falls, where the clan holds what is left. The Siege and the Hunt are only days apart. In six beats that run alongside Parts One to Six: Sänrri's silence ("The Contract"); [[Rängay]] shut out of Sänrri's shelter (*"Her song is gone."*); [[Narayra]], Rängay's older sister and the clan's envoy, arriving just after Tsu'lan leaves (*"You decided to show up, after all of this?"*); Narayra as the critic, answered by Kaymi, Tsu'ong, Ketxe, Syayvi (*"You are not wrong about me."*) and [[Lì'may]] (*"Sa'nu is MY SA'NU!"*); Rängay's "Backslide"; and the Hunt's return, where Yukeyo's question and Narayra's sit side by side. Full beats: `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
+
 ## Themes
 
 **The vow as the engine of the arc.** The Hunt does not move because of strategy or necessity. It moves because Tsu'lan made a promise in the dark and will not put it down. Everything else assembles around that single immovable fact.
@@ -234,6 +243,10 @@ He is learning, slowly, that being known is not the same as being in danger.
 - **Roneyu rides** with the Hunt, "to mend a life lost to ash" (ruled 2026-11-12).
 - The line on Luka's note about studying Tsu'lan to impersonate him is removed; it belonged to the discarded version (ruled 2026-11-12).
 
+- **The Falls thread and [[Narayra]]** (ruled 2026-11-15). See above.
+- **The Hunt's "nine" is the Flying Troupe;** the Hunt is the Troupe plus whoever joins: Tsu'lan, Yukeyo and Tsyokanì (ruled 2026-11-15).
+- **The Siege and the Hunt are days apart** (ruled 2026-11-15).
+
 ## Changed from the original
 
 - The Background called Luka the "last surviving member of the ANAKT Fireteam." Mizi survived the Siege and defected, so the line now says only that he is a member of the Fireteam. Ivan, Sua, Till and Hyuna are dead.
@@ -242,15 +255,15 @@ He is learning, slowly, that being known is not the same as being in danger.
 
 ## Still open
 
-- [ ] **"The Contract."** The song is named in the Rulings Log and in the Siege note. Nothing says how it appears in this arc.
+- [ ] **"The Contract."** Partly answered 2026-11-15: it scores Sänrri's silence in the Falls thread. The song is named in the Rulings Log and in the Siege note. Nothing says how it appears in this arc.
 - [ ] **The contact to the Anurai.** The original gives the Bone Sanctuary visit (Part Two), and Yukeyo and Paysìn are Anurai born. Millie's summary suggests more. Nothing else is written about the Anurai as a clan in this arc.
-- [ ] **How many riders.** Roneyu rides (ruled 2026-11-12), which makes ten with the nine in the table unless someone else stays behind. The original has nine riders (Tsu'lan, Tsyokanì, Yukeyo, and six Troupe members), but Part Two says "all nine of them" of the Troupe pack up, and Part Four lists ikran for Yezì (Folrä) and Pakì (Tsyeri) and none for Yukeyo. The Troupe note says seven ikran arrive at the Falls. The Troupe's members in the vault are Teysaw, Txokän, Layon, Sìltsyu, Seytu, Yezì, Pakì, Paysìn and Roneyu. Who rides, and does Roneyu ride?
+- [x] **How many riders.** Answered 2026-11-15: the nine are the Troupe, Roneyu included; Tsu'lan, Yukeyo and Tsyokanì join them. The table above still needs updating to match. Roneyu rides (ruled 2026-11-12), which makes ten with the nine in the table unless someone else stays behind. The original has nine riders (Tsu'lan, Tsyokanì, Yukeyo, and six Troupe members), but Part Two says "all nine of them" of the Troupe pack up, and Part Four lists ikran for Yezì (Folrä) and Pakì (Tsyeri) and none for Yukeyo. The Troupe note says seven ikran arrive at the Falls. The Troupe's members in the vault are Teysaw, Txokän, Layon, Sìltsyu, Seytu, Yezì, Pakì, Paysìn and Roneyu. Who rides, and does Roneyu ride?
 - [ ] **Ikran names.** Original arc: Teysaw's is Skar, Seytu's is Kivä. Their character notes: Sìkaya and Kxì've. This note uses the character notes. Which is right?
 - [ ] **Order of the Troupe's whereabouts.** The Breach era note and the Troupe note have the Troupe arriving at Sheltering Falls on Tsu'lan's word. The original Part Two finds them at the Bone Sanctuary. Do they come and go, and where does the Falls visit sit relative to the vow?
 - [ ] **Luka's flight.** The original has him disappearing into the Western Frontier and running in the ravines. His note says he escaped wounded to RDA lines, hiding among the Mangkwan in red paint. Which is it?
 - [ ] **Who ends Luka, and what is the kuru.** The original says "Tsu'lan holds the kuru" and does not say whose kuru it is or who strikes the last blow.
 - [ ] **Roneyu and Syayvi.** Whether they knew each other inside the Mangkwan is still undecided (Breach era note, Open Questions).
-- [ ] **When the Hunt happens.** No file gives how long after the Siege Tsu'lan leaves.
+- [x] **When the Hunt happens.** Answered 2026-11-15: days after the Siege. No file gives how long after the Siege Tsu'lan leaves.
 
 > [!quote]- Earlier version — the original summary this note was built from
 > **By Millie Caicedo**

@@ -33,6 +33,7 @@ canon: "confirmed"
 
 - **Mate:** [[Txafwe]]
 - **Children:** [[Nìla]], [[Mawpay]]
+- **Older sister:** [[Narayra]], the clan's envoy to other clans; her return after the Siege sends Rängay into "Backslide" (ruled 2026-11-15)
 - **Cohort bond:** [[Sänrri]], [[Pxayu]], [[Apayì]], [[Pamyaw]]
 - **Rivalry → respect → unspoken pact:** [[Kaymi]] (the Rängay/[[Kaymi]] pact — see Lore doc)
 - **Gender transition:** through Eywa's eye
@@ -46,6 +47,10 @@ canon: "confirmed"
 | **Rängay** | diphthong (-y) | Rängayìl | Rängayt / Rängayti | Rängayru / Rängayur | Rängayä | Rängayri |
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
+
+## Notes
+
+- **Ruled 2026-11-15:** in [[The Wild Hunt]]'s Falls thread, Rängay goes to Sänrri's shelter uninvited and is shut out (*"Her song is gone."*). When Narayra arrives she meets her with *"You decided to show up, after all of this?"* "Backslide" is her song for this stretch: she hears her sister's tone in her own mouth while correcting Nìla and stops mid-sentence. See `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
 
 ## Appears in
 

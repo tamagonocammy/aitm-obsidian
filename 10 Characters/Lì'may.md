@@ -44,6 +44,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Ruled 2026-11-15:** in [[The Wild Hunt]]'s Falls thread, days after the Siege and still three years old, she plants herself between [[Narayra]] and her silent mother: *"Sa'nu is not Na'vi! Sa'nu is not human! Sa'nu is MY SA'NU!"* (*sa'nu*, "mommy," checked on Reykunyu.) See `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
+
 ## Appears in
 
 ```base

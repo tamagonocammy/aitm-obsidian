@@ -121,6 +121,17 @@ Accepted from `_inbox/2026-11-14 Drunk Personalities of the Nine.md`. These appl
 - Siblings: Kayan cries over each sibling; Lamaytxa's lies grow; Txolaw sleeps in the warmest spot, touch aversion respected; Sänume corrects Sänrri's plant facts; 'Eweyn questions Nika about Earth.
 - Tìmeyo/Kerevi get no drunk version: a switch is not a joke.
 
+## Ruled on 2026-11-15: Narayra, the Falls thread and the Hunt's riders
+
+Accepted from `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
+
+- **New character: [[Narayra]]** (Narayra te Ikutxo Tosiwi'ite; source Maki Shiina). [[Rängay]]'s older sister and the Astikasya's envoy to other Na'vi clans. Never seen until days after the Siege; away for the captivity, the Occupation and the Siege; comes home after Sarentu storytellers spread the news of the Nine Spears. She is the clan's critic in [[The Wild Hunt]].
+- **The Wild Hunt cross-cuts with a Falls thread:** Sänrri's silence ("The Contract"); Rängay shut out of Sänrri's shelter ("Her song is gone."); Narayra's arrival just after Tsu'lan leaves; Kaymi, Tsu'ong, Ketxe and Syayvi answering her; Lì'may's *"Sa'nu is not Na'vi! Sa'nu is not human! Sa'nu is MY SA'NU!"*; Rängay's backslide; the two questions side by side at the Hunt's return.
+- **"Backslide" is Rängay's song** for the Falls thread.
+- **The Siege and the Hunt are days apart**, like *The Way of Water* and *Fire and Ash*. Lì'may is still three.
+- **The Hunt's "nine" is the Flying Troupe** (Teysaw, Txokän, Layon, Sìltsyu, Seytu, Yezì, Pakì, Paysìn, Roneyu). The Hunt is the Troupe plus whoever joins: Tsu'lan, Yukeyo and Tsyokanì.
+- **[[Miri Sugo]] is a deserter who was found** by the clan's warriors (not ambushed) and told to go to Nika. Who found him is still open, since there were not yet nine Spears.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

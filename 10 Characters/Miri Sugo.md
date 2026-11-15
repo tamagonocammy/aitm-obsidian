@@ -31,6 +31,9 @@ canon: "confirmed"
 ## Notes
 
 - **"Ambushed by Nine Spears" is not canon (ruled 2026-11-12).** There were not yet nine. Funny to imagine, though.
+- **Ruled 2026-11-15:** Miri is a deserter who was *found* by the clan's warriors, not ambushed, and told to go to Nika.
+- [ ] Who found him, given there were not yet nine Spears? The line "The Nine Spears send you" needs a ruling for the same reason.
+- [ ] Proposed in chat 2026-11-15, not yet ruled: he left Bridgehead through a service hatch he had flagged as faulty three times; he sat down and recited Bridgehead's power grid when found; they told him "Go to Silver Hand"; he keeps their water gourd on his workbench.
 
 ## Appears in
 
