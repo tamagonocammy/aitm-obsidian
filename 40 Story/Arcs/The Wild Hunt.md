@@ -261,7 +261,8 @@ He is learning, slowly, that being known is not the same as being in danger.
 - [ ] **Ikran names.** Original arc: Teysaw's is Skar, Seytu's is Kivä. Their character notes: Sìkaya and Kxì've. This note uses the character notes. Which is right?
 - [ ] **Order of the Troupe's whereabouts.** The Breach era note and the Troupe note have the Troupe arriving at Sheltering Falls on Tsu'lan's word. The original Part Two finds them at the Bone Sanctuary. Do they come and go, and where does the Falls visit sit relative to the vow?
 - [ ] **Luka's flight.** The original has him disappearing into the Western Frontier and running in the ravines. His note says he escaped wounded to RDA lines, hiding among the Mangkwan in red paint. Which is it?
-- [ ] **Who ends Luka, and what is the kuru.** The original says "Tsu'lan holds the kuru" and does not say whose kuru it is or who strikes the last blow.
+- [x] **Whose kuru.** Ruled 2026-11-16: it is Luka's. Tsu'lan brings Luka's severed kuru back to the Falls.
+- [x] **Who cuts the kuru.** Ruled 2026-11-16: Tsu'lan cuts it. Parallel: Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22).
 - [ ] **Roneyu and Syayvi.** Whether they knew each other inside the Mangkwan is still undecided (Breach era note, Open Questions).
 - [x] **When the Hunt happens.** Answered 2026-11-15: days after the Siege. No file gives how long after the Siege Tsu'lan leaves.
 

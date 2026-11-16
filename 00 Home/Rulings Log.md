@@ -135,6 +135,22 @@ Accepted from `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
 - **The families answer Narayra:** 'Ipxerey defends Sänrri as strategy (*"We needed her."*); Eyfuwen points out the Founder's line runs through him; Mìreya out-argues her; Atanvi faces her without stuttering; Txewan carries the evening song at the fire in Sänrri's place; Sänume snaps; Tsa'rawm is loud; Kayan grants a procedural point and sides with the clan; Lamaytxa exaggerates; Syulang feeds her; 'Eweyn draws her opinions as the Sky People liaison.
 - **Syayvi and Nì'syu are not related.** AITM keeps 'Awll taking her twin's name but drops the *Ave Mujica* blood-relation twist entirely; they are mates from different families (Kilvay and Pxeon). Twists of that kind in the new series are ignored. See `60 Meta/MyMuji Season Plan.md`.
 
+## Ruled on 2026-11-16: why the ANAKT exists
+
+Accepted from `_inbox/2026-11-16 Why the ANAKT Exists.md`.
+
+- **The ANAKT is Ardmore's own unit.** General Ardmore built it because Quaritch, persona non grata to her for his vendetta against Jake Sully, was costing her a fortune and ignoring the rest of the war. The ANAKT answer to her alone.
+- **The Mangkwan play:** Ardmore sneers at the Mangkwan in public and uses them in private. She puts the ANAKT in Mangkwan colors (red, black and ash) and gives them carte blanche, so the Mangkwan see a better, RDA-backed leadership than Varang.
+- **Luka is the selling point:** he can be killed and reprinted from his backup. Varang cannot. To the Mangkwan, a leader who returns from death is a god.
+- **It fails like Quaritch did:** Quaritch fixed on Jake; Luka fixes on Tomori/Sänrri. Quaritch mentions Tomori to Ardmore as a small thing; Ardmore sends the ANAKT; they join the Mangkwan and are sent to the Falls.
+- **Ardmore dies in *Fire and Ash*.** With her gone the ANAKT lose their leash and keep their carte blanche. They lose anyway.
+- The ANAKT Fireteam note's line calling them "the unholy blade of Recom Miles Quaritch's alliance with Varang" is superseded by this ruling.
+
+## Ruled on 2026-11-16: Luka's kuru
+
+- **The kuru Tsu'lan holds is Luka's.** At the end of [[The Wild Hunt]], Tsu'lan comes back to the Falls with Luka's severed kuru. Luka, dying, tells the hunters he is printed and that there are more of him above. The kuru is the proof that this Luka is gone.
+- **Tsu'lan cuts it.** The parallel is Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22): Mahito waited decades in limbo for Yuji, and Yuji finishes him calmly. Luka, who keeps coming back, meets the one who promised to end him every time.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

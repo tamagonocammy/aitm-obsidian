@@ -84,6 +84,8 @@ Voice notes: [[Astikasya Accent Reference#Tsu'lan te Palu'vul Sayran'itan]]
 
 - When drunk he challenges everyone to arm-wrestling, then falls asleep sitting upright mid-match, and nobody can move him. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
+- **Ruled 2026-11-16:** Luka's kuru is severed at the end of the Wild Hunt and Tsu'lan carries it back to the Falls. Dying, Luka tells the hunters he is printed and there are more of him above. Tsu'lan cuts it, a parallel to Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22).
+
 ## Appears in
 
 ```base

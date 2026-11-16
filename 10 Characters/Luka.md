@@ -39,6 +39,9 @@ If the other Recoms are tragedies, Luka is a perfected blasphemy: a soul not res
 - **Removed 2026-11-12.** The line about studying Tsu'lan "to impersonate and destroy from within" belonged to the discarded re-forged version and was taken out on Millie's ruling.
 - **Status.** Luka dies at the end of the Wild Hunt (ruled by Millie, October 2026, confirmed 2026-11-12). The Character Database's "escaped/at large" is superseded.
 
+- **Ruled 2026-11-16:** Luka is the ANAKT's selling point to the Mangkwan: Ardmore's reprintable leader, a god who returns from death, unlike Varang. His fixation on Tomori/Sänrri mirrors Quaritch's on Jake; *"Hello, Dr. Takamatsu"* is him greeting his Jake. See `_inbox/2026-11-16 Why the ANAKT Exists.md`.
+- **Ruled 2026-11-16:** Luka's kuru is severed at the end of the Wild Hunt and Tsu'lan carries it back to the Falls. Dying, Luka tells the hunters he is printed and there are more of him above. Tsu'lan cuts it, a parallel to Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22).
+
 ## Appears in
 
 ```base

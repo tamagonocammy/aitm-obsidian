@@ -44,3 +44,7 @@ views:
       - note.status
       - note.mbti
 ```
+
+## Notes
+
+- **Ruled 2026-11-16:** The ANAKT is General Ardmore's own unit, built because Quaritch's vendetta made him persona non grata to her. She put them in Mangkwan colors with carte blanche to win the clan away from Varang, with Luka's reprintable body as the selling point. When Ardmore dies in *Fire and Ash* they lose their leash. This supersedes "the unholy blade of Recom Miles Quaritch's alliance" in the paragraph above. See `_inbox/2026-11-16 Why the ANAKT Exists.md`.
