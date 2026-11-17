@@ -151,6 +151,15 @@ Accepted from `_inbox/2026-11-16 Why the ANAKT Exists.md`.
 - **The kuru Tsu'lan holds is Luka's.** At the end of [[The Wild Hunt]], Tsu'lan comes back to the Falls with Luka's severed kuru. Luka, dying, tells the hunters he is printed and that there are more of him above. The kuru is the proof that this Luka is gone.
 - **Tsu'lan cuts it.** The parallel is Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22): Mahito waited decades in limbo for Yuji, and Yuji finishes him calmly. Luka, who keeps coming back, meets the one who promised to end him every time.
 
+## Ruled on 2026-11-17: the Ke'awa origin and AFOP mappings
+
+Accepted from `_inbox/2026-11-17 Ke'awa Origin and AFOP Mappings.md`.
+
+- **The Astikasya began as the Ke'awa Kame'tire** of *Avatar: Frontiers of Pandora*, the branch that left the Kame'tire in 2138 because they did not trust Mokasa after the Sarentu massacre.
+- **The old name, revived:** the Astikasya are an ancient clan founded by Tunskxe, long since absorbed into the Kame'tire, with only the Samaya line keeping the Founder's memory. The 2138 leavers take back that name. Young as a people, ancient at the root.
+- **Divergence:** unlike the game, the Astikasya never reunite with the Kame'tire.
+- **Anufi = Belmeria Winston** (*Witch from Mercury*). **Nesim = Quanxi** (*Chainsaw Man*).
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.
