@@ -159,6 +159,7 @@ Accepted from `_inbox/2026-11-17 Ke'awa Origin and AFOP Mappings.md`.
 - **The old name, revived:** the Astikasya are an ancient clan founded by Tunskxe, long since absorbed into the Kame'tire, with only the Samaya line keeping the Founder's memory. The 2138 leavers take back that name. Young as a people, ancient at the root.
 - **Divergence:** unlike the game, the Astikasya never reunite with the Kame'tire.
 - **Anufi = Belmeria Winston** (*Witch from Mercury*). **Nesim = Quanxi** (*Chainsaw Man*).
+- **Eyfuwen takes Tsu'lo's role.** There is no separate Tsu'lo in AITM: Eyfuwen led the 2138 departure to the Spires, and Anufi stayed behind with Mokasa. The bond mirrors Nadim and Belmeria's shared Vanadis past.
 
 ## Standing rules
 
