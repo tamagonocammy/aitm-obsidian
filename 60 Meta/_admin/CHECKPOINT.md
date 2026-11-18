@@ -3,7 +3,7 @@ type: "meta"
 ---
 # AITM vault checkpoint
 
-**Last updated:** 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
+**Last updated:** 2026-11-18, Claude chat (Bogotá): added `00 Home/INDEX.md` for assistants and pushed the missing folders to GitHub. Before that, 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
 
 ## State
 
@@ -80,3 +80,9 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 ## Inbox
 
 - 2026-11-14 (Claude, chat): added `_inbox/2026-11-14 Drunk Personalities of the Nine.md`, accepted in full by Millie the same day: new Rulings Log section "Ruled on 2026-11-14: the Nine when drunk", and one dated line under Notes on 18 character notes. The inbox note can be filed or left as is.
+
+## INDEX and GitHub backup: 2026-11-18 (Claude, at Millie's instruction)
+
+- Added `00 Home/INDEX.md` (folder map, reading order, conventions, a roster read from the character properties). Approved by Millie. No existing note was edited.
+- The GitHub backup lacked `60 Meta`, `_inbox`, `_templates` and `99 Archive`. Claude pushed them to `main` (commit f7a69fd, 97 files), no force push. Left out on purpose: `90 Sources` (backup tarballs, PDFs), `.venv`, `.obsidian`, the older `_backup_2026-11-01` copy and the PDF/docx files inside `99 Archive`.
+- This vault folder is still not a git repository. Whoever updates the GitHub copy next must pull first (no rebase) and add this INDEX.
