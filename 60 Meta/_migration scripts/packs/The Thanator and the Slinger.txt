@@ -1,0 +1,273 @@
+SOURCE PACK for the arc "The Thanator and the Slinger"
+
+AUTHOR'S SUMMARY OF THIS ARC (the authority on scope):
+Tsu'ong and Ketxe come to the Falls seeking uturu, the young Korhe twins already mingling with the rest. Old wounds resurface, until a boiling point. The knowledge of Sänrri mediates between the old and the new. The Resistance gets a place near the Falls.
+
+===== RULINGS LOG (wins over everything else) =====
+Millie's canon decisions, newest thinking first within each section. When an older document disagrees with a line here, this log wins. Add a dated line whenever you rule on something.
+
+## The story's spine (November 2026)
+
+- Sänrri, the Lost Cohort and Txafwe are captured by the Mangkwan. That captivity is the "Scaled and Icy" era. This replaces the older idea that Sänrri led the Cohort's rescue.
+- In hiding, Sänrri makes tsaheylu in a place where she can reach Eywa and meets the Second and Third Toruk Makto: Tunskxe (Simon, *Gurren Lagann*) and Yoko'fya (Madoka Kaname, *Madoka Magica*).
+- They teach her to resist the Mangkwan's forced tsaheylu and then master it from inside, by recovering "ambition" and "hope." The Astikasya never start a forced tsaheylu themselves. Kiri is the exception to the rule.
+- Millie's theory, from *Fire and Ash*: tsaheylu is a consenting bond; the Mangkwan force it to dominate through pain; Na'vi lack the "ambition" to resist it, while avatars and Recoms have it.
+- Someone inside the Mangkwan helped Sänrri, and she never learned who. It was Roneyu, born Mangkwan, who escaped unnoticed. Roneyu is AITM's "Keons."
+- Kaymi and Tsu'lan go together to bring Sänrri home. It is those two, not the full Nine.
+- Her return to the Falls is AITM's "Overcompensate." She tells the clan about the two Toruk Makto and they take it as a good omen. She teaches the lesson to the Nine, then to the whole clan, before the Siege.
+- Tìmeyo and Kerevi: their system makes their will stronger. Kerevi knows the Mangkwan technique and would never use it on the clan, because of Syayvi.
+- The Siege: see [[Siege of the Falls]], which carries every Siege ruling.
+- Luka survives the Siege and dies at the end of [[The Wild Hunt]]. The version where Luka is re-forged at Bridgehead to impersonate Tsu'lan is discarded.
+- Chuchu is the clan's "Trudy" and she survives. The Falls are unobtanium; their magnetism shuts down RDA machines and Earth House technology inside.
+- Tamtey Kataru'ite, the protagonist of *Frontiers of Pandora*, is olo'eykte of the Sarentu. News of the Nine Spears spreads through the Sarentu.
+- Tsu'lan is the physically strongest of the Nine. Tsu'ong, Kaymi or Tsa'rawm could give him a fight.
+- The clan's color is yellow. See [[Astikasya Yellow]].
+- The southern water is an inland lake, called "the Lake." Sänrri keeps a private name for it. See [[The Lake]].
+
+## Twenty One Pilots overlay
+
+- Fixed parallels: Sänrri is Clancy; Kaymi is the Torchbearer; the RDA is Dema; the Astikasya are the Banditos; ANAKT are the Bishops; Luka is Nico (Blurryface); forced tsaheylu is seizing; the Mangkwan fire doctrine is Vialism; Tunskxe and Yoko'fya are the Neds of Voldsøy.
+- The Nine Spears are Sänrri's Banditos: they protect her and she protects them.
+- Songs: "Overcompensate" is Sänrri's, and its "we both" is Sänrri and Kaymi. "Paladin Strait" is the Battle over the Lake. "My Clematis" (RUBYEYE & C!naH) is the reveal and destruction of ANAKT. "City Walls" is the final battle. "The Contract" is Sänrri after the Siege. "The Line" is human Tomori and the consciousness transfer. "Drag Path" (original version) is tentatively the song of the whole AU.
+
+## Names (October 2026)
+
+- Settled spellings: Eantu, Mawpay, Kxuryo, Awsun, Lokxtu. Tswesya's parent is Mawnä. Sänume's ikran is Payarä. See [[Name Fixes to Apply]].
+
+## Ruled on 2026-11-11 and 2026-11-12, while building this vault
+
+- Sänrri's ikran is Towa. Ketxe's ikran is Kxäng.
+- Lì'may, Miri Sugo and the children Anake, Kxayì, Mìyo, Mìrì, Netezu, Lawarey, Nìla, Mawpay and Oarä are Millie's original characters. Rawìl, Notä, Tulìpey and Eantu are original characters by @lindholm_lizzie.
+- Yueyla is an outsider like Tìfyaw and keeps the name te Mayfam.
+- Tìmeyo and Kerevi are a DID system and share one note. 'Awll took Nì'syu's name and knows who she is. Txewì is a nickname for Txewan.
+- When a character has two profiles, the long Master List version is the profile.
+- The nine arcs, in order: [[A Torchlight]], [[The Great Games]], [[The Thanator and the Slinger]], [[Scattered Ashes, Burning Hearts]] (a flashback arc), [[The Reckoning]], [[Ambition and Hope — The Ones Who Know All]] (working title), [[Prelude to Fire]], [[Siege of the Falls]], [[The Wild Hunt]].
+- [[Welcome Back to Trench]] is Overcompensate and belongs to Prelude to Fire. [[The Great Games Legacy]] belongs to The Great Games. [[Kava with the Nine]] and [[The Night the Warriors Lost Their Dignity]] are side stories.
+- Ivan is dead; the two Spears against him were Rewon and Tsu'ong. Till is dead, killed by Tsa'rawm and Ketxe with the AMP suit chainsaw Tsa'rawm stole and made his own (ceramic, non-magnetic).
+- Mizi: burned, blinded by shrapnel and fallen from a cliff, all canon. She lives, almost a ghost.
+- Siege: casualties are heavy but not among named characters; whether a main character dies is undecided. The Occupation lasts days to weeks. The fighting lasts two to four hours over the Lake, maybe more inside. Chuchu's moment is outside the Falls.
+- Wild Hunt: Sänrri's catatonic silence falls between the Siege and the Hunt. "The lost ANAKT fireteam" is a saying; the target is Luka. Roneyu rides, "to mend a life lost to ash."
+- The Haykxa siblings are adopted, and so close it is basically blood.
+- Luka never impersonates Tsu'lan; every line saying so is removed.
+- Notä's minigun is gone. Miri Sugo being "ambushed by Nine Spears" is not canon.
+- 'Awll took Nì'syu's name herself; she was not forced.
+- Yawyay's home is the Ta'unui reef; she leaves for it with Tìmeyo at the end of the Siege.
+- The Ashen Spear was a spear anyone could use, taken and reborn in the fires of the Siege.
+- Sänrri is part of the Lost Cohort.
+- Tsu'ong's challenge to Atanvi for Mìreya happened before he left to explore the world. Out there he met Ketxe; they come to the Falls together in arc 3.
+- Haykxa adoptions: Kayan adopted Tsa'rawm and Lamaytxa; Sänume was adopted by Tsa'rawm. They all live together and are basically siblings.
+- Luey, the twins' mother, dies.
+- Earth House has ten members.
+- Succession: when Kaymi becomes olo'eykte, Rawìl takes her role as eyktanay.
+
+## Standing rules
+
+See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.
+===== CHARACTER: Tsu'ong =====
+> [!abstract] At a glance
+> **Family:** Mate of [[Ketxe]], father of [[Eantu]] & [[Tulìpey]]
+> **Personality Snapshot:** Transformed from arrogant warrior to wise counselor. Once challenged [[Atanvi]] for [[Mìreya]] (humiliated in defeat). Father's death and seeking uturu reshaped worldview. Advocates wisdom over violence. Brought Tipani combat techniques. Journey from arrogance to humility earned Nine Spears position. Pride cooled by experience became unbreakable wisdom.
+
+## Profile
+
+*Personality:* The thing most people do not know about Tsu'ong te Korhe Txep'itan is that the boy who came before the arrogant warrior was genuinely kind. Not soft. Not weak. Kind in the specific way of someone who could look at a stranger and immediately want them to feel welcome, who could extend warmth before he had any reason to. The arrogance came later, built by a father who treated him as a tool and a system that rewarded him for treating everything else the same way. By the time he walked into the Astikasya's territory and challenged Atanvi for Mìreya's hand as if Mìreya were a prize and Atanvi an obstacle, he had almost entirely buried the person he was born as under the person he had been shaped into. Almost.
+
+  
+
+Atanvi defeated him. This is the first fact in the story of who Tsu'ong became, and it is worth sitting with rather than moving past quickly. He did not lose to a superior strategy. He did not lose because conditions were unfavorable. He lost because Atanvi was better, and because the certainty he had built his entire identity on turned out to be a structure with no foundation. The humiliation was real. So was something else: the crack it made in the structure was the first honest thing that had happened to him in years, and somewhere underneath all of that pride he recognized it as such, which is the only reason the story did not end there with him simply rebuilding the wall higher.
+
+  
+
+His father's death is the wound that does not have a clean name. He killed him by accident, in a battle where neither of them knew who the other was, in the dark and the chaos of things that were already out of control. He is not innocent. He is also not guilty in the way that a deliberate act would be guilty. He carries both of these things simultaneously, which is harder than carrying either one alone. After it happened he was hollow for a long time. Not the arrogant hollow that had filled the years before, but something rawer and more genuine: a person stripped of everything he had used to avoid feeling the full weight of his own life. He spent time in that state. He watched someone die in his arms who was not supposed to die. He came back from it not by deciding the weight was acceptable but by deciding he had to carry it anyway because putting it down was not an option he was willing to choose.
+
+  
+
+He returned to his people. He sought uturu at Sheltering Falls from the very clan he had once treated as an obstacle between himself and what he wanted. He came with Ketxe and their children Eantu and Tulìpey, and he came without arrogance, which meant he came with nothing but the request itself. The Falls accepted them. This is still something he does not fully believe he deserved, and the disbelief keeps him honest in ways that the certainty never did.
+
+  
+
+His relationship with the Samaya family, and specifically with Atanvi and Mìreya, is one of the things he is most careful about. It began in shame and has traveled far from there, but the distance does not erase the starting point and he does not try to make it. What he has with them now is something closer to genuine admiration, the specific respect of someone who understands what it cost to become what they are because he paid a different version of the same cost. He does not speak of this often. It is simply present in the way he moves around them, in the particular care he takes to be useful rather than impressive.
+
+  
+
+Tulìpey falling for Rawìl is something he has made peace with in layers, over time. The first layer was the simple surprise of it. The second was something more complicated and also more honest, the recognition that the same qualities in Rawìl that he had once resented in Atanvi are the qualities that make Rawìl good for his daughter. He reached the third layer on his own, which is the quiet satisfaction of two families that once stood opposed building something between them that neither generation planned. He considers this one of the better outcomes available to a person who starts a story doing the wrong thing.
+
+  
+
+His Tipani combat techniques have not left him. What has left him is the willingness to reach for them first. He views violence now the way a person views a tool they know is dangerous: with respect for what it can do, with precision about when it is necessary, with the hard-won understanding that the most dangerous person is the one who fights by choice rather than compulsion. He is the second kind of person now. He has not always been. The distinction matters to him enormously.
+
+  
+
+The **Tempered Spear** he carries was given its name before anyone knew exactly what it would mean to him. Now he carries it as the most accurate description available. Wood that has been through fire does not simply survive it. It comes out changed in the specific way that the fire could not destroy: harder where it was soft, more reliable than before, marked in ways that are visible if you look closely. He looks closely. He is looking all the time now, at himself and at the people around him, in the particular way of someone who spent too long not looking and will not make that mistake again.
+
+  
+
+His relationship with Ketxe is the ground he stands on. Two people who became someone they were ashamed of, who chose to be better together, who do not require each other to be fully healed before being fully present. He would not describe their bond as simple. He would not describe anything about who he is now as simple. Simple was what he was before the fire. What came out of it is something that will hold.
+
+  
+
+During the **Siege of the Falls**, he fought not for the first time, and not for pride, and not to prove anything. He fought because the Falls had given his family sanctuary and the people trying to take it were going to have to go through him first. His Tipani techniques, which were once service for his own ego, became service for something that deserved them. This is what the **Siege** meant for him: not a redemption arc reaching its conclusion, but a single honest moment of being exactly what he had been trying to become. He does not think of it as proof. He thinks of it as practice. He intends to keep practicing.
+
+## Relationships
+
+- **Mate:** [[Ketxe]]
+- **Children:** [[Eantu]], [[Tulìpey]] (twins)
+- **Old history:** once challenged [[Atanvi]] for [[Mìreya]]; humiliated in defeat; reshaped him
+
+**The longer story:** [[Relationship Lore#Tsu'ong & Ketxe|Tsu'ong & Ketxe]]
+===== CHARACTER: Ketxe =====
+> [!abstract] At a glance
+> **Family:** Mate of [[Tsu'ong]], mother of [[Eantu]] & [[Tulìpey]]
+> **Personality Snapshot:** From Tawkami clan, specialized in explosive botanical compounds. Was captured and controlled by Varang/Mangkwan, forced to become weapon. "Disappeared" from [[Tsa'rawm]] (first love) to protect him. Escaped with [[Tsu'ong]] (mutual redemption). Gentle demeanor masks mind calculating blast radii. Studies RDA explosives to improve with Pandora's chemistry. Unleashed full potential during Siege. Freed from Varang's control.
+
+## Profile
+
+**Personality:** Ketxe's true nature is layered and complex, belying her initially perceived gentleness. Born to the renowned **Tawkami clan**, known for their mastery of botanical alchemy, Ketxe diverged from her peers' healing focus to pursue a more... explosive path. While others in her birth clan cultivated medicines and salves, she became fascinated with the volatile compounds hidden within Pandora's flora, discovering which seed pods could create concussive blasts, which saps burned with colors that could blind, and which spores could create devastating chain reactions. Her "disappearance" from both her clan and from Tsa'rawm, her first love, was not the accident most believed. The truth, which she guards closely, is far darker: she was captured and controlled by Varang and the Mangkwan clan, her explosive expertise twisted into a weapon for their corrupted cause. Under Varang's manipulation, Ketxe conducted operations that still haunt her, her gentle nature warped by someone who saw her only as a tool. Her escape came at great cost: she fled into the wilderness, severing all connections to avoid putting anyone she loved in danger, carrying the shame of what she'd been forced to become. It was in this self-imposed exile that she found Tsu'ong, another soul broken by pride and loss. Together, they became each other's redemption: two people choosing to heal rather than destroy, to build rather than burn. Their bond is forged in mutual understanding: both know what it means to be someone you're ashamed of, and both chose to become better. When they sought uturu at Sheltering Falls with their children Eantu and Tulìpey, Ketxe had to face the ghosts of her past, including Tsa'rawm, the man whose heart she'd broken to protect him from Varang's reach, and the clan that had every reason to reject her. Her past connection with Tsa'rawm creates underlying tension, particularly with Rewon and Sänume of the Haykxa family, though time and honest conversation have begun to heal those wounds. During their brief time together, she taught him some of her explosive techniques, knowledge he's sworn never to reveal, a secret that binds them in complicated ways even now. Her relationship with the Haykxa family remains careful, built on mutual respect and the shared understanding that the past cannot be changed, only learned from. Her mysterious interest in old RDA explosives adds an intriguing element to her character, sparking both curiosity and concern. She studies human demolitions not to copy but to improve upon them using Pandora's natural chemistry, believing the Sky People's crude methods pale compared to what Eywa's own garden can produce. Her gentle demeanor masks a mind constantly calculating blast radii and chemical reactions, seeing potential weapons where others see beauty, a duality that once made her valuable to Varang and now makes her essential to the Astikasya's defense. During the Siege of the Falls, Ketxe unleashed her full potential in defense of the home that had given her family sanctuary. Her explosive traps decimated Mangkwan forces, her knowledge of volatile compounds turning the battlefield into a maze of controlled chaos. She faced soldiers she once knew, setting aside guilt to protect the children playing in Sheltering Falls' mists, including her own. In recognition of her breaking free from Varang's control, her choice to use her dangerous gifts for protection rather than destruction, and her unwavering commitment to the clan that accepted her despite everything, she was honored as **the Unbound** among the Nine Spears, wielding the **Unleashed Spear**: a weapon that represents freedom from chains and the choice to fight on her own terms. Despite her past and her reserved nature, Ketxe's love for her children and her mate drives her to seek harmony within the broader community, showcasing the softer side beneath her enigmatic exterior. She channels her dangerous knowledge into protective measures, secretly establishing explosive defenses around the clan's perimeter that only she can navigate safely, her own twisted way of showing love. Her journey from controlled weapon to free warrior serves as proof that even those used as tools of destruction can choose to become guardians of life. Young warriors who train with Ketxe learn not just the chemistry of explosives, but the philosophy of controlled power, that true strength lies in choosing when to unleash devastation and when to hold back, that the most dangerous person is the one who fights by choice rather than compulsion. She remains vigilant, knowing that Varang's reach is long and her memory longer. But now, surrounded by family and protected by the Nine Spears, Ketxe finally allows herself to believe in safety. She is no longer the weapon someone else wields, she is Ketxe te Korhe Kilve'ite, the Unbound, and she fights for love.
+
+## Relationships
+
+- **Mate:** [[Tsu'ong]]
+- **Children:** [[Eantu]], [[Tulìpey]] (twins)
+- **Old history:** first love was [[Tsa'rawm]]; disappeared to protect him from Mangkwan/Varang; escaped with [[Tsu'ong]]
+
+**The longer story:** [[Relationship Lore#Tsu'ong & Ketxe|Tsu'ong & Ketxe]]
+===== CHARACTER: Tulìpey =====
+> [!abstract] At a glance
+> **Family:** Daughter of [[Tsu'ong]] & [[Ketxe]], twin of [[Eantu]]
+> **Key Traits:** Tomboy tough with hidden sensitivity. Inherited father's pride and mother's calculation. Crass normally, flustered around [[Rawìl]] (longtime crush/partner). Sharp mind for strategy and clan politics. Protective of [[Notä]] despite different backgrounds. Studies healing under [[Sänrri]]. Bridges warrior culture with diverse clan needs.
+
+## Profile
+
+**Personality:** Tulìpey presents a fascinating blend of tomboy toughness and hidden sensitivity, inheriting her father's fierce pride and her mother's calculated nature. Normally crass and direct like her twin brother, she transforms into a flustered, lovey-dovey mess around Rawìl, her longtime crush turned partner - though this softness belies a sharp mind for strategy and clan politics that often catches others off guard. This duality in her personality often amuses and confuses those around her, though she carries herself with an underlying dignity that betrays her complex upbringing. Despite - or perhaps because of - the history between their families, she approaches her relationship with Rawìl with both fierce determination and tender vulnerability. Her extensive knowledge of clan politics and traditions belies her young age, making her a valuable asset in inter-clan relations - a skill born from years of managing her own family's complicated dynamics. She's particularly protective of Notä, forming a strong bond with her despite their different backgrounds, often acting as a bridge between the younger girl's innovative spirit and more traditional clan expectations. While her father's warrior blood runs strong in her veins, she channels it differently - using precision and knowledge as her weapons of choice, particularly in her study of healing arts under Sänrri's guidance. This tutelage under the current tsakarem is no mere apprenticeship; she is being formally groomed as Sänrri's successor, absorbing the spiritual arts and traditions to eventually step into the role of **tsakarem** (tsahìk-in-waiting) once Sänrri is raised to **tsahìk**. Her skills in weaving and potion-making suggest a future role that bridges traditional warrior culture with more diverse clan needs, maintaining her family's fierce pride while seeking new ways to honor and evolve their traditions, much like her relationship with Rawìl represents a hope for unity between their families.
+
+## Relationships
+
+- **Parents:** [[Tsu'o
+[...cut for length...]
+===== CHARACTER: Eantu =====
+> [!abstract] At a glance
+> **Family:** Son of [[Tsu'ong]] & [[Ketxe]], twin of [[Tulìpey]]
+> **Key Traits:** Proud with Tipani heritage arrogance. Complex dynamic with [[Rawìl]] & [[Anake]] (respect + competition). Volatile relationship with [[Notä]] (mirrors parents' dynamic). Tall with natural agility. Fiercely protective of twin [[Tulìpey]] while teasing her about [[Rawìl]] crush.
+
+## Profile
+
+**Personality:** Eantu is a proud and adventurous young Na'vi, embodying the spirit of his Tipani heritage while maintaining that characteristic arrogance that makes him both endearing and infuriating to his peers. He's developed a complex dynamic with Rawìl and Anake - deep respect mixed with constant competition, their trio infamous for missions that combine Tipani stealth with increasingly wild schemes. His relationship with Notä is particularly volatile, their bickering sessions legendary within the clan (much to everyone's amusement, as it mirrors their parents' dynamic perfectly). Despite his often jerky exterior, Eantu's loyalty to his friends is absolute, even if he shows it through challenges and competitive spirit rather than open affection. His tall stature and natural agility make him a promising hunter, though his perpetual need to prove himself often leads to increasingly reckless decisions. Like his father, he carries himself with perhaps too much pride, but unlike Tsu'ong, he channels it into a fierce protectiveness of his chosen circle - even if he'd rather eat a banana fruit than admit it. His relationship with his twin sister Tulìpey is especially complex - fiercely protective while also being the first to tease her about her obvious feelings for his best friend.
+
+## Relationships
+
+- **Parents:** [[Tsu'ong]] & [[Ketxe]]
+- **Twin:** [[Tulìpey]]
+- **Complex dynamic:** [[Rawìl]], [[Anake]] (respect + rivalry)
+- **Volatile relationship:** [[Notä]] (mirrors parents' old dynamic)
+
+**The longer story:** [[Relationship Lore#Notä & Eantu|Notä & Eantu]]
+===== 20 Groups/Korhe.md =====
+> [!info] Synopsis written 2026-11-12 from the notes in this vault. Nothing in it is new canon; gaps are listed under Still open.
+
+The Korhe are the smallest family: Tsu'ong, Ketxe and their twins Eantu and Tulìpey. Unlike the Samaya, Haykxa and Ngotxì, they are not listed among the families that settled Sheltering Falls *(Prologue era note)*. In the arc The Thanator and the Slinger, Tsu'ong and Ketxe come to the Falls seeking uturu with the twins already mingling with the other children *(The Thanator and the Slinger)*. Both parents are Nine Spears.
+### Who they are
+- [[Tsu'ong]]: The Wise of the Nine Spears; mate of Ketxe, father of Eantu and Tulìpey; once challenged Atanvi for Mìreya and was humiliated; brought Tipani combat techniques.
+- [[Ketxe]]: The Unbound of the Nine Spears; mate of Tsu'ong, mother of Eantu and Tulìpey; born to the Tawkami clan, a maker of explosive botanical compounds; first love of [[Tsa'rawm]].
+- [[Eantu]]: 15, proud adventurer; twin of Tulìpey; respects and competes with [[Rawìl]] and [[Anake]]; volatile with [[Notä]].
+- [[Tulìpey]]: 15, strategist and healer apprentice under Sänrri; twin of Eantu; courted by Rawìl.
+### What defines them
+Tsu'ong and Ketxe are "two people who found redemption in each other": he was arrogant and had to be humiliated, she was captured and weaponized and had to escape *(Relationship Lore)*. Ketxe was controlled by Varang and the Mangkwan and "disappeared" from Tsa'rawm to protect him *(Ketxe's profile)*. The old tension between Tsu'ong and Atanvi shows again in the twins' rivalry with Notä *(Relationship Lore)*. The Falls became the family's "adopted home" and sanctuary *(Tsu'ong's profile)*. Eantu and Tulìpey are original characters by @lindholm_lizzie *(Rulings Log)*.
+### Still open
+- [ ] Where the name Korhe comes from. No note explains it.
+- [x] When the family arrived. The Relationship Lore puts Tsu'ong's challenge to Atanvi before she and Mìreya were a couple, but The Thanator and the Slinger (arc 3, after the Great Games) brings Tsu'ong and Ketxe to the Falls with the twins already there. **Ruled 2026-11-12:** the challenge to Atanvi came first. After it Tsu'ong went out to explore the world, and out there he met Ketxe. Arc 3 is their arrival at the Falls together.
+- [ ] Tsu'ong's birth clan. The notes name Tipani only as his techniques and Eantu's heritage; Ketxe's birth clan is Tawkami.
+- [ ] How Ketxe and Tsa'rawm's history ends, and whether it is ever spoken between them. The Relationship Lore calls it "unspoken but present".
+===== 20 Groups/Earth House.md =====
+> [!info] Synopsis written 2026-11-12 from the notes in this vault. Nothing in it is new canon; gaps are listed under Still open.
+
+Earth House is the Sky People resistance against the RDA, led by Nika "Silver Hand" and based deep in the Clouded Forest *(Worldbuilding Reference)*. It is a strong ally of the Astikasya, with technology exchange, mutual defense and shared work on the ikran-mounted crossbow *(Worldbuilding Reference)*. Nika, who helped Tomori into her avatar body at RDA Sci-Ops, leads after Alma Cortez stepped down and contact with Jake Sully was lost *(Nika's profile)*. Before the Siege the group wore a shared mark and presented it to Eyfuwen and 'Ipxerey.
+### Who they are
+- [[Nika]]: leader, mechanic and engineer; former RDA Sci-Ops who lost her hand escaping; her wife Sabina Fardin is on Earth.
+- [[Chuchu]]: hot-headed fighter who knows Tomori from before Pandora; taught [[Tsu'lan]] boxing and [[Tsa'rawm]] curse words.
+- [[Aliya]]: diviner and peacekeeper who reads stones; averse to weapons.
+- [[Kobeni]]: intelligence asset, former RDA Sec-Ops; defected after the Delta-7 raid and Sänrri's Japanese; [[Lamaytxa]] calls her "funny for a pinkskin".
+- [[Miri Sugo]]: engineer and former RDA, defected at Bridgehead; rebuilding Nika's prosthetic.
+- [[Till Nys]]: quiet mechanic, third-year student; works with Miri without needing words.
+- [[Nuno Kargan]]: runs communications and electronic intelligence; best friend of Ojelo; built parts of RDA comms as a student contractor.
+- [[Ojelo Gabel]]: mechanic and the group's morale-maker; will not earn money through weapons.
+- [[Lilique Kadoka Lipati]]: logistics; organized the Siege resupply; will not handle firearms.
+- [[Martin Upmont]]: logistics and organization; reported Nika to the RDA, was forced out, and joined them.
+### What defines them
+The mark has two parts: a blackened right hand for allegiance to Nika, and cyan somewhere on the body or gear for Earth House *(The Mark of Earth House)*. 'Ipxerey told them, "You have made yourselves a clan. A clan of Sky People" *(The Mark of Earth House)*. Many arrived through RDA programs and left them: Nika, Kobeni, Miri, Martin, Nuno *(member profiles)*. Chuchu's shotgun blast outside the Falls, "THEY'RE CHILDREN," is the group's best-known Siege moment *(Siege of the Falls)*.
+### Still open
+- [x] The Mark note says "nine of them now instead of four" but names ten members, and it lists both [[Till]] (the dead ANAKT Recom) and [[Till Nys]]. **Ruled 2026-11-12:** Earth House has ten members. The stray link to the Recom Till is removed.
+- [x] Miri's note still says the Nine Spears ambushed him; the Rulings Log says that is not canon *(Rulings Log, Miri Sugo)*. **Ruled 2026-11-12:** noted on his page as not canon.
+- [ ] Where they live: the Worldbuilding Reference says deep in the Clouded Forest, The Thanator and the Slinger says the Resistance gets a place near the Falls, and the Siege note leaves Nika and Earth House at the Falls.
+- [ ] Which members took part in the Siege. The Siege note names only Nika, Chuchu, Kobeni and Aliya; the profiles of Till Nys and Lilique also describe it.
+- [ ] Lilique, Martin, Nuno, Ojelo and Till Nys have no role listed, so the member table is blank for them.
+===== 30 World/The Mark of Earth House.md =====
+*Worldbuilding entry for AITM. Companion piece to the Resistance (Earth House) roster in AITM_05_Factions_Profiles.md. Written pre-Siege.*
+
+---
+
+## Overview
+
+Before the Siege of the Falls, Earth House adopted a visual identifier to distinguish themselves from RDA and Mangkwan forces at a glance, without requiring language or close proximity to confirm allegiance. The mark has two parts, worn together:
+
+- **A blackened right hand** — grease, paint, or soot, marking allegiance to Nika Nanaura-Fardin, "Silver Hand"
+- **Cyan** worn visibly somewhere on the body or gear — cloth, tape, paint, dye — marking allegiance to Earth House as a whole
+
+The mark was not born from wartime panic. It grew out of an already-trusted alliance, adopted deliberately, and presented to the Astikasya clan as a considered choice rather than an emergency measure.
+
+---
+
+## Why These Two Marks
+
+**The blackened hand** references Nika's own prosthetic, lost during her escape from the RDA and worn since as a badge of honor. The Na'vi already called her Silver Hand in recognition of what the loss cost her and what it bought — recognition as "a friend of the People." A blackened hand on any Earth House member is a small, wearable tribute: *I follow her, I believe in what that hand cost her.*
+
+**Cyan** was chosen because it reads clean against every color already claimed by conflict on Pandora. It does not resemble Mangkwan's red, black, and white ash paint. It does not attempt to imitate anything sacred to the Na'vi. It sits outside all existing visual vocabularies of allegiance — which is precisely what made it legible as something new, entirely Earth House's own.
+
+Together, the two marks require no shared language to read. They only require being seen and remembered.
+
+---
+
+## Origin
+
+The idea started, as most good ones did, with Chuchu complaining.
+
+"I'm just saying," she said, boots up on Nika's workbench, ignoring the tools she was undoubtedly displacing, "every time we go up to the Falls, some kid asks their mom if we're RDA. Every time. I don't wanna get mistaken for those bastards for the rest of my life."
+
+"You could stop bringing a shotgun everywhere," Aliya offered mildly, not looking up from the stones she was laying out in some pattern only she understood.
+
+"I could," Chuchu agreed, "and I won't."
+
+"It's not really about the gun," Nika said, turning the wrench over in her prosthetic hand, thinking. It was such a familiar gesture by now that nobody in the room noticed her doing it. "It's about the Na'vi not having a fast way to know we're friendly at a glance. We can't exactly shout Na'vi across a hundred meters of jungle in a crisis."
+
+"You could tattoo 'friend' on your forehead," Kobeni offered, and then immediately looked stricken, like she'd said too much, the way she always did.
+
+"It's a good idea, actually," Miri said, from the corner where he was elbow-deep in a stripped power conduit and had not, as far as anyone could tell, been listening at all. He did not look up. "Not the forehead part. The visible-marker part. We need something that reads at range, low light, doesn't require language. Color's the simplest signal humans have that Na'vi eyes can pick up fast too. Something outside what Mangkwan wears. Something on the body, not just gear, because gear gets lost or borrowed and bodies don't."
+
+"Color coordination," Ojelo said, appearing in the doorway with the specific energy of a man who had clearly been eavesdropping from the hallway for at least a minute before deciding to make it official. "Now we're talking. I've been saying this base needs a bit, we don't have a bit, everyone else has a bit."
+
+"Nobody asked for a bit," Nuno said from behind him, not looking up from the three screens he was somehow monitoring simultaneously.
+
+"I'm asking for it retroactively. Put it in the minutes." Ojelo dropped into the nearest chair. "But he's right. If we're gonna have a symbol, it can't just be practical, it has to feel like something. People don't wear things that don't feel like something."
+
+"It should be simple to make and hard to fake," Lilique said, not glancing up from the supply ledger balanced on her knee, already three mental steps ahead of the conversation the way she always was. "Whatever it is, we're going to need enough of it for everyone, indefinitely, without it becoming a logistics problem. I'm just saying that now so nobody's surprised later."
+
+"Noted," said Martin, who had come in to deliver a manifest and was now standing very still in the doorway, radiating the particular anxiety of a man caught in a room where a decision was being made faster than he could fully process it.
+
+Nika looked down at her own hand — the metal one, the one that had cost her something and that she'd never once tried to hide. "The Na'vi already gave us a name for me," she said slowly. "Silver Hand. What if that becomes the mark. Not literally silver, nobody's got silver lying around, but the hand. Blackened. Grease, paint, whatever's 
+[...cut for length...]
+===== RELATIONSHIP LORE (sections) =====
+### Tsu'ong & Ketxe
+Two people who found redemption in each other. Tsu'ong was arrogant and had to be humiliated before he could become wise. Ketxe was captured and weaponized and had to escape before she could become herself. They did not fall into each other's arms — they recognized each other as people who had survived becoming something they did not want to be. Their bond is quieter than most, built on mutual respect for the distance each traveled. Ketxe's first love was Tsa'rawm; she disappeared to protect him from Varang's reach, and that sacrifice still lives in their history, unspoken but present.
+
+### Notä & Eantu
+Volatile and creative. They are not enemies but they are never entirely at peace, and their conflict has an energy that mirrors the old tension between Tsu'ong (Eantu's father) and Atanvi (Notä's mother). Something about that lineage keeps generating the same charged dynamic across generations.
+
+### Atanvi & Mìreya
+The bedrock couple. Mìreya is the person who reminds Atanvi of her worth when she forgets it, which is often. Atanvi is the steady heart that gave Mìreya somewhere to put all the love she had always been afraid to show. They met in circumstances that put them on opposite sides of tension — Tsu'ong once challenged Atanvi for Mìreya's attention and was humiliated — and what emerged was a bond built on choosing each other repeatedly, deliberately, across years. Mìreya maintains a controlled exterior with almost everyone; Atanvi is one of the few people in whose presence she lets it go entirely. Their children Rawìl and Notä are the living proof of what they built.
+===== CHARACTER: Nika =====
+> [!abstract] At a glance
+> **Background:** Former RDA Sci-Ops who helped Tomori transition to Na'vi avatar. Lost hand during RDA escape - wears metal prosthetic as badge of honor. Na'vi call her "Silver Hand" (friend of the People). Like Norm, pilots avatar for field ops but maintains human identity. Led Resistance after Alma Cortez stepped down and Jake Sully contact lost. Genuinely cares for team, struggles with moral complexities. Bridges human tech and Na'vi values through Astikasya friendship. Desk portrait of wife Sabina Fardin on Earth.
+
+## Profile
+
+**Personality:** Nika is very kind and compassionate, often willing to accept new people and help them with any issues they face. As the leader of Earth House, she maintains her gentle nature while being an outstanding mechanic and engineer who gets excited over technical details. She tends to avoid conflict and is modest about her skills, usually deflecting praise regarding her mechanical abilities. Nika has a special connection to the Astikasya clan through her work helping Tomori transition into her Na'vi avatar body during their time at RDA Sci-Ops. Despite losing her hand during her escape from the RDA, she wears her metal prosthetic as a badge of honor - the Na'vi respect her as a “friend of the People” and call her “Silver Hand” in recognition of her sacrifice and dedication to their cause. Like Norm Spellman, she pilots her own avatar body for field operations alongside the Na'vi, though she always returns to her human form and maintains her human identity. She genuinely cares for her fellow Resistance members and struggles with the moral complexities of their fight against the RDA. Her background in assembly work from childhood gave her exceptional mechanical skills, making her essential in maintaining and developing equipment for the Resistance operations. She now leads the Resistance’s efforts after Alma Cortez stepped down and contact was lost with Jake Sully, a responsibility she carries with charact
+[...cut for length...]

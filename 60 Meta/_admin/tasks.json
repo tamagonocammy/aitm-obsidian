@@ -1,0 +1,149 @@
+{
+ "updated": "2026-11-12",
+ "statuses": [
+  "pending",
+  "in_progress",
+  "completed",
+  "blocked",
+  "verified"
+ ],
+ "tasks": [
+  {
+   "id": "safety-copy",
+   "what": "Archive all originals, verified byte for byte",
+   "status": "verified"
+  },
+  {
+   "id": "skeleton",
+   "what": "Folders, templates, Home, bases",
+   "status": "verified"
+  },
+  {
+   "id": "cast",
+   "what": "76 character notes",
+   "status": "verified"
+  },
+  {
+   "id": "groups",
+   "what": "12 group notes with synopses",
+   "status": "verified"
+  },
+  {
+   "id": "world",
+   "what": "17 world notes",
+   "status": "completed"
+  },
+  {
+   "id": "story-structure",
+   "what": "Timeline, 7 eras, 9 arcs, 5 scenes",
+   "status": "verified"
+  },
+  {
+   "id": "language",
+   "what": "9 language references",
+   "status": "verified"
+  },
+  {
+   "id": "root-cleanup",
+   "what": "Old flat files removed from vault root",
+   "status": "verified"
+  },
+  {
+   "id": "renovate-siege",
+   "what": "Siege of the Falls brought to current canon",
+   "status": "verified"
+  },
+  {
+   "id": "renovate-wild-hunt",
+   "what": "The Wild Hunt brought to current canon",
+   "status": "verified"
+  },
+  {
+   "id": "canon-audit",
+   "what": "18 contradictions found and closed",
+   "status": "verified"
+  },
+  {
+   "id": "arc-synopses",
+   "what": "Synopses for the 7 new arcs",
+   "status": "completed"
+  },
+  {
+   "id": "graph-colors",
+   "what": "Graph colour groups",
+   "status": "completed"
+  },
+  {
+   "id": "inbox-project-docs",
+   "what": "Six project-only docs: Scene Paladin Strait, Scene City Walls, Scene Overcompensate (EN), Escena Overcompensate (ES), Anti-Slop Style Guide, Navi Lexicon Reykunyu. Millie downloads them from the Claude project into _inbox; then file them",
+   "status": "blocked"
+  },
+  {
+   "id": "renovate-worldbuilding",
+   "what": "Worldbuilding Reference: Timeline Context and Story Arcs sections still tell older canon",
+   "status": "pending"
+  },
+  {
+   "id": "arc-era-pairing",
+   "what": "Propose which era each arc belongs to; only The Reckoning, Siege and Wild Hunt are set",
+   "status": "pending"
+  },
+  {
+   "id": "project-refresh",
+   "what": "Compile fresh docs from the vault and push to the Claude project; the two old sync tasks stay paused",
+   "status": "pending"
+  },
+  {
+   "id": "walkthrough",
+   "what": "Teach Millie the vault hands-on",
+   "status": "pending"
+  },
+  {
+   "id": "final-validation",
+   "what": "One full proof run at the very end",
+   "status": "pending"
+  },
+  {
+   "id": "portability-validation-maintenance",
+   "what": "Portable script paths, guarded builder writes, stable generated hashes, dependencies and administrative documentation",
+   "status": "verified",
+   "validation": "Targeted fixture tests; changed-document proof and administrative index refresh. Full archival proof remains pending."
+  },
+  {
+   "id": "gender-pronouns-schema",
+   "what": "gender, pronouns and transition added to the Character template; Gender & Pronouns view added to Cast.base",
+   "status": "verified",
+   "validation": "YAML parse of template, Cast.base and changed notes; diff against backup shows additions only; proof --notes on 8 notes clean"
+  },
+  {
+   "id": "gender-pronouns-recorded",
+   "what": "Recorded: Rängay, Txafwe (gender, pronouns, transition); Atanvi, Txewan, Tìfyaw, Txolaw (pronouns, transition); Roneyu, Tswesya (pronouns)",
+   "status": "verified",
+   "backup": "90 Sources/pre-gender-pronouns-20261112.tar.gz and pre-gender-pronouns-20261112-tswesya.tar.gz"
+  },
+  {
+   "id": "gender-rulings-applied",
+   "what": "Millie's trans list and the -'itu rule recorded; gender set on Txewan, Atanvi, Tìfyaw, Txolaw, Roneyu, Tswesya; fields added to Apayì, Zìsaw, Oarä",
+   "status": "verified",
+   "backup": "90 Sources/pre-gender-rulings-20261112.tar.gz"
+  },
+  {
+   "id": "gender-cast-complete",
+   "what": "All 76 character notes carry gender, pronouns and transition; 64 cis records approved in bulk; Eye of Eywa note lists every practitioner",
+   "status": "verified",
+   "backup": "90 Sources/pre-gender-cast-20261112.tar.gz"
+  },
+  {
+   "id": "gender-pronouns-review",
+   "what": "All gender and pronoun questions answered and recorded; optional: Katirì and Tswesya still call Oarä 'daughter' in prose",
+   "status": "verified"
+  }
+ ],
+ "maintenance_handoff": {
+  "date": "2026-11-12",
+  "writer": "ChatGPT/Codex",
+  "basis": "Millie reported Claude unavailable until 3 p.m.; limited maintenance authorized",
+  "status": "completed; confirm next writer before editing",
+  "backup": "90 Sources/maintenance-backup-20261112-114246.tar.gz"
+ }
+}

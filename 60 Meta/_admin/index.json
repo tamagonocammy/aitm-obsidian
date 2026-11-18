@@ -1,0 +1,3349 @@
+{
+"built": "2026-11-15",
+"notes": {
+"00 Home/Canon Rules.md": {
+"title": "Canon Rules",
+"type": "meta",
+"aliases": [
+"Lore rules",
+"Style rules"
+],
+"canon": null,
+"sha": "d744e57eebc7122d",
+"bytes": 1691,
+"links": [
+"Family Terms"
+],
+"open": 0
+},
+"00 Home/Home.md": {
+"title": "Home",
+"type": "home",
+"aliases": [],
+"canon": null,
+"sha": "c4a3fdfc1d94fb59",
+"bytes": 1088,
+"links": [
+"ANAKT Fireteam",
+"AU Analysis",
+"Astikasya",
+"Astikasya Accent Reference",
+"Canon Audit 2026-11-12",
+"Canon Rules",
+"Cast.base",
+"Earth House",
+"Family Terms",
+"Haykxa",
+"How This Vault Works",
+"Korhe",
+"MBTI Reference",
+"Na'vi Name Audit",
+"Na'vi Name Case Forms",
+"Name Fixes to Apply",
+"Ngotxì",
+"Nine Spears of the Mists",
+"Notes from Na'viteri",
+"Open Questions",
+"Proverbs and Sayings of the Falls",
+"Reef Na'vi Reference",
+"Relationship Lore",
+"Rulings Log",
+"Rulings.base",
+"Samaya",
+"Story.base",
+"The Flying Troupe",
+"The Lost Cohort",
+"The Nine Spears in Na'vi",
+"The Scattered Ashes",
+"Timeline",
+"Vault Design",
+"World.base"
+],
+"open": 0
+},
+"00 Home/How This Vault Works.md": {
+"title": "How This Vault Works",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "55324de7b5ec9049",
+"bytes": 3282,
+"links": [
+"Home",
+"Relationship Lore",
+"Samaya",
+"Sänrri",
+"Timeline",
+"Tomori"
+],
+"open": 0
+},
+"00 Home/Open Questions.md": {
+"title": "Open Questions",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "05b1aed804b1da07",
+"bytes": 6910,
+"links": [
+"'Eweyn",
+"'Ipxerey",
+"Anake",
+"Atanvi",
+"Eantu",
+"Eyfuwen",
+"Katirì",
+"Kava with the Nine",
+"Kaymi",
+"Ketxe",
+"Kobeni",
+"Kxayì",
+"Lawarey",
+"Luka",
+"Lì'may",
+"Mawpay",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Netezu",
+"Nika",
+"Notä",
+"Nuno Kargan",
+"Nìla",
+"Oarä",
+"Overcompensate — The Homecoming",
+"Prelude to Fire",
+"Rawìl",
+"Rewon",
+"Roneyu",
+"Scattered Ashes, Burning Hearts",
+"Seytu",
+"Syayvi",
+"Sänrri",
+"The Great Games",
+"The Great Games Legacy",
+"The Night the Warriors Lost Their Dignity",
+"Till Nys",
+"Tsa'rawm",
+"Tse'hayu",
+"Tsu'lan",
+"Tsu'ong",
+"Tswesya",
+"Tulìpey",
+"Txolaw",
+"Tìfyaw",
+"Tìmeyo",
+"Waynhì",
+"Welcome Back to Trench",
+"Yueyla",
+"Yukeyo"
+],
+"open": 30
+},
+"00 Home/Rulings Log.md": {
+"title": "Rulings Log",
+"type": "meta",
+"aliases": [
+"Rulings",
+"Canon decisions"
+],
+"canon": null,
+"sha": "e69f166b665572cc",
+"bytes": 15070,
+"links": [
+"A Torchlight",
+"Ambition and Hope — The Ones Who Know All",
+"Astikasya Yellow",
+"Canon Rules",
+"Kava with the Nine",
+"MBTI Reference",
+"Miri Sugo",
+"Name Fixes to Apply",
+"Narayra",
+"Prelude to Fire",
+"Rängay",
+"Scattered Ashes, Burning Hearts",
+"Siege of the Falls",
+"The Great Games",
+"The Great Games Legacy",
+"The Lake",
+"The Night the Warriors Lost Their Dignity",
+"The Reckoning",
+"The Thanator and the Slinger",
+"The Wild Hunt",
+"Tsa'rawm",
+"Welcome Back to Trench"
+],
+"open": 0
+},
+"10 Characters/'Eweyn.md": {
+"title": "'Eweyn",
+"type": "character",
+"aliases": [
+"Futari Gotou",
+"Futari",
+"'Eweyn te Ngotxì Mitsìyo'ite"
+],
+"canon": "confirmed",
+"sha": "ce77b95848a45009",
+"bytes": 4304,
+"links": [
+"Mitsìyo",
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Nika",
+"Relationship Lore",
+"Rulings Log",
+"Sänrri",
+"Sänume",
+"Tse'hayu",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/'Ipxerey.md": {
+"title": "'Ipxerey",
+"type": "character",
+"aliases": [
+"Elnora Samaya",
+"Elnora",
+"Prospera Mercury",
+"Prospera",
+"'Ipxerey te Samaya Kxar'o'ite"
+],
+"canon": "confirmed",
+"sha": "1f35c2cccdf5a583",
+"bytes": 8605,
+"links": [
+"Atanvi",
+"Eyfuwen",
+"Kaymi",
+"Lì'may",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Notä",
+"Proverbs and Sayings of the Falls",
+"Rawìl",
+"Relationship Lore",
+"Samaya",
+"Sänrri",
+"Sänume"
+],
+"open": 0
+},
+"10 Characters/Aliya.md": {
+"title": "Aliya",
+"type": "character",
+"aliases": [
+"Aliya Mahvash"
+],
+"canon": "confirmed",
+"sha": "c6588a393086757c",
+"bytes": 2404,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Anake.md": {
+"title": "Anake",
+"type": "character",
+"aliases": [
+"Shū Hayakawa",
+"Shū",
+"Anake te Haykxa Tsa'rawm'itan"
+],
+"canon": "confirmed",
+"sha": "db2fd202f167a17a",
+"bytes": 2760,
+"links": [
+"Haykxa",
+"Kxayì",
+"Na'vi Name Case Forms",
+"Rawìl",
+"Rewon",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Apayì.md": {
+"title": "Apayì",
+"type": "character",
+"aliases": [
+"Anon Chihaya",
+"Anon",
+"Chihaya",
+"Apayì te Vozayo Oulu'ite"
+],
+"canon": "confirmed",
+"sha": "460e63d9bfdab9fe",
+"bytes": 6588,
+"links": [
+"Lawarey",
+"Na'vi Name Case Forms",
+"Pamyaw",
+"Pxayu",
+"Relationship Lore",
+"Rängay",
+"Sänrri",
+"The Lost Cohort",
+"Tsu'lan"
+],
+"open": 0
+},
+"10 Characters/Atanvi.md": {
+"title": "Atanvi",
+"type": "character",
+"aliases": [
+"Suletta Samaya-Rembran",
+"Suletta",
+"Atanvi te Samaya 'Ipxerey'ite"
+],
+"canon": "confirmed",
+"sha": "655ca6bd83df8e70",
+"bytes": 8099,
+"links": [
+"'Ipxerey",
+"Eyfuwen",
+"Kaymi",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Notä",
+"Rawìl",
+"Relationship Lore",
+"Rulings Log",
+"Samaya",
+"Tsa'rawm",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Chuchu.md": {
+"title": "Chuchu",
+"type": "character",
+"aliases": [
+"Chuatury Panlunch",
+"Chuatury \"Chuchu\" Panlunch"
+],
+"canon": "confirmed",
+"sha": "3b515fbed6d3c7e3",
+"bytes": 3081,
+"links": [
+"Earth House",
+"Luka",
+"Sänrri",
+"Till",
+"Tsa'rawm",
+"Tsu'lan"
+],
+"open": 0
+},
+"10 Characters/Eantu.md": {
+"title": "Eantu",
+"type": "character",
+"aliases": [
+"Alzir Jeturk",
+"Alzir",
+"Eantu te Korhe Tsu'ong'itan"
+],
+"canon": "confirmed",
+"sha": "166ba1275a8a15cf",
+"bytes": 2937,
+"links": [
+"Anake",
+"Ketxe",
+"Korhe",
+"Na'vi Name Case Forms",
+"Notä",
+"Rawìl",
+"Relationship Lore",
+"Tsu'ong",
+"Tulìpey"
+],
+"open": 0
+},
+"10 Characters/Eyfuwen.md": {
+"title": "Eyfuwen",
+"type": "character",
+"aliases": [
+"Nadim Samaya",
+"Nadim",
+"Eyfuwen te Samaya Tìrol'itan"
+],
+"canon": "confirmed",
+"sha": "c4cc3ee569df179d",
+"bytes": 11828,
+"links": [
+"'Ipxerey",
+"Atanvi",
+"Kaymi",
+"Lì'may",
+"Na'vi Name Case Forms",
+"Notä",
+"Proverbs and Sayings of the Falls",
+"Rawìl",
+"Relationship Lore",
+"Samaya",
+"Tse'hayu"
+],
+"open": 0
+},
+"10 Characters/Hyuna.md": {
+"title": "Hyuna",
+"type": "character",
+"aliases": [
+"Recom Hyuna",
+"The Nightshade"
+],
+"canon": "confirmed",
+"sha": "e503a1ed50f73bcb",
+"bytes": 4576,
+"links": [
+"ANAKT Fireteam",
+"Kaymi",
+"Luka",
+"Sänrri"
+],
+"open": 0
+},
+"10 Characters/Ivan.md": {
+"title": "Ivan",
+"type": "character",
+"aliases": [
+"Recom Ivan",
+"The Scolopendra"
+],
+"canon": "confirmed",
+"sha": "3a993b322a3f7b6b",
+"bytes": 5065,
+"links": [
+"ANAKT Fireteam",
+"Anake",
+"Kxayì",
+"Mìreya",
+"Notä",
+"Rawìl",
+"Rewon",
+"Sua",
+"Till"
+],
+"open": 0
+},
+"10 Characters/Katirì.md": {
+"title": "Katirì",
+"type": "character",
+"aliases": [
+"Ijichi Nijika",
+"Nijika",
+"Katirì te Hafyon Tsìeya'ite"
+],
+"canon": "confirmed",
+"sha": "adbada53ce2391ee",
+"bytes": 9519,
+"links": [
+"Na'vi Name Case Forms",
+"Oarä",
+"Relationship Lore",
+"Syulang",
+"Tswesya",
+"Txewan",
+"Tìfyaw",
+"Waynhì"
+],
+"open": 0
+},
+"10 Characters/Kayan.md": {
+"title": "Kayan",
+"type": "character",
+"aliases": [
+"Aki Hayakawa",
+"Aki",
+"Kayan te Haykxa Tse'kam'itan"
+],
+"canon": "confirmed",
+"sha": "43ce2193ce27d74b",
+"bytes": 3476,
+"links": [
+"Haykxa",
+"Lamaytxa",
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Rewon",
+"Rulings Log",
+"Sänume",
+"Tsa'rawm",
+"Txolaw"
+],
+"open": 0
+},
+"10 Characters/Kaymi.md": {
+"title": "Kaymi",
+"type": "character",
+"aliases": [
+"Ericht Samaya-Takamatsu",
+"Ericht",
+"Kaymi te Samaya 'Ipxerey'ite"
+],
+"canon": "confirmed",
+"sha": "829f3fb19f67339e",
+"bytes": 12609,
+"links": [
+"'Ipxerey",
+"Atanvi",
+"Eyfuwen",
+"Hyuna",
+"Lì'may",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rulings Log",
+"Rängay",
+"Samaya",
+"Sänrri",
+"Tìmeyo"
+],
+"open": 0
+},
+"10 Characters/Ketxe.md": {
+"title": "Ketxe",
+"type": "character",
+"aliases": [
+"Reze",
+"Ketxe te Korhe Kilve'ite"
+],
+"canon": "confirmed",
+"sha": "de071f7df46d243c",
+"bytes": 11863,
+"links": [
+"Eantu",
+"Korhe",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rulings Log",
+"Tsa'rawm",
+"Tsu'ong",
+"Tulìpey"
+],
+"open": 0
+},
+"10 Characters/Kobeni.md": {
+"title": "Kobeni",
+"type": "character",
+"aliases": [
+"Kobeni Higashiyama",
+"Cpl. Kobeni Higashiyama"
+],
+"canon": "confirmed",
+"sha": "0a0e1850f20eceb8",
+"bytes": 4280,
+"links": [
+"Earth House",
+"Lamaytxa",
+"Relationship Lore",
+"Sänrri"
+],
+"open": 0
+},
+"10 Characters/Kxayì.md": {
+"title": "Kxayì",
+"type": "character",
+"aliases": [
+"Natsumi Hayakawa",
+"Natsumi",
+"Kxayì te Haykxa Rewon'ite"
+],
+"canon": "confirmed",
+"sha": "3db50a67fb072379",
+"bytes": 3110,
+"links": [
+"Anake",
+"Haykxa",
+"Kaymi",
+"Lawarey",
+"Na'vi Name Case Forms",
+"Notä",
+"Relationship Lore",
+"Rewon",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Lamaytxa.md": {
+"title": "Lamaytxa",
+"type": "character",
+"aliases": [
+"Power Hayakawa",
+"Power",
+"Lamaytxa te Haykxa Areya'ite"
+],
+"canon": "confirmed",
+"sha": "6557e6dfb7412419",
+"bytes": 3077,
+"links": [
+"Haykxa",
+"Kayan",
+"Kobeni",
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Rulings Log",
+"Sänume",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Lawarey.md": {
+"title": "Lawarey",
+"type": "character",
+"aliases": [
+"Anne Nagasaki",
+"Anne",
+"Lawarey te Kll'i'a Pxayu'ite"
+],
+"canon": "confirmed",
+"sha": "a035de9402d75fd3",
+"bytes": 3079,
+"links": [
+"Apayì",
+"Kxayì",
+"Mawpay",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Pxayu",
+"Relationship Lore"
+],
+"open": 0
+},
+"10 Characters/Layon.md": {
+"title": "Layon",
+"type": "character",
+"aliases": [
+"Black☆Star",
+"Layon te Pxortu Voral'itan"
+],
+"canon": "confirmed",
+"sha": "2273755eeb5bacb0",
+"bytes": 3913,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Lilique Kadoka Lipati.md": {
+"title": "Lilique Kadoka Lipati",
+"type": "character",
+"aliases": [],
+"canon": "confirmed",
+"sha": "c6dca55562adb50b",
+"bytes": 3729,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Luka.md": {
+"title": "Luka",
+"type": "character",
+"aliases": [
+"Recom Luka",
+"The Strangler Fig",
+"Blurryface",
+"The Enemy"
+],
+"canon": "confirmed",
+"sha": "945bd9ab005abdab",
+"bytes": 5402,
+"links": [
+"ANAKT Fireteam",
+"Hyuna",
+"Ivan",
+"Syayvi",
+"Sänrri",
+"Tsu'lan"
+],
+"open": 0
+},
+"10 Characters/Lì'may.md": {
+"title": "Lì'may",
+"type": "character",
+"aliases": [
+"Miyako Samaya-Takamatsu",
+"Miyako",
+"Lì'may te Samaya Sänrri'ite"
+],
+"canon": "confirmed",
+"sha": "b74dd3413bef01e4",
+"bytes": 3181,
+"links": [
+"Kaymi",
+"Kxayì",
+"Mìrì",
+"Mìyo",
+"Na'vi Name Case Forms",
+"Narayra",
+"Notä",
+"Samaya",
+"Sänrri",
+"The Wild Hunt"
+],
+"open": 0
+},
+"10 Characters/Martin Upmont.md": {
+"title": "Martin Upmont",
+"type": "character",
+"aliases": [],
+"canon": "confirmed",
+"sha": "801f69f97903967f",
+"bytes": 3508,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Mawpay.md": {
+"title": "Mawpay",
+"type": "character",
+"aliases": [
+"Mirei Shiina",
+"Mirei",
+"Mawpay te Ikutxo Rängay'ite"
+],
+"canon": "confirmed",
+"sha": "faf0159bb3bd36e7",
+"bytes": 2996,
+"links": [
+"Lawarey",
+"Na'vi Name Case Forms",
+"Nìla",
+"Relationship Lore",
+"Rängay",
+"Txafwe"
+],
+"open": 0
+},
+"10 Characters/Miri Sugo.md": {
+"title": "Miri Sugo",
+"type": "character",
+"aliases": [
+"Cpl. Miri Sugo"
+],
+"canon": "confirmed",
+"sha": "646ef3407f27e0b6",
+"bytes": 5864,
+"links": [
+"Earth House",
+"Nika"
+],
+"open": 2
+},
+"10 Characters/Mitsìyo.md": {
+"title": "Mitsìyo",
+"type": "character",
+"aliases": [
+"Michiyo Gotou",
+"Michiyo",
+"Mitsìyo te Ngotxì Eyä'ite"
+],
+"canon": "confirmed",
+"sha": "b23c14df961cab57",
+"bytes": 2990,
+"links": [
+"'Eweyn",
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Proverbs and Sayings of the Falls",
+"Tse'hayu",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Mizi.md": {
+"title": "Mizi",
+"type": "character",
+"aliases": [
+"Recom Mizi",
+"The Witch"
+],
+"canon": "confirmed",
+"sha": "e00c84e5e0b4583e",
+"bytes": 9670,
+"links": [
+"ANAKT Fireteam",
+"Atanvi",
+"Sua"
+],
+"open": 0
+},
+"10 Characters/Mìreya.md": {
+"title": "Mìreya",
+"type": "character",
+"aliases": [
+"Miorine Samaya-Rembran",
+"Miorine",
+"Mìreya te Mowa'tal Notä'ite"
+],
+"canon": "confirmed",
+"sha": "8a02eaad64af02e0",
+"bytes": 8530,
+"links": [
+"'Ipxerey",
+"Atanvi",
+"Na'vi Name Case Forms",
+"Notä",
+"Rawìl",
+"Relationship Lore",
+"Rewon",
+"Rulings Log",
+"Samaya",
+"Syulang"
+],
+"open": 0
+},
+"10 Characters/Mìrì.md": {
+"title": "Mìrì",
+"type": "character",
+"aliases": [
+"Muri Gotou",
+"Muri",
+"Mìrì te Ngotxì Syulang'ite"
+],
+"canon": "confirmed",
+"sha": "19aaf9ab6b680d82",
+"bytes": 3212,
+"links": [
+"Mìyo",
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Oarä",
+"Relationship Lore",
+"Syulang",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Mìyo.md": {
+"title": "Mìyo",
+"type": "character",
+"aliases": [
+"Miyo Gotou",
+"Miyo",
+"Mìyo te Ngotxì Syulang'ite"
+],
+"canon": "confirmed",
+"sha": "dcfb724981cf0db5",
+"bytes": 3090,
+"links": [
+"Mìrì",
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Oarä",
+"Relationship Lore",
+"Syulang",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Narayra.md": {
+"title": "Narayra",
+"type": "character",
+"aliases": [
+"Maki Shiina",
+"Maki",
+"Narayra te Ikutxo Tosiwi'ite"
+],
+"canon": "confirmed",
+"sha": "9a780ebf9ac84273",
+"bytes": 2505,
+"links": [
+"Kaymi",
+"Ketxe",
+"Lì'may",
+"Na'vi Name Case Forms",
+"Rängay",
+"Siege of the Falls",
+"Syayvi",
+"Sänrri",
+"The Wild Hunt",
+"Tsu'ong"
+],
+"open": 3
+},
+"10 Characters/Netezu.md": {
+"title": "Netezu",
+"type": "character",
+"aliases": [
+"Ryūnosuke Gotou",
+"Ryūnosuke",
+"Netezu te Ngotxì Txewan'itan"
+],
+"canon": "confirmed",
+"sha": "57a93e896dfcd842",
+"bytes": 2196,
+"links": [
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Relationship Lore",
+"Syulang",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Nika.md": {
+"title": "Nika",
+"type": "character",
+"aliases": [
+"Nika Nanaura-Fardin",
+"Silver Hand"
+],
+"canon": "confirmed",
+"sha": "d97a3ff1dd72fa5d",
+"bytes": 5537,
+"links": [
+"Earth House",
+"Sänrri"
+],
+"open": 0
+},
+"10 Characters/Notä.md": {
+"title": "Notä",
+"type": "character",
+"aliases": [
+"Notrette Samaya-Rembran",
+"Notrette",
+"Notä te Samaya Mìreya'ite"
+],
+"canon": "confirmed",
+"sha": "56ba8ac7b02dfdb1",
+"bytes": 3684,
+"links": [
+"Atanvi",
+"Eantu",
+"Kxayì",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Nì'syu",
+"Rawìl",
+"Relationship Lore",
+"Samaya"
+],
+"open": 0
+},
+"10 Characters/Nuno Kargan.md": {
+"title": "Nuno Kargan",
+"type": "character",
+"aliases": [],
+"canon": "confirmed",
+"sha": "0b6bb99f77e0dbe4",
+"bytes": 6489,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Nì'syu.md": {
+"title": "Nì'syu",
+"type": "character",
+"aliases": [
+"'Awll",
+"Uika Misumi",
+"Uika",
+"Hatsune Misumi",
+"Hatsune",
+"Nì'syu/'Awll te Pxeon Kxlli'ite"
+],
+"canon": "confirmed",
+"sha": "7c47209832d2693f",
+"bytes": 6519,
+"links": [
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Rulings Log",
+"Syayvi",
+"The Scattered Ashes"
+],
+"open": 0
+},
+"10 Characters/Nìla.md": {
+"title": "Nìla",
+"type": "character",
+"aliases": [
+"Riko Yahata",
+"Riko",
+"Nìla te Ikutxo Txafwe'itan"
+],
+"canon": "confirmed",
+"sha": "2709a4f9e8c627ac",
+"bytes": 4030,
+"links": [
+"Mawpay",
+"Na'vi Name Case Forms",
+"Rängay",
+"Txafwe"
+],
+"open": 0
+},
+"10 Characters/Oarä.md": {
+"title": "Oarä",
+"type": "character",
+"aliases": [
+"Runa Ijichi",
+"Runa",
+"Oarä te Hafyon Katirì'itu",
+"Oarä te Hafyon Katirì'ite"
+],
+"canon": "confirmed",
+"sha": "ffcf1e305cb1e875",
+"bytes": 3642,
+"links": [
+"Katirì",
+"Mìrì",
+"Na'vi Name Case Forms",
+"Pamyaw",
+"Sänrri",
+"Tswesya"
+],
+"open": 0
+},
+"10 Characters/Ojelo Gabel.md": {
+"title": "Ojelo Gabel",
+"type": "character",
+"aliases": [],
+"canon": "confirmed",
+"sha": "35cd58ef586c1061",
+"bytes": 3423,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Pakì.md": {
+"title": "Pakì",
+"type": "character",
+"aliases": [
+"Patty Thompson",
+"Patty",
+"Pakì te Vomson Alye'ite"
+],
+"canon": "confirmed",
+"sha": "8f95af8ca791a0ad",
+"bytes": 3672,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Pamyaw.md": {
+"title": "Pamyaw",
+"type": "character",
+"aliases": [
+"Raana Kaname",
+"Raana",
+"Kaname",
+"Pamyaw te Nìrana Txìä'ite"
+],
+"canon": "confirmed",
+"sha": "05a3d729ad9d7bd4",
+"bytes": 8109,
+"links": [
+"Apayì",
+"Na'vi Name Case Forms",
+"Pxayu",
+"Rängay",
+"Sänrri",
+"The Lost Cohort"
+],
+"open": 0
+},
+"10 Characters/Paysìn.md": {
+"title": "Paysìn",
+"type": "character",
+"aliases": [
+"Blair",
+"Paysìn te Talwey Sìrul'ite"
+],
+"canon": "confirmed",
+"sha": "521d74d7abc0fd7a",
+"bytes": 4803,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Pxayu.md": {
+"title": "Pxayu",
+"type": "character",
+"aliases": [
+"Soyo Nagasaki",
+"Soyo",
+"Pxayu te Kll'i'a Tsìra'ite"
+],
+"canon": "confirmed",
+"sha": "5d5cb995b21bc638",
+"bytes": 6289,
+"links": [
+"Apayì",
+"Lawarey",
+"Na'vi Name Case Forms",
+"Pamyaw",
+"Relationship Lore",
+"Rängay",
+"Sänrri",
+"The Lost Cohort"
+],
+"open": 0
+},
+"10 Characters/Rawìl.md": {
+"title": "Rawìl",
+"type": "character",
+"aliases": [
+"Ravell Samaya-Rembran",
+"Ravell",
+"Rawìl te Samaya Atanvi'itan"
+],
+"canon": "confirmed",
+"sha": "0a78d58eefb3d61b",
+"bytes": 3002,
+"links": [
+"Anake",
+"Atanvi",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Notä",
+"Samaya",
+"Tulìpey"
+],
+"open": 0
+},
+"10 Characters/Rewon.md": {
+"title": "Rewon",
+"type": "character",
+"aliases": [
+"Asa Mitaka",
+"Asa",
+"Mitaka",
+"Rewon te Pxeayo Txoewll'ite"
+],
+"canon": "confirmed",
+"sha": "eb04571ee2af923d",
+"bytes": 10794,
+"links": [
+"Anake",
+"Haykxa",
+"Kxayì",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Rulings Log",
+"Syulang",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Roneyu.md": {
+"title": "Roneyu",
+"type": "character",
+"aliases": [
+"Crona",
+"Roneyu te Kxaro Venu'itu"
+],
+"canon": "confirmed",
+"sha": "3362ed284c437615",
+"bytes": 19197,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Rängay.md": {
+"title": "Rängay",
+"type": "character",
+"aliases": [
+"Taki Shiina",
+"Taki",
+"Rängay te Ikutxo Tosiwi'ite"
+],
+"canon": "confirmed",
+"sha": "02e29d2812828764",
+"bytes": 7607,
+"links": [
+"Apayì",
+"Kaymi",
+"Lì'may",
+"Mawpay",
+"Na'vi Name Case Forms",
+"Narayra",
+"Nìla",
+"Pamyaw",
+"Pxayu",
+"Relationship Lore",
+"Sänrri",
+"The Lost Cohort",
+"The Wild Hunt",
+"Txafwe"
+],
+"open": 0
+},
+"10 Characters/Seytu.md": {
+"title": "Seytu",
+"type": "character",
+"aliases": [
+"Death the Kid",
+"Seytu te Anku Kxitx'itan"
+],
+"canon": "confirmed",
+"sha": "7fd71071185e16ec",
+"bytes": 8579,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Sua.md": {
+"title": "Sua",
+"type": "character",
+"aliases": [
+"Recom Sua",
+"The Clematis"
+],
+"canon": "confirmed",
+"sha": "683aa0bedf2dd0ea",
+"bytes": 7535,
+"links": [
+"ANAKT Fireteam",
+"Ivan",
+"Mizi",
+"Relationship Lore",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Syayvi.md": {
+"title": "Syayvi",
+"type": "character",
+"aliases": [
+"Sakiko Togawa",
+"Sakiko",
+"Tswa'avä",
+"Syayvi te Kilvay Luey'ite"
+],
+"canon": "confirmed",
+"sha": "604c713d3347586f",
+"bytes": 10784,
+"links": [
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Nì'syu",
+"Relationship Lore",
+"Rulings Log",
+"The Scattered Ashes",
+"Tìmeyo"
+],
+"open": 0
+},
+"10 Characters/Syulang.md": {
+"title": "Syulang",
+"type": "character",
+"aliases": [
+"Ikuyo Gotou",
+"Ikuyo",
+"Syulang te Ayfomä Kxuryo'ite"
+],
+"canon": "confirmed",
+"sha": "6abcbf9d30c0dd74",
+"bytes": 5376,
+"links": [
+"Atanvi",
+"Katirì",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Na'vi Name Case Forms",
+"Netezu",
+"Ngotxì",
+"Relationship Lore",
+"Rewon",
+"Rulings Log",
+"Tsa'rawm",
+"Tswesya",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Sänrri.md": {
+"title": "Sänrri",
+"type": "character",
+"aliases": [
+"Tomori Samaya",
+"Tomori Samaya-Takamatsu",
+"Tomori",
+"Tomori Takamatsu",
+"Dr. Tomori Takamatsu",
+"Sänrri te Tsawtral Tanhì'ite",
+"Clancy"
+],
+"canon": "confirmed",
+"sha": "0e96f144b3380031",
+"bytes": 13376,
+"links": [
+"'Ipxerey",
+"Apayì",
+"Astikasya Accent Reference",
+"Kaymi",
+"Kobeni",
+"Lì'may",
+"Na'vi Name Case Forms",
+"Pamyaw",
+"Pxayu",
+"Relationship Lore",
+"Rulings Log",
+"Rängay",
+"Samaya",
+"The Lost Cohort"
+],
+"open": 0
+},
+"10 Characters/Sänume.md": {
+"title": "Sänume",
+"type": "character",
+"aliases": [
+"Nayuta Hayakawa",
+"Nayuta",
+"Sänume te Haykxa Txalay'ite"
+],
+"canon": "confirmed",
+"sha": "663c573d8f026d11",
+"bytes": 3082,
+"links": [
+"'Eweyn",
+"'Ipxerey",
+"Haykxa",
+"Kayan",
+"Lamaytxa",
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Rulings Log",
+"Sänrri",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Sìltsyu.md": {
+"title": "Sìltsyu",
+"type": "character",
+"aliases": [
+"Tsubaki Nakatsukasa",
+"Tsubaki",
+"Nakatsukasa",
+"Sìltsyu te Naksa Mirel'ite"
+],
+"canon": "confirmed",
+"sha": "cd0aa334983d4868",
+"bytes": 3590,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Teysaw.md": {
+"title": "Teysaw",
+"type": "character",
+"aliases": [
+"Maka Albarn",
+"Maka",
+"Albarn",
+"Teysaw te Herwì Kami'ite"
+],
+"canon": "confirmed",
+"sha": "c68e5c00c101b8bb",
+"bytes": 3802,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Till Nys.md": {
+"title": "Till Nys",
+"type": "character",
+"aliases": [],
+"canon": "confirmed",
+"sha": "876f430e4d5750aa",
+"bytes": 6384,
+"links": [
+"Earth House"
+],
+"open": 0
+},
+"10 Characters/Till.md": {
+"title": "Till",
+"type": "character",
+"aliases": [
+"Recom Till",
+"The Thornbriar"
+],
+"canon": "confirmed",
+"sha": "5d3fac67f37150e4",
+"bytes": 5516,
+"links": [
+"ANAKT Fireteam",
+"Ivan",
+"Ketxe",
+"Tsa'rawm"
+],
+"open": 0
+},
+"10 Characters/Tsa'rawm.md": {
+"title": "Tsa'rawm",
+"type": "character",
+"aliases": [
+"Denji Hayakawa",
+"Denji",
+"Tsa'rawm te Haykxa Tse'kam'itan"
+],
+"canon": "confirmed",
+"sha": "bd881217e5f0d608",
+"bytes": 12695,
+"links": [
+"Anake",
+"Atanvi",
+"Haykxa",
+"Kayan",
+"Ketxe",
+"Kxayì",
+"Lamaytxa",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rewon",
+"Rulings Log",
+"Sänume",
+"Till",
+"Tsu'lan",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Tse'hayu.md": {
+"title": "Tse'hayu",
+"type": "character",
+"aliases": [
+"Naoki Gotou",
+"Naoki",
+"Tse'hayu te Ngotxì Ri'ya'itan"
+],
+"canon": "confirmed",
+"sha": "e76cc321a61c9679",
+"bytes": 5868,
+"links": [
+"'Eweyn",
+"Eyfuwen",
+"Mitsìyo",
+"Na'vi Name Case Forms",
+"Ngotxì",
+"Proverbs and Sayings of the Falls",
+"Relationship Lore",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Tsu'lan.md": {
+"title": "Tsu'lan",
+"type": "character",
+"aliases": [
+"Itadori Yuji",
+"Itadori",
+"Yuji",
+"Tsu'lan te Palu'vul Sayran'itan"
+],
+"canon": "confirmed",
+"sha": "4b2351f352f0bd01",
+"bytes": 12756,
+"links": [
+"Astikasya Accent Reference",
+"Chuchu",
+"Luka",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rulings Log",
+"Tsa'rawm",
+"Yukeyo"
+],
+"open": 0
+},
+"10 Characters/Tsu'ong.md": {
+"title": "Tsu'ong",
+"type": "character",
+"aliases": [
+"Guel Jeturk",
+"Guel",
+"Tsu'ong te Korhe Txep'itan"
+],
+"canon": "confirmed",
+"sha": "10e4c4643c082bb3",
+"bytes": 10318,
+"links": [
+"Atanvi",
+"Eantu",
+"Ketxe",
+"Korhe",
+"Mìreya",
+"Na'vi Name Case Forms",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rulings Log",
+"Tulìpey"
+],
+"open": 0
+},
+"10 Characters/Tswesya.md": {
+"title": "Tswesya",
+"type": "character",
+"aliases": [
+"Yamada Ryou",
+"Yamada",
+"Ryou",
+"Tswesya te Meitayä Mawnä'itu"
+],
+"canon": "confirmed",
+"sha": "b6001564ea8ecfe7",
+"bytes": 9483,
+"links": [
+"Katirì",
+"Na'vi Name Case Forms",
+"Oarä",
+"Relationship Lore",
+"Syulang",
+"Txewan"
+],
+"open": 0
+},
+"10 Characters/Tsyokanì.md": {
+"title": "Tsyokanì",
+"type": "character",
+"aliases": [
+"Yuta Okkotsu",
+"Yuta",
+"Okkotsu",
+"Tsyokanì te Okxa Yutil'itan",
+"Tsyokanì te Okka Yutil'itan"
+],
+"canon": "confirmed",
+"sha": "3b0e90c49b136161",
+"bytes": 6945,
+"links": [],
+"open": 0
+},
+"10 Characters/Tulìpey.md": {
+"title": "Tulìpey",
+"type": "character",
+"aliases": [
+"Alhena Jeturk",
+"Alhena",
+"Tulìpey te Korhe Ketxe'ite"
+],
+"canon": "confirmed",
+"sha": "653d2a36303cbf57",
+"bytes": 5831,
+"links": [
+"Eantu",
+"Ketxe",
+"Korhe",
+"Na'vi Name Case Forms",
+"Notä",
+"Rawìl",
+"Relationship Lore",
+"Sänrri",
+"Tsu'ong"
+],
+"open": 0
+},
+"10 Characters/Txafwe.md": {
+"title": "Txafwe",
+"type": "character",
+"aliases": [
+"Umiri Yahata",
+"Umiri",
+"Txafwe te Volsrä Mìuä'itan"
+],
+"canon": "confirmed",
+"sha": "8b5a34ef1cb72545",
+"bytes": 6181,
+"links": [
+"Mawpay",
+"Na'vi Name Case Forms",
+"Nìla",
+"Relationship Lore",
+"Rängay",
+"The Scattered Ashes"
+],
+"open": 0
+},
+"10 Characters/Txewan.md": {
+"title": "Txewan",
+"type": "character",
+"aliases": [
+"Txewì",
+"Hitori Gotou",
+"Hitori",
+"Txewan te Ngotxì Mitsìyo'ite"
+],
+"canon": "confirmed",
+"sha": "1bfb357774a11a04",
+"bytes": 7102,
+"links": [
+"'Eweyn",
+"Atanvi",
+"Katirì",
+"Mitsìyo",
+"Mizi",
+"Mìrì",
+"Mìyo",
+"Na'vi Name Case Forms",
+"Netezu",
+"Ngotxì",
+"Nine Spears of the Mists",
+"Relationship Lore",
+"Rulings Log",
+"Sua",
+"Syulang",
+"Tsa'rawm",
+"Tse'hayu",
+"Tswesya",
+"Tìfyaw"
+],
+"open": 0
+},
+"10 Characters/Txokän.md": {
+"title": "Txokän",
+"type": "character",
+"aliases": [
+"Soul Evans",
+"Soul",
+"Evans",
+"Txokän te Ivansì Evar'itan"
+],
+"canon": "confirmed",
+"sha": "ba7b30a8a8fdede5",
+"bytes": 3666,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Txolaw.md": {
+"title": "Txolaw",
+"type": "character",
+"aliases": [
+"Angel Hayakawa",
+"Angel",
+"Txolaw te Haykxa Kamun'itan"
+],
+"canon": "confirmed",
+"sha": "d799ad3143b606df",
+"bytes": 8659,
+"links": [
+"Haykxa",
+"Kayan",
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Rulings Log"
+],
+"open": 0
+},
+"10 Characters/Tìfyaw.md": {
+"title": "Tìfyaw",
+"type": "character",
+"aliases": [
+"Hiroi Kikuri",
+"Hiroi",
+"Kikuri",
+"Tìfyaw te Zeswa Anaya'ite"
+],
+"canon": "confirmed",
+"sha": "4a46e5284dea29b1",
+"bytes": 8483,
+"links": [
+"Atanvi",
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Txewan",
+"Waynhì"
+],
+"open": 0
+},
+"10 Characters/Tìmeyo.md": {
+"title": "Tìmeyo",
+"type": "character",
+"aliases": [
+"Kerevi",
+"Mutsumi Togawa",
+"Mutsumi",
+"Mortis",
+"Tìmeyo te Kilvay Luey'ite"
+],
+"canon": "confirmed",
+"sha": "ba2085f55e80deaa",
+"bytes": 13398,
+"links": [
+"Kaymi",
+"Na'vi Name Case Forms",
+"Syayvi",
+"The Scattered Ashes"
+],
+"open": 0
+},
+"10 Characters/Waynhì.md": {
+"title": "Waynhì",
+"type": "character",
+"aliases": [
+"Ijichi Seika",
+"Seika",
+"Waynhì te Hafyon Tsìeya'ite"
+],
+"canon": "confirmed",
+"sha": "5c8f46ea3ea20b30",
+"bytes": 10372,
+"links": [
+"Katirì",
+"Na'vi Name Case Forms",
+"Proverbs and Sayings of the Falls",
+"Relationship Lore",
+"Tìfyaw"
+],
+"open": 0
+},
+"10 Characters/Yawyay.md": {
+"title": "Yawyay",
+"type": "character",
+"aliases": [
+"Nyamu Yūtenji",
+"Nyamu",
+"Yūtenji",
+"Yawyay te Swotaw Eyìk'ite"
+],
+"canon": "confirmed",
+"sha": "1720cfd0104c8fc7",
+"bytes": 5673,
+"links": [
+"Astikasya Accent Reference",
+"Katirì",
+"Na'vi Name Case Forms",
+"The Scattered Ashes",
+"Tìmeyo"
+],
+"open": 0
+},
+"10 Characters/Yezì.md": {
+"title": "Yezì",
+"type": "character",
+"aliases": [
+"Liz Thompson",
+"Liz",
+"Yezì te Vomson Alye'ite"
+],
+"canon": "confirmed",
+"sha": "65b64bbbe7cb18d2",
+"bytes": 4480,
+"links": [
+"The Flying Troupe"
+],
+"open": 0
+},
+"10 Characters/Yueyla.md": {
+"title": "Yueyla",
+"type": "character",
+"aliases": [
+"Himeno",
+"Yueyla te Mayfam Eysi'ite"
+],
+"canon": "confirmed",
+"sha": "1168f4fe7c00df87",
+"bytes": 5990,
+"links": [
+"Tìfyaw"
+],
+"open": 0
+},
+"10 Characters/Yukeyo.md": {
+"title": "Yukeyo",
+"type": "character",
+"aliases": [
+"Yuko Ozawa",
+"Yuko",
+"Ozawa",
+"Yukeyo te Hì'tayo Rewni'ite"
+],
+"canon": "confirmed",
+"sha": "92fcf5f6b7c4127d",
+"bytes": 4273,
+"links": [
+"Na'vi Name Case Forms",
+"Relationship Lore",
+"Tsu'lan"
+],
+"open": 0
+},
+"10 Characters/Zìsaw.md": {
+"title": "Zìsaw",
+"type": "character",
+"aliases": [
+"PA-san",
+"Zìsaw te Aru'txo Pamu'ite"
+],
+"canon": "confirmed",
+"sha": "795128d24e4e7fb3",
+"bytes": 3368,
+"links": [
+"Na'vi Name Case Forms"
+],
+"open": 0
+},
+"20 Groups/ANAKT Fireteam.md": {
+"title": "ANAKT Fireteam",
+"type": "group",
+"aliases": [
+"ANAKT",
+"The ANAKT Fireteam",
+"Recombinant Unit-09"
+],
+"canon": null,
+"sha": "0fa9b4fcebc88e38",
+"bytes": 3580,
+"links": [
+"The Wild Hunt"
+],
+"open": 0
+},
+"20 Groups/Astikasya.md": {
+"title": "Astikasya",
+"type": "group",
+"aliases": [
+"Astikasya Clan",
+"The Astikasya Clan",
+"the Astikasya"
+],
+"canon": null,
+"sha": "d27c54fdd4e818d1",
+"bytes": 4217,
+"links": [
+"Ambition and Hope — The Ones Who Know All",
+"Eyfuwen",
+"Samaya"
+],
+"open": 1
+},
+"20 Groups/Earth House.md": {
+"title": "Earth House",
+"type": "group",
+"aliases": [
+"The Resistance",
+"The Resistance (Earth House)"
+],
+"canon": null,
+"sha": "2a73a613eaceb073",
+"bytes": 3672,
+"links": [
+"Aliya",
+"Chuchu",
+"Kobeni",
+"Lamaytxa",
+"Lilique Kadoka Lipati",
+"Martin Upmont",
+"Miri Sugo",
+"Nika",
+"Nuno Kargan",
+"Ojelo Gabel",
+"Till",
+"Till Nys",
+"Tsa'rawm",
+"Tsu'lan"
+],
+"open": 3
+},
+"20 Groups/Haykxa.md": {
+"title": "Haykxa",
+"type": "group",
+"aliases": [
+"Haykxa Family",
+"te Haykxa",
+"House Haykxa"
+],
+"canon": null,
+"sha": "432afe59196efd31",
+"bytes": 3742,
+"links": [
+"'Eweyn",
+"Anake",
+"Atanvi",
+"Kayan",
+"Kaymi",
+"Kxayì",
+"Lamaytxa",
+"Mìreya",
+"Notä",
+"Rawìl",
+"Rewon",
+"Syulang",
+"Sänume",
+"Tsa'rawm",
+"Txewan",
+"Txolaw"
+],
+"open": 3
+},
+"20 Groups/Korhe.md": {
+"title": "Korhe",
+"type": "group",
+"aliases": [
+"Korhe Family",
+"te Korhe"
+],
+"canon": null,
+"sha": "dc529e8e9e31a8b7",
+"bytes": 2950,
+"links": [
+"Anake",
+"Eantu",
+"Ketxe",
+"Notä",
+"Rawìl",
+"Tsa'rawm",
+"Tsu'ong",
+"Tulìpey"
+],
+"open": 3
+},
+"20 Groups/Ngotxì.md": {
+"title": "Ngotxì",
+"type": "group",
+"aliases": [
+"Ngotxì Family",
+"te Ngotxì"
+],
+"canon": null,
+"sha": "1134da576c4c50b8",
+"bytes": 2882,
+"links": [
+"'Eweyn",
+"Atanvi",
+"Katirì",
+"Mitsìyo",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Netezu",
+"Rewon",
+"Syulang",
+"Sänume",
+"Tsa'rawm",
+"Tse'hayu",
+"Tswesya",
+"Txewan",
+"Tìfyaw"
+],
+"open": 3
+},
+"20 Groups/Nine Spears of the Mists.md": {
+"title": "Nine Spears of the Mists",
+"type": "group",
+"aliases": [
+"Nine Spears",
+"The Nine Spears",
+"The Nine Spears of the Mists",
+"the Nine"
+],
+"canon": null,
+"sha": "76b0bdef14c5f402",
+"bytes": 8186,
+"links": [
+"Atanvi",
+"Kaymi",
+"Ketxe",
+"Rewon",
+"Syayvi",
+"Tsa'rawm",
+"Tsu'lan",
+"Tsu'ong",
+"Txewan"
+],
+"open": 0
+},
+"20 Groups/Relationship Lore.md": {
+"title": "Relationship Lore",
+"type": "reference",
+"aliases": [
+"AITM_Relationships_Lore"
+],
+"canon": null,
+"sha": "76fd5ebe28655919",
+"bytes": 18490,
+"links": [
+"The Wild Hunt"
+],
+"open": 0
+},
+"20 Groups/Samaya.md": {
+"title": "Samaya",
+"type": "group",
+"aliases": [
+"Samaya Family",
+"te Samaya",
+"House Samaya"
+],
+"canon": null,
+"sha": "e882c2dfcf5c761d",
+"bytes": 4093,
+"links": [
+"'Ipxerey",
+"Ambition and Hope — The Ones Who Know All",
+"Anake",
+"Astikasya",
+"Atanvi",
+"Eantu",
+"Eyfuwen",
+"Kaymi",
+"Kxayì",
+"Lì'may",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Notä",
+"Rawìl",
+"Rewon",
+"Syulang",
+"Sänrri",
+"Sänume",
+"Tsa'rawm",
+"Tse'hayu",
+"Tulìpey",
+"Txewan"
+],
+"open": 0
+},
+"20 Groups/The Flying Troupe.md": {
+"title": "The Flying Troupe",
+"type": "group",
+"aliases": [
+"Flying Troupe",
+"Aytepvi Tswayona Pongu",
+"the Troupe"
+],
+"canon": null,
+"sha": "df25c2347ee0a4b3",
+"bytes": 4722,
+"links": [],
+"open": 0
+},
+"20 Groups/The Lost Cohort.md": {
+"title": "The Lost Cohort",
+"type": "group",
+"aliases": [
+"Lost Cohort"
+],
+"canon": null,
+"sha": "fcc96c3d4d930534",
+"bytes": 2852,
+"links": [
+"Apayì",
+"Lawarey",
+"Mawpay",
+"Nìla",
+"Pamyaw",
+"Pxayu",
+"Rängay",
+"Sänrri",
+"Tsu'lan",
+"Txafwe"
+],
+"open": 3
+},
+"20 Groups/The Scattered Ashes.md": {
+"title": "The Scattered Ashes",
+"type": "group",
+"aliases": [
+"Scattered Ashes"
+],
+"canon": null,
+"sha": "dc4cffa5189e66bc",
+"bytes": 3440,
+"links": [
+"Nì'syu",
+"Rängay",
+"Syayvi",
+"Txafwe",
+"Tìmeyo",
+"Yawyay"
+],
+"open": 4
+},
+"30 World/Allied Clans.md": {
+"title": "Allied Clans",
+"type": "reference",
+"aliases": [],
+"canon": "confirmed",
+"sha": "25f7a9e9b9a43c3d",
+"bytes": 442,
+"links": [
+"Tìfyaw",
+"Zìsaw"
+],
+"open": 0
+},
+"30 World/Astikasya Yellow.md": {
+"title": "Astikasya Yellow",
+"type": "custom",
+"aliases": [
+"Tìrim",
+"Tìrim — The Yellow of the Astikasya",
+"Bandito yellow"
+],
+"canon": "confirmed",
+"sha": "34f295c419883767",
+"bytes": 6885,
+"links": [
+"Kaymi",
+"Sänrri",
+"Zìsaw"
+],
+"open": 0
+},
+"30 World/Cave of Truth.md": {
+"title": "Cave of Truth",
+"type": "place",
+"aliases": [
+"Tìngayä Slär"
+],
+"canon": "confirmed",
+"sha": "aecccd96363b9a17",
+"bytes": 861,
+"links": [
+"'Ipxerey",
+"Luka"
+],
+"open": 0
+},
+"30 World/Communication with Ancestors.md": {
+"title": "Communication with Ancestors",
+"type": "custom",
+"aliases": [],
+"canon": "confirmed",
+"sha": "fd5a66071f9197b7",
+"bytes": 619,
+"links": [
+"'Ipxerey"
+],
+"open": 0
+},
+"30 World/Education.md": {
+"title": "Education",
+"type": "custom",
+"aliases": [],
+"canon": "confirmed",
+"sha": "ad1ff1c2c03dc8ef",
+"bytes": 585,
+"links": [
+"'Ipxerey",
+"Kaymi",
+"Mitsìyo",
+"Mìreya",
+"Rängay",
+"Sänrri",
+"Tse'hayu",
+"Tsu'lan",
+"Tswesya"
+],
+"open": 0
+},
+"30 World/Food & Cuisine.md": {
+"title": "Food & Cuisine",
+"type": "custom",
+"aliases": [],
+"canon": "confirmed",
+"sha": "33ed0e641432bcef",
+"bytes": 462,
+"links": [
+"'Eweyn",
+"Tse'hayu"
+],
+"open": 0
+},
+"30 World/Gender Transition Through Eye of Eywa.md": {
+"title": "Gender Transition Through Eye of Eywa",
+"type": "custom",
+"aliases": [
+"Eye of Eywa"
+],
+"canon": "confirmed",
+"sha": "48263a3441b4f417",
+"bytes": 978,
+"links": [
+"Apayì",
+"Atanvi",
+"Oarä",
+"Rulings Log",
+"Rängay",
+"Tswesya",
+"Txafwe",
+"Txewan",
+"Txolaw",
+"Tìfyaw",
+"Zìsaw"
+],
+"open": 0
+},
+"30 World/Hostile Forces.md": {
+"title": "Hostile Forces",
+"type": "reference",
+"aliases": [],
+"canon": "confirmed",
+"sha": "f97c6c55be3b5b5f",
+"bytes": 467,
+"links": [],
+"open": 0
+},
+"30 World/Ikran-Mounted Crossbow.md": {
+"title": "Ikran-Mounted Crossbow",
+"type": "technology",
+"aliases": [
+"ikran crossbow"
+],
+"canon": "confirmed",
+"sha": "23c7bc75979a4bcf",
+"bytes": 718,
+"links": [
+"Sänrri"
+],
+"open": 0
+},
+"30 World/Laysrew.md": {
+"title": "Laysrew",
+"type": "custom",
+"aliases": [
+"Free Dance",
+"Laysrewtsyìp"
+],
+"canon": "confirmed",
+"sha": "bc58306fc9045a6d",
+"bytes": 3529,
+"links": [],
+"open": 0
+},
+"30 World/Music & Arts.md": {
+"title": "Music & Arts",
+"type": "custom",
+"aliases": [],
+"canon": "confirmed",
+"sha": "0ea305c3da0f00a4",
+"bytes": 586,
+"links": [
+"Katirì",
+"Mitsìyo",
+"Notä",
+"Rewon",
+"Sänrri",
+"Tse'hayu",
+"Tswesya",
+"Txewan",
+"Zìsaw"
+],
+"open": 0
+},
+"30 World/Sheltering Falls.md": {
+"title": "Sheltering Falls",
+"type": "place",
+"aliases": [
+"The Falls",
+"Sheltering Falls (Home Settlement)"
+],
+"canon": "confirmed",
+"sha": "9d7280950da9a868",
+"bytes": 743,
+"links": [],
+"open": 0
+},
+"30 World/The Artisan of the Spears.md": {
+"title": "The Artisan of the Spears",
+"type": "custom",
+"aliases": [
+"Artisan of the Spears"
+],
+"canon": "confirmed",
+"sha": "687b8f385ff4f9d6",
+"bytes": 2037,
+"links": [
+"'Ipxerey",
+"Kayan",
+"Txolaw"
+],
+"open": 0
+},
+"30 World/The Lake.md": {
+"title": "The Lake",
+"type": "place",
+"aliases": [
+"Geography of the Western Frontier: The Lake",
+"the Lake"
+],
+"canon": "confirmed",
+"sha": "c43aa01327fb4ed3",
+"bytes": 9164,
+"links": [
+"Mizi",
+"Sänrri"
+],
+"open": 0
+},
+"30 World/The Mark of Earth House.md": {
+"title": "The Mark of Earth House",
+"type": "custom",
+"aliases": [
+"Earth House Mark"
+],
+"canon": "confirmed",
+"sha": "0f0b299dd2c60b59",
+"bytes": 11504,
+"links": [
+"'Ipxerey",
+"Aliya",
+"Chuchu",
+"Eyfuwen",
+"Kaymi",
+"Kobeni",
+"Nika",
+"Till Nys"
+],
+"open": 0
+},
+"30 World/Woodshaping.md": {
+"title": "Woodshaping",
+"type": "technology",
+"aliases": [
+"Woodshaping Techniques"
+],
+"canon": "confirmed",
+"sha": "6045d96516c9c4c6",
+"bytes": 676,
+"links": [
+"Mìreya",
+"Notä",
+"Zìsaw"
+],
+"open": 0
+},
+"30 World/Worldbuilding Reference.md": {
+"title": "Worldbuilding Reference",
+"type": "reference",
+"aliases": [
+"Astikasya_Worldbuilding_Reference",
+"Astikasya Clan - World-Building Reference"
+],
+"canon": null,
+"sha": "a2936a11efe5e296",
+"bytes": 9046,
+"links": [
+"Allied Clans",
+"Ambition and Hope — The Ones Who Know All",
+"Cave of Truth",
+"Communication with Ancestors",
+"Earth House",
+"Education",
+"Food & Cuisine",
+"Gender Transition Through Eye of Eywa",
+"Hostile Forces",
+"Ikran-Mounted Crossbow",
+"Laysrew",
+"Music & Arts",
+"Nine Spears of the Mists",
+"Prelude to Fire",
+"Rulings Log",
+"Sheltering Falls",
+"The Reckoning",
+"Woodshaping"
+],
+"open": 0
+},
+"40 Story/Arcs/A Torchlight.md": {
+"title": "A Torchlight",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "a988e1787dd0ed34",
+"bytes": 6350,
+"links": [
+"'Ipxerey",
+"Apayì",
+"Kaymi",
+"Kobeni",
+"Luka",
+"Lì'may",
+"Nika",
+"Pamyaw",
+"Pxayu",
+"Rängay",
+"Sänrri",
+"The Lost Cohort",
+"The Scattered Ashes",
+"Txafwe"
+],
+"open": 10
+},
+"40 Story/Arcs/Ambition and Hope — The Ones Who Know All.md": {
+"title": "Ambition and Hope — The Ones Who Know All",
+"type": "arc",
+"aliases": [
+"Ambition and Hope",
+"The Ones Who Know All"
+],
+"canon": "confirmed",
+"sha": "d5f29cea84f49f50",
+"bytes": 14290,
+"links": [
+"Apayì",
+"Astikasya",
+"Kaymi",
+"Roneyu",
+"Samaya",
+"Siege of the Falls",
+"Syayvi",
+"Sänrri",
+"The Flying Troupe",
+"The Lost Cohort",
+"Tsu'lan",
+"Txafwe"
+],
+"open": 23
+},
+"40 Story/Arcs/Prelude to Fire.md": {
+"title": "Prelude to Fire",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "5a91534a7461ce6a",
+"bytes": 11202,
+"links": [
+"'Ipxerey",
+"Apayì",
+"Atanvi",
+"Cave of Truth",
+"Earth House",
+"Katirì",
+"Kaymi",
+"Ketxe",
+"Nika",
+"Pamyaw",
+"Pxayu",
+"Rewon",
+"Roneyu",
+"Rängay",
+"Syayvi",
+"Sänrri",
+"The Lost Cohort",
+"The Scattered Ashes",
+"Tsa'rawm",
+"Tsu'lan",
+"Tsu'ong",
+"Txafwe",
+"Txewan",
+"Tìmeyo"
+],
+"open": 13
+},
+"40 Story/Arcs/Scattered Ashes, Burning Hearts.md": {
+"title": "Scattered Ashes, Burning Hearts",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "57bccd22d1df0561",
+"bytes": 6509,
+"links": [
+"Kaymi",
+"Nì'syu",
+"Prologue — The Forest and the Falls",
+"Rängay",
+"Syayvi",
+"Sänrri",
+"The Lost Cohort",
+"The Scattered Ashes",
+"Txafwe",
+"Tìmeyo",
+"Yawyay"
+],
+"open": 8
+},
+"40 Story/Arcs/Siege of the Falls.md": {
+"title": "Siege of the Falls",
+"type": "arc",
+"aliases": [
+"The Siege of the Falls",
+"Siege of the Falls Arc",
+"the Siege",
+"Asedio de las Cascadas"
+],
+"canon": "confirmed",
+"sha": "d84742058a123dd2",
+"bytes": 15772,
+"links": [
+"'Ipxerey",
+"Aliya",
+"Ambition and Hope — The Ones Who Know All",
+"Anake",
+"Atanvi",
+"Breach — The Final Battle and the Wild Hunt",
+"Chuchu",
+"Clancy — The Teaching, the Occupation and the Siege",
+"Eyfuwen",
+"Hyuna",
+"Ivan",
+"Kayan",
+"Kaymi",
+"Ketxe",
+"Kobeni",
+"Kxayì",
+"La Piadosa y la Bruja",
+"Lamaytxa",
+"Luka",
+"Mizi",
+"Mìreya",
+"Nika",
+"Nine Spears of the Mists",
+"Notä",
+"Nì'syu",
+"Prelude to Fire",
+"Rawìl",
+"Rewon",
+"Sua",
+"Syayvi",
+"Syulang",
+"Sänrri",
+"The Wild Hunt",
+"Till",
+"Tsa'rawm",
+"Tsu'lan",
+"Tsu'ong",
+"Tulìpey",
+"Txafwe",
+"Txewan",
+"Tìfyaw",
+"Tìmeyo",
+"Yawyay"
+],
+"open": 2
+},
+"40 Story/Arcs/The Great Games.md": {
+"title": "The Great Games",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "58c537ffbee9a25f",
+"bytes": 7140,
+"links": [
+"'Ipxerey",
+"Anake",
+"Atanvi",
+"Eantu",
+"Kayan",
+"Kaymi",
+"Kxayì",
+"Lawarey",
+"Lì'may",
+"Mawpay",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Netezu",
+"Notä",
+"Nìla",
+"Oarä",
+"Rawìl",
+"Rewon",
+"Sheltering Falls",
+"Syulang",
+"Sänrri",
+"Tsa'rawm",
+"Tulìpey",
+"Txewan"
+],
+"open": 9
+},
+"40 Story/Arcs/The Reckoning.md": {
+"title": "The Reckoning",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "2b81de6ae161b873",
+"bytes": 8785,
+"links": [
+"'Ipxerey",
+"Apayì",
+"Kaymi",
+"Kobeni",
+"Lawarey",
+"Mawpay",
+"Miri Sugo",
+"Nika",
+"Nine Spears of the Mists",
+"Nìla",
+"Pamyaw",
+"Pxayu",
+"Roneyu",
+"Rängay",
+"Scaled and Icy — The Captivity",
+"Syayvi",
+"Sänrri",
+"The Lost Cohort",
+"The Scattered Ashes",
+"Tsu'lan",
+"Txafwe",
+"Tìmeyo"
+],
+"open": 8
+},
+"40 Story/Arcs/The Thanator and the Slinger.md": {
+"title": "The Thanator and the Slinger",
+"type": "arc",
+"aliases": [],
+"canon": "confirmed",
+"sha": "0689b0eca8ca8d54",
+"bytes": 6636,
+"links": [
+"Atanvi",
+"Eantu",
+"Earth House",
+"Ketxe",
+"Mìreya",
+"Nika",
+"Notä",
+"Rewon",
+"Sänrri",
+"Sänume",
+"Tsa'rawm",
+"Tsu'ong",
+"Tulìpey"
+],
+"open": 8
+},
+"40 Story/Arcs/The Wild Hunt.md": {
+"title": "The Wild Hunt",
+"type": "arc",
+"aliases": [
+"The Wild Hunt Arc",
+"Wild Hunt"
+],
+"canon": "confirmed",
+"sha": "6fdc5ce9c2ab7ed5",
+"bytes": 31278,
+"links": [
+"'Ipxerey",
+"Breach — The Final Battle and the Wild Hunt",
+"Hyuna",
+"Ivan",
+"Kaymi",
+"Ketxe",
+"Layon",
+"Luka",
+"Lì'may",
+"Mizi",
+"Narayra",
+"Nì'syu",
+"Nìla",
+"Pakì",
+"Paysìn",
+"Rawìl",
+"Roneyu",
+"Rängay",
+"Seytu",
+"Siege of the Falls",
+"Sua",
+"Syayvi",
+"Sänrri",
+"Sìltsyu",
+"Teysaw",
+"The Flying Troupe",
+"Till",
+"Tsa'rawm",
+"Tsu'lan",
+"Tsu'ong",
+"Tsyokanì",
+"Txokän",
+"Tìmeyo",
+"Yawyay",
+"Yezì",
+"Yukeyo"
+],
+"open": 7
+},
+"40 Story/Eras/Blurryface — The Varang Years.md": {
+"title": "Blurryface — The Varang Years",
+"type": "era",
+"aliases": [
+"Blurryface"
+],
+"canon": "confirmed",
+"sha": "f068d454d582bfcd",
+"bytes": 1143,
+"links": [
+"Kobeni",
+"Miri Sugo",
+"Nika",
+"Syayvi",
+"Sänrri",
+"Tìmeyo"
+],
+"open": 0
+},
+"40 Story/Eras/Breach — The Final Battle and the Wild Hunt.md": {
+"title": "Breach — The Final Battle and the Wild Hunt",
+"type": "era",
+"aliases": [
+"Breach"
+],
+"canon": "confirmed",
+"sha": "89373186748a1a93",
+"bytes": 1753,
+"links": [
+"'Ipxerey",
+"Kaymi",
+"Luka",
+"Mizi",
+"Nì'syu",
+"Roneyu",
+"Syayvi",
+"Sänrri",
+"Tsu'lan",
+"Tsyokanì",
+"Tìmeyo",
+"Yawyay",
+"Yukeyo"
+],
+"open": 0
+},
+"40 Story/Eras/Clancy — The Teaching, the Occupation and the Siege.md": {
+"title": "Clancy — The Teaching, the Occupation and the Siege",
+"type": "era",
+"aliases": [
+"Clancy"
+],
+"canon": "confirmed",
+"sha": "6641430b64c9976f",
+"bytes": 2551,
+"links": [
+"'Ipxerey",
+"Anake",
+"Atanvi",
+"Chuchu",
+"Hyuna",
+"Ivan",
+"Kaymi",
+"Ketxe",
+"Mizi",
+"Mìreya",
+"Nika",
+"Notä",
+"Rawìl",
+"Rewon",
+"Sua",
+"Syayvi",
+"Syulang",
+"Sänrri",
+"Till",
+"Tsa'rawm",
+"Tsu'lan",
+"Tulìpey",
+"Txewan",
+"Tìmeyo"
+],
+"open": 0
+},
+"40 Story/Eras/Overcompensate — The Homecoming.md": {
+"title": "Overcompensate — The Homecoming",
+"type": "era",
+"aliases": [],
+"canon": "confirmed",
+"sha": "dcad4c7eacda0bd2",
+"bytes": 374,
+"links": [
+"Kaymi",
+"Sänrri"
+],
+"open": 0
+},
+"40 Story/Eras/Prologue — The Forest and the Falls.md": {
+"title": "Prologue — The Forest and the Falls",
+"type": "era",
+"aliases": [
+"Prologue"
+],
+"canon": "confirmed",
+"sha": "17b09d76de11ab92",
+"bytes": 1310,
+"links": [
+"'Eweyn",
+"Atanvi",
+"Kayan",
+"Kaymi",
+"Rängay",
+"Syayvi",
+"Tsa'rawm",
+"Txafwe",
+"Txewan",
+"Tìmeyo"
+],
+"open": 0
+},
+"40 Story/Eras/Scaled and Icy — The Captivity.md": {
+"title": "Scaled and Icy — The Captivity",
+"type": "era",
+"aliases": [
+"Scaled and Icy"
+],
+"canon": "confirmed",
+"sha": "5a667092083c16df",
+"bytes": 1986,
+"links": [
+"Apayì",
+"Kaymi",
+"Roneyu",
+"Sänrri",
+"Tsu'lan",
+"Txafwe"
+],
+"open": 0
+},
+"40 Story/Eras/The Dreamwalker Years.md": {
+"title": "The Dreamwalker Years",
+"type": "era",
+"aliases": [],
+"canon": "confirmed",
+"sha": "6c3e763501049905",
+"bytes": 1179,
+"links": [
+"'Ipxerey",
+"Anake",
+"Apayì",
+"Atanvi",
+"Kaymi",
+"Lì'may",
+"Mìreya",
+"Nika",
+"Pamyaw",
+"Pxayu",
+"Rawìl",
+"Rewon",
+"Rängay",
+"Sänrri",
+"Tsa'rawm"
+],
+"open": 0
+},
+"40 Story/Scenes/Kava with the Nine.md": {
+"title": "Kava with the Nine",
+"type": "scene",
+"aliases": [
+"AITM — Kava with the Nine"
+],
+"canon": "confirmed",
+"sha": "f1ff4f630e7313ed",
+"bytes": 8037,
+"links": [
+"'Ipxerey",
+"Atanvi",
+"Kaymi",
+"Ketxe",
+"Luka",
+"Mìreya",
+"Nì'syu",
+"Rewon",
+"Syayvi",
+"Syulang",
+"Sänrri",
+"Tsa'rawm",
+"Tsu'lan",
+"Tsu'ong",
+"Txewan"
+],
+"open": 0
+},
+"40 Story/Scenes/La Piadosa y la Bruja.md": {
+"title": "La Piadosa y la Bruja",
+"type": "scene",
+"aliases": [
+"El Corredor al Santuario"
+],
+"canon": "confirmed",
+"sha": "23b074edc06fdae7",
+"bytes": 10737,
+"links": [
+"Atanvi",
+"Clancy — The Teaching, the Occupation and the Siege",
+"Mizi",
+"Siege of the Falls",
+"Sua"
+],
+"open": 0
+},
+"40 Story/Scenes/The Great Games Legacy.md": {
+"title": "The Great Games Legacy",
+"type": "scene",
+"aliases": [],
+"canon": "confirmed",
+"sha": "ae193d1679d8713d",
+"bytes": 10137,
+"links": [
+"'Ipxerey",
+"Anake",
+"Atanvi",
+"Kayan",
+"Kaymi",
+"Mìreya",
+"Rawìl",
+"Rewon",
+"Syulang",
+"Sänrri",
+"The Dreamwalker Years",
+"The Great Games",
+"Tsa'rawm",
+"Txewan"
+],
+"open": 0
+},
+"40 Story/Scenes/The Night the Warriors Lost Their Dignity.md": {
+"title": "The Night the Warriors Lost Their Dignity",
+"type": "scene",
+"aliases": [
+"Txon a aysamsiyul meuiat holan"
+],
+"canon": "confirmed",
+"sha": "7f4e370b4eeeae1d",
+"bytes": 20946,
+"links": [
+"Anake",
+"Atanvi",
+"Eyfuwen",
+"Kaymi",
+"Layon",
+"Mìreya",
+"Pakì",
+"Rawìl",
+"Roneyu",
+"Rängay",
+"Seytu",
+"Syulang",
+"Sänrri",
+"Sìltsyu",
+"Teysaw",
+"Tsa'rawm",
+"Txewan",
+"Txokän",
+"Txolaw",
+"Tìfyaw",
+"Yezì"
+],
+"open": 0
+},
+"40 Story/Scenes/Welcome Back to Trench.md": {
+"title": "Welcome Back to Trench",
+"type": "scene",
+"aliases": [
+"WELCOME BACK TO TRENCH"
+],
+"canon": "confirmed",
+"sha": "57c71705955f72c7",
+"bytes": 18391,
+"links": [
+"'Ipxerey",
+"Apayì",
+"Atanvi",
+"Katirì",
+"Kaymi",
+"Ketxe",
+"Overcompensate — The Homecoming",
+"Pamyaw",
+"Prelude to Fire",
+"Pxayu",
+"Rewon",
+"Rängay",
+"Sänrri",
+"Txafwe",
+"Txewan",
+"Tìmeyo"
+],
+"open": 0
+},
+"40 Story/Timeline.md": {
+"title": "Timeline",
+"type": "timeline",
+"aliases": [
+"Story Timeline",
+"AITM_Story_Timeline"
+],
+"canon": null,
+"sha": "2e4399ca5ad49af0",
+"bytes": 1448,
+"links": [
+"A Torchlight",
+"Ambition and Hope — The Ones Who Know All",
+"Blurryface — The Varang Years",
+"Breach — The Final Battle and the Wild Hunt",
+"Clancy — The Teaching, the Occupation and the Siege",
+"Open Questions",
+"Overcompensate — The Homecoming",
+"Prelude to Fire",
+"Prologue — The Forest and the Falls",
+"Scaled and Icy — The Captivity",
+"Scattered Ashes, Burning Hearts",
+"Siege of the Falls",
+"Story.base",
+"The Dreamwalker Years",
+"The Great Games",
+"The Reckoning",
+"The Thanator and the Slinger",
+"The Wild Hunt"
+],
+"open": 0
+},
+"50 Language/Astikasya Accent Reference.md": {
+"title": "Astikasya Accent Reference",
+"type": "reference",
+"aliases": [
+"AITM_Astikasya_Accent_Reference"
+],
+"canon": null,
+"sha": "5030e0e3d2031685",
+"bytes": 18027,
+"links": [],
+"open": 0
+},
+"50 Language/Family Terms.md": {
+"title": "Family Terms",
+"type": "reference",
+"aliases": [
+"Familiar terms"
+],
+"canon": null,
+"sha": "1d019867b372366e",
+"bytes": 620,
+"links": [],
+"open": 0
+},
+"50 Language/Na'vi Name Audit.md": {
+"title": "Na'vi Name Audit",
+"type": "reference",
+"aliases": [
+"AITM_Navi_Name_Audit"
+],
+"canon": null,
+"sha": "a230859779761a10",
+"bytes": 7447,
+"links": [],
+"open": 0
+},
+"50 Language/Na'vi Name Case Forms.md": {
+"title": "Na'vi Name Case Forms",
+"type": "reference",
+"aliases": [
+"AITM_Navi_Name_Case_Forms"
+],
+"canon": null,
+"sha": "0ac2c4f8a8998ecc",
+"bytes": 8243,
+"links": [],
+"open": 0
+},
+"50 Language/Name Fixes to Apply.md": {
+"title": "Name Fixes to Apply",
+"type": "reference",
+"aliases": [
+"AITM_Name_Fixes"
+],
+"canon": null,
+"sha": "f539dd90e2df6851",
+"bytes": 2553,
+"links": [],
+"open": 0
+},
+"50 Language/Notes from Na'viteri.md": {
+"title": "Notes from Na'viteri",
+"type": "reference",
+"aliases": [
+"AITM_Naviteri_Notes",
+"Na'viteri Notes"
+],
+"canon": null,
+"sha": "a5f80d8681981b63",
+"bytes": 6755,
+"links": [],
+"open": 0
+},
+"50 Language/Proverbs and Sayings of the Falls.md": {
+"title": "Proverbs and Sayings of the Falls",
+"type": "reference",
+"aliases": [
+"AITM_Navi_Proverbs"
+],
+"canon": null,
+"sha": "fe00bef9b5e6b52d",
+"bytes": 8789,
+"links": [],
+"open": 0
+},
+"50 Language/Reef Na'vi Reference.md": {
+"title": "Reef Na'vi Reference",
+"type": "reference",
+"aliases": [
+"AITM_Reef_Navi_Reference",
+"Reef Navi"
+],
+"canon": null,
+"sha": "18b18969d4b815ab",
+"bytes": 13263,
+"links": [],
+"open": 0
+},
+"50 Language/The Nine Spears in Na'vi.md": {
+"title": "The Nine Spears in Na'vi",
+"type": "reference",
+"aliases": [
+"AITM_Nine_Spears_Navi"
+],
+"canon": null,
+"sha": "be6e5dd43ab52192",
+"bytes": 13425,
+"links": [],
+"open": 0
+},
+"60 Meta/AU Analysis (October 2026).md": {
+"title": "AU Analysis (October 2026)",
+"type": "reference",
+"aliases": [],
+"canon": null,
+"sha": "f0ba68f1ab43e25d",
+"bytes": 14759,
+"links": [],
+"open": 0
+},
+"60 Meta/AU Analysis.md": {
+"title": "AU Analysis",
+"type": "reference",
+"aliases": [
+"Into_the_Mists_AU_Analysis"
+],
+"canon": null,
+"sha": "022059e742466467",
+"bytes": 14346,
+"links": [],
+"open": 0
+},
+"60 Meta/Canon Audit 2026-11-12.md": {
+"title": "Canon Audit 2026-11-12",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "42ec054ab364a95e",
+"bytes": 7444,
+"links": [
+"Atanvi",
+"Kayan",
+"Kaymi",
+"Lamaytxa",
+"Rulings Log",
+"Siege of the Falls",
+"Sänume",
+"Timeline",
+"Tsa'rawm"
+],
+"open": 0
+},
+"60 Meta/MBTI Reference.md": {
+"title": "MBTI Reference",
+"type": "reference",
+"aliases": [
+"AITM_MBTI_Reference"
+],
+"canon": null,
+"sha": "e443f183dcf349c7",
+"bytes": 8471,
+"links": [],
+"open": 0
+},
+"60 Meta/Vault Design.md": {
+"title": "Vault Design",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "1e721e9e2e5d64c2",
+"bytes": 6099,
+"links": [],
+"open": 0
+},
+"60 Meta/Working Reference.md": {
+"title": "Working Reference",
+"type": "reference",
+"aliases": [
+"Avatar Into the Mists — Working Reference"
+],
+"canon": null,
+"sha": "10dbd46a41379bb3",
+"bytes": 23303,
+"links": [],
+"open": 0
+},
+"60 Meta/_admin/CHECKPOINT.md": {
+"title": "CHECKPOINT",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "4d88ba64ae85798a",
+"bytes": 10151,
+"links": [
+"Ambition and Hope — The Ones Who Know All",
+"Apayì",
+"Astikasya",
+"Atanvi",
+"Canon Rules",
+"Gender Transition Through Eye of Eywa",
+"MBTI Reference",
+"Narayra",
+"Oarä",
+"Open Questions Index",
+"Operations Protocol",
+"Roneyu",
+"Rulings Log",
+"Rängay",
+"Samaya",
+"Siege of the Falls",
+"Sänrri",
+"The Wild Hunt",
+"Tsa'rawm",
+"Tswesya",
+"Tsyokanì",
+"Txafwe",
+"Txewan",
+"Txolaw",
+"Tìfyaw",
+"Zìsaw"
+],
+"open": 0
+},
+"60 Meta/_admin/Open Questions Index.md": {
+"title": "Open Questions Index",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "329c57435caf5a31",
+"bytes": 18811,
+"links": [
+"A Torchlight",
+"Ambition and Hope — The Ones Who Know All",
+"Astikasya",
+"Earth House",
+"Haykxa",
+"Korhe",
+"Miri Sugo",
+"Narayra",
+"Ngotxì",
+"Open Questions",
+"Prelude to Fire",
+"Scattered Ashes, Burning Hearts",
+"Siege of the Falls",
+"The Great Games",
+"The Lost Cohort",
+"The Reckoning",
+"The Scattered Ashes",
+"The Thanator and the Slinger",
+"The Wild Hunt"
+],
+"open": 0
+},
+"60 Meta/_admin/Operations Protocol.md": {
+"title": "Operations Protocol",
+"type": null,
+"aliases": [],
+"canon": null,
+"sha": "d5e090c823c4163c",
+"bytes": 10736,
+"links": [],
+"open": 0
+},
+"60 Meta/_admin/gender-pronoun-review-20261112.md": {
+"title": "gender-pronoun-review-20261112",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "9e184b9e2a82f078",
+"bytes": 16512,
+"links": [
+"'Eweyn",
+"'Ipxerey",
+"Aliya",
+"Anake",
+"Chuchu",
+"Eantu",
+"Eyfuwen",
+"Hyuna",
+"Ivan",
+"Katirì",
+"Kayan",
+"Kaymi",
+"Ketxe",
+"Kobeni",
+"Kxayì",
+"Lamaytxa",
+"Lawarey",
+"Layon",
+"Lilique Kadoka Lipati",
+"Luka",
+"Lì'may",
+"Martin Upmont",
+"Mawpay",
+"Miri Sugo",
+"Mitsìyo",
+"Mizi",
+"Mìreya",
+"Mìrì",
+"Mìyo",
+"Netezu",
+"Nika",
+"Notä",
+"Nuno Kargan",
+"Nì'syu",
+"Nìla",
+"Oarä",
+"Ojelo Gabel",
+"Pakì",
+"Pamyaw",
+"Paysìn",
+"Pxayu",
+"Rawìl",
+"Relationship Lore",
+"Rewon",
+"Rulings Log",
+"Seytu",
+"Sua",
+"Syayvi",
+"Syulang",
+"Sänrri",
+"Sänume",
+"Sìltsyu",
+"Teysaw",
+"Till",
+"Till Nys",
+"Tsa'rawm",
+"Tse'hayu",
+"Tsu'lan",
+"Tsu'ong",
+"Tswesya",
+"Tsyokanì",
+"Tulìpey",
+"Txokän",
+"Tìmeyo",
+"Waynhì",
+"Yawyay",
+"Yezì",
+"Yueyla",
+"Yukeyo"
+],
+"open": 0
+}
+}
+}
