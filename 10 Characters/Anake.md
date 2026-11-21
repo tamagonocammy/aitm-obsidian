@@ -43,6 +43,14 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Inspirations (ruled 2026-11-21).** Shinra Kusakabe from *Fire Force*, mostly in his design; Hyakkimaru from *Dororo*, for his hair; part his father [[Tsa'rawm]], part his mother [[Rewon]]; and an air of Sanji from *One Piece*.
+- **Chivalrous with women (ruled 2026-11-21).** He gets it from Sanji. He carries things for [[Mìreya]], [[Sänrri]] and [[Kaymi]], over-politely and badly, and gets flustered doing it. [[Kxayì]] and [[Notä]] refuse his help on principle.
+- **The careful side (ruled 2026-11-21).** His pranks look improvised but are scouted and planned twice, a habit from Rewon, who checks her work twice. The late-night archery is the same habit in private. The clown is his father's face and the archer is his mother's hands. He hides the archery because a joke is allowed to fail and shown skill gets measured, which fits his fear of being seen as only the funny one.
+- **He feeds people (ruled 2026-11-21).** Tsa'rawm grew up not knowing whether there would be food, and Anake cannot watch someone go hungry. He cooks for friends after a bad day, for the younger kids, and for anyone he is sorry to. Rewon's care with measuring shows in the cooking.
+- **The nervous grin (ruled 2026-11-21).** From Shinra: when he is frightened he grins. It is the same reflex as the joke that cracks in his voice during the [[Siege of the Falls]].
+
 ## Appears in
 
 ```base

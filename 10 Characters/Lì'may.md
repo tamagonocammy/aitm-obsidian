@@ -48,6 +48,10 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15:** in [[The Wild Hunt]]'s Falls thread, days after the Siege and still three years old, she plants herself between [[Narayra]] and her silent mother: *"Sa'nu is not Na'vi! Sa'nu is not human! Sa'nu is MY SA'NU!"* (*sa'nu*, "mommy," checked on Reykunyu.) See `_inbox/2026-11-15 Narayra and the Falls Thread.md`.
 
+- **Inspiration (ruled 2026-11-21).** Basically Cirno from *Touhou*, with the appearance of Star Sapphire. Her source name is Miyako. She is the comic relief of the whole story.
+- **Gap tooth and biting (ruled 2026-11-21).** She has a gap tooth, and she bites. Biting is her fighting style: she is winning when she bites, and the adults let her win. It fits her self-declared title of strongest warrior on Pandora.
+- **Uppies (ruled 2026-11-21).** She loves being picked up by her mothers, and she demands it like an order.
+
 ## Appears in
 
 ```base

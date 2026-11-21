@@ -51,6 +51,12 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Credit (2026-11-21).** Tulìpey is an original character by @lindholm_lizzie. The notes below are Millie's own development, ruled by Millie.
+- **Inspirations (ruled 2026-11-21).** She is mature, with an edge on her tongue from her mother [[Ketxe]] (Reze). The sources are Ino Yamanaka, Nami and Caitlyn. Ino is the closest fit: a healer in training, a flustered crush, and plants through the Tawkami, Ketxe's birth clan. Nami is second, for the strategy and the loyalty under the sharp tongue.
+- **Her twin (ruled 2026-11-21).** [[Eantu]] is loud about the test, and Tulìpey is precise about the target. Neither lets the other lie.
+
 ## Appears in
 
 ```base

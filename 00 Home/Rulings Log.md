@@ -161,6 +161,23 @@ Accepted from `_inbox/2026-11-17 Ke'awa Origin and AFOP Mappings.md`.
 - **Anufi = Belmeria Winston** (*Witch from Mercury*). **Nesim = Quanxi** (*Chainsaw Man*).
 - **Eyfuwen takes Tsu'lo's role.** There is no separate Tsu'lo in AITM: Eyfuwen led the 2138 departure to the Spires, and Anufi stayed behind with Mokasa. The bond mirrors Nadim and Belmeria's shared Vanadis past.
 
+## Ruled on 2026-11-21: the children
+
+Millie approved all of the following in chat and asked for it to be recorded as canon. The detail for each child is in that child's note under Notes. Credits stay: Rawìl, Notä, Tulìpey and Eantu are by @lindholm_lizzie.
+
+- **Mìrì and Mìyo** are FUWAMOCO of Hololive EN: Mìyo is Mococo, Mìrì is Fuwawa. Both keep 1 February. They share feelings and dreams, feel isolated as a pair, and hate their ear-tufts or tail touched. [[Notä]] and [[Kxayì]] are their older cousins by the sworn bond of [[Txewan]], [[Atanvi]] and [[Tsa'rawm]], not by blood.
+- **Netezu, Mìrì and Mìyo** are all children of Txewan and [[Syulang]], and Syulang bore all three. Netezu's grandmother is [[Mitsìyo]], Txewan's mother. The line in [[The Great Games]] calling Txewan his father is corrected.
+- **Nìla** is a girl and uses she/her. The Eye of Eywa is a coming-of-age rite and is how she will transition. [[Rängay]] gets her things to take in the meantime. Her gender is "trans girl" in the metadata. Her full name still ends in -'itan and the ending is Millie's call.
+- **Mawpay's and Nìla's source surname** is Yahata (Mirei Yahata and Riko Yahata). The Shiina in earlier notes was their mother Rängay's surname. This closes the open question in the checkpoint.
+- **Kxayì** is gay and has a crush on Notä. Her main inspiration is Gigi Murin of Hololive, plus her aunt Lamaytxa and above all her father Tsa'rawm.
+- **Anake** takes from Shinra, Hyakkimaru and Sanji. He is chivalrous with women, plans his pranks carefully, feeds people, and grins when he is frightened.
+- **Lawarey** is a mini Apayì with Pxayu's mannerisms. She has a class-president aura, hands out stones as rulings, and counts heads.
+- **Oarä** is Sucy Manbavaran from *Little Witch Academia*: hair over her eyes, a forager who tastes things and keeps a knotted cord.
+- **Lì'may** is basically Cirno from *Touhou*: a gap tooth, bites, comic relief, demands to be picked up.
+- **Rawìl** is Heero Yuy, Mikazuki Augus and above all his mother Mìreya: calculating, a momma's boy, and a sad boy. His scar is from protecting Mìrì and Mìyo.
+- **Notä** is an inventor drawn from Jinx, Cecilia Immergreen, Furina and her aunt Kaymi. She is a fangirl of Tamtey, gay, and in a situationship with Kxayì.
+- **Eantu** is the bully who is not quite the bully, the Aonung to Rawìl's Neteyam with an air of Eustass Kid, and **Tulìpey** is mature with Ketxe's edge, closest to Ino. Open: Eantu's build (burly or tall).
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

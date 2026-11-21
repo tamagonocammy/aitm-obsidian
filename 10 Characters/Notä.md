@@ -49,6 +49,12 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - **The minigun is gone (ruled 2026-11-12).** With the Falls made of unobtanium it could not work there, so the "minigun moment" is no longer canon.
+- **Credit (2026-11-21).** Notä is an original character by @lindholm_lizzie. The notes below are Millie's relay of the artist's concept plus Millie's own development, ruled by Millie.
+- **Inspirations (ruled 2026-11-21).** An inventor: Jinx from *Arcane*, Cecilia Immergreen of Hololive, bits of Furina from *Genshin Impact*, and her aunt [[Kaymi]] (Ericht).
+- **Cecilia (ruled 2026-11-21).** From hololive.wiki: intelligent, straightforward, stubborn and sarcastic, a builder of her own interactive games, and the foil to Gigi Murin. Notä builds contraptions to trick her friends in good fun, and she is [[Kxayì]]'s foil.
+- **Tamtey (ruled 2026-11-21).** She is a fangirl of Tamtey Kataru'ite, olo'eykte of the Sarentu in *Avatar: Frontiers of Pandora*.
+- **Gay (ruled 2026-11-21).** She got it from her moms, [[Mìreya]] and [[Atanvi]]. The vault has no orientation field, so it is recorded here.
+- **Kxayì (ruled 2026-11-21).** With Kxayì it is a bromance or a situationship, "Autofister but Na'vi", and Notä may not know which. She got over her crush on [[Nì'syu]], so she has an idea of what a crush looks like from outside.
 
 ## Appears in
 

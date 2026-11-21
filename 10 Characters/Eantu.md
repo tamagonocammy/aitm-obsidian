@@ -46,6 +46,14 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Credit (2026-11-21).** Eantu is an original character by @lindholm_lizzie. The notes below are Millie's relay of the artist's concept plus Millie's own development, ruled by Millie.
+- **Inspirations (ruled 2026-11-21).** The bully who is not quite the bully: the burly guy who tests the protagonist and then comes to respect him. He is the Aonung to [[Rawìl]]'s Neteyam, with an air of Eustass Kid from *One Piece*.
+- **The test on Rawìl (ruled 2026-11-21).** [[Tsu'ong]] once challenged [[Atanvi]] for [[Mìreya]] and was humiliated, and Mìreya is Rawìl's mother. Eantu bristles at Mìreya's son without knowing why, and the adults know. He is also checking out the boy his twin [[Tulìpey]] has a crush on.
+- **How respect arrives (ruled 2026-11-21).** Through something Rawìl does, not something Rawìl says.
+- **Build (open).** Millie described him as burly, while his profile says tall with natural agility. Not settled.
+
 ## Appears in
 
 ```base

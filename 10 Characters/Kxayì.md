@@ -47,6 +47,13 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Inspirations (ruled 2026-11-21).** A goblin through and through. Her main inspiration is Gigi Murin of Hololive, with traits from her aunt [[Lamaytxa]] and, most of all, her father [[Tsa'rawm]]. She is daddy's girl.
+- **Gigi's traits (ruled 2026-11-21).** She does things because she thought it would be funny, and decides in the middle of the jump. Thinking makes her head hurt. She tracks well and gets lost on the way home, the opposite of [[Mawpay]]'s mental map. She runs one bit for days until everyone is worn out. She goes soft only with her family and the small kids, [[Lì'may]] among them.
+- **She is gay (ruled 2026-11-21).** She noticed that girls were her thing. Tsa'rawm's reaction was roughly "if you are my daughter, of course", and they share it even more now. The vault has no orientation field, so it is recorded here.
+- **The crush on Notä (ruled 2026-11-21).** She challenges everyone to everything, so the crush looks like a louder version of their rivalry. [[Notä]]'s explosive botany under [[Ketxe]] is the best thing she has ever seen, and she cannot say why she keeps hanging around. Between the two it reads as a bromance or a situationship, "Autofister but Na'vi", after Gigi Murin and Cecilia Immergreen of Hololive. Notä's side is in her own note.
+
 ## Appears in
 
 ```base
