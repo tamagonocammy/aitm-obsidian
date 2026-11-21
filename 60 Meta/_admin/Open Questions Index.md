@@ -3,7 +3,7 @@ type: "meta"
 ---
 Generated list of every unticked question in the vault, grouped by note. Rebuilt by `60 Meta/_admin/build_index.py`; do not edit by hand. Tick questions on the note they live on.
 
-Total open: **143** across 19 notes (built 2026-11-15).
+Total open: **143** across 21 notes (built 2026-11-21).
 
 ## [[Open Questions]] (30)
 - Atanvi — profile from `AITM_00_Master_List`; earlier text kept from `AITM_02_Samaya_Family_Profiles`
@@ -130,13 +130,12 @@ Total open: **143** across 19 notes (built 2026-11-15).
 - Which Earth House members appear in the arc. The files name only Nika as a leader.
 - How the arc ends. The files stop at Earth House getting its place.
 
-## [[The Wild Hunt]] (7)
+## [[The Wild Hunt]] (6)
 - **"The Contract."** Partly answered 2026-11-15: it scores Sänrri's silence in the Falls thread. The song is named in the Rulings Log and in the Siege note. Nothing says how it appears in this arc.
 - **The contact to the Anurai.** The original gives the Bone Sanctuary visit (Part Two), and Yukeyo and Paysìn are Anurai born. Millie's summary suggests more. Nothing else is written about the Anurai a
 - **Ikran names.** Original arc: Teysaw's is Skar, Seytu's is Kivä. Their character notes: Sìkaya and Kxì've. This note uses the character notes. Which is right?
 - **Order of the Troupe's whereabouts.** The Breach era note and the Troupe note have the Troupe arriving at Sheltering Falls on Tsu'lan's word. The original Part Two finds them at the Bone Sanctuary. D
 - **Luka's flight.** The original has him disappearing into the Western Frontier and running in the ravines. His note says he escaped wounded to RDA lines, hiding among the Mangkwan in red paint. Which 
-- **Who ends Luka, and what is the kuru.** The original says "Tsu'lan holds the kuru" and does not say whose kuru it is or who strikes the last blow.
 - **Roneyu and Syayvi.** Whether they knew each other inside the Mangkwan is still undecided (Breach era note, Open Questions).
 
 ## [[The Scattered Ashes]] (4)
@@ -165,11 +164,6 @@ Total open: **143** across 19 notes (built 2026-11-15).
 - Tsu'ong's birth clan. The notes name Tipani only as his techniques and Eantu's heritage; Ketxe's birth clan is Tawkami.
 - How Ketxe and Tsa'rawm's history ends, and whether it is ever spoken between them. The Relationship Lore calls it "unspoken but present".
 
-## [[Ngotxì]] (3)
-- Where the name Ngotxì comes from. No note explains it.
-- Who carried Netezu. Syulang's note says she had the twins naturally; Netezu's note does not say who bore him.
-- Katirì and Tswesya belong to the Woven Harmony but not to this family. The vault does not say whether the Harmony should get its own group note.
-
 ## [[The Lost Cohort]] (3)
 - Whether Txafwe belongs here. He was captured with the Cohort and is Rängay's mate, but his note tags him as Scattered Ashes.
 - Why the group is called "Lost". No note explains the name.
@@ -179,9 +173,19 @@ Total open: **143** across 19 notes (built 2026-11-15).
 - Who found him, given there were not yet nine Spears? The line "The Nine Spears send you" needs a ruling for the same reason.
 - Proposed in chat 2026-11-15, not yet ruled: he left Bridgehead through a service hatch he had flagged as faulty three times; he sat down and recited Bridgehead's power grid when found; they told him "
 
+## [[Ngotxì]] (2)
+- Where the name Ngotxì comes from. No note explains it.
+- Katirì and Tswesya belong to the Woven Harmony but not to this family. The vault does not say whether the Harmony should get its own group note.
+
 ## [[Siege of the Falls]] (2)
 - **Do any main characters die?** Undecided. The old list (Eyfuwen, Kayan, Lamaytxa, Tìfyaw) is not canon.
 - **Exact length of the Occupation.**
 
 ## [[Astikasya]] (1)
 - The circumstances of the founding. No dates, intermediate generations, migrations, weapons or rituals are set, and none may be invented.
+
+## [[Gender Transition Through Eye of Eywa]] (1)
+- Oarä is 9 and is listed above as already through the Eye. Either "coming of age" has an earlier door for some, or Oarä is an exception, or the age is wrong. Not decided.
+
+## [[MyMuji Season Plan]] (1)
+- The lock list: what the show can never change. Proposed: everything in the Rulings Log as of 2026-11-15.

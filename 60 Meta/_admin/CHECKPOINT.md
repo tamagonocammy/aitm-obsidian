@@ -10,7 +10,7 @@ type: "meta"
 - 150 indexed Markdown notes: 147 outside `_admin`, plus 3 administrative notes. Last full validation (recorded before this maintenance pass): all original prose accounted for, no broken links, no broken encoding.
 - Originals: `99 Archive/2026-11-11 originals/` (75 files, never edit).
 - Canon authority, in order: Millie > [[Rulings Log]] > Timeline and Era notes > older documents.
-- 130 unchecked items across 17 notes; see [[Open Questions Index]]. These include review checklist items, not only unresolved canon questions. The previous checkpoint records that none blocks the remaining tasks.
+- 143 unchecked items across 21 notes (rebuilt 2026-11-21); see [[Open Questions Index]]. These include review checklist items, not only unresolved canon questions. The previous checkpoint records that none blocks the remaining tasks.
 
 ## Tasks
 
@@ -91,4 +91,5 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 
 - Single writer: Claude (project thread). Edited on a branch of the GitHub backup, not the live vault: the character notes for Anake, Kxayì, Lawarey, Mawpay, Nìla, Mìrì, Mìyo, Oarä, Netezu, Lì'may, Eantu, Tulìpey, Rawìl and Notä (Notes sections, plus frontmatter and pronoun changes for Nìla and Mawpay's source name), Rängay (one pronoun), The Great Games (Netezu's mother), the Rulings Log, and this checkpoint.
 - Closed: Mawpay's surname is Yahata. Still open: Lì'may and Kaymi surnames, Nìla's name ending, Eantu's build.
-- Not done: the live vault still has the old text. The index and the Open Questions Index were not rebuilt.
+- Not done: the live vault still has the old text; the changes exist only on the GitHub backup.
+- Done later the same day: the indexes were rebuilt (the stale kuru question is gone), the Eye of Eywa note now says Nìla will go through it later, and the Netezu question on Ngotxì is ticked (Syulang). New open question on the Eye of Eywa note: Oarä is 9 and is listed as already through a coming-of-age rite.
