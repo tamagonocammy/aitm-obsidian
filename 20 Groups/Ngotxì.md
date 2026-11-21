@@ -23,7 +23,7 @@ The Ngotxì are the family of the clan's musicians, cooks and weavers, and one o
 Music runs through the family. Tse'hayu taught Txewan first, then [[Tìfyaw]] and [[Tswesya]] guided her, and Txewan and Syulang "met through music" *(Relationship Lore)*. Txewan, Syulang, [[Katirì]] and Tswesya form the Woven Harmony, a music circle that became a chosen family *(Relationship Lore)*. Mitsìyo and Tse'hayu are held up as "a model of enduring love" *(Mitsìyo's profile)*. Syulang has built her household as a place where Txewan's anxiety "has less power" *(Relationship Lore)*.
 ### Still open
 - [ ] Where the name Ngotxì comes from. No note explains it.
-- [ ] Who carried Netezu. Syulang's note says she had the twins naturally; Netezu's note does not say who bore him.
+- [x] Who carried Netezu. Syulang bore all three children, Netezu included (ruled 2026-11-21; see [[Rulings Log]]).
 - [ ] Katirì and Tswesya belong to the Woven Harmony but not to this family. The vault does not say whether the Harmony should get its own group note.
 
 ## Members

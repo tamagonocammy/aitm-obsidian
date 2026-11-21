@@ -12,7 +12,6 @@ characters:
   - "[[Apayì]]"
   - "[[Zìsaw]]"
   - "[[Tswesya]]"
-  - "[[Oarä]]"
 canon: "confirmed"
 ---
 **Process:** Sacred spiritual and physical transformation
@@ -27,9 +26,12 @@ canon: "confirmed"
 - Apayì
 - Zìsaw
 - Tswesya
-- Oarä
 
-Every trans Na'vi character in AITM came to themself this way. The one exception is Roneyu, who is Mangkwan-born (ruled 2026-11-12; see [[Rulings Log]]).
+Every trans Na'vi character in AITM who has transitioned did so this way. The one exception is Roneyu, who is Mangkwan-born (ruled 2026-11-12; see [[Rulings Log]]). [[Nìla]] is the first case that has not happened yet: she is a trans girl who will go through the Eye at coming of age, and until then [[Rängay]] gets her the things she takes in the meantime (ruled 2026-11-21).
+
+The Eye is a coming-of-age rite, the same as everything else that earns a place with the People (ruled 2026-11-21).
+
+[[Oarä]] is nonbinary but has not passed through the Eye; at 9 she is not at coming of age yet (ruled 2026-11-21).
 
 **Method:**
 - Journey to Eye of Eywa

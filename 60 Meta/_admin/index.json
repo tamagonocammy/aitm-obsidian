@@ -1,5 +1,5 @@
 {
-"built": "2026-11-15",
+"built": "2026-11-21",
 "notes": {
 "00 Home/Canon Rules.md": {
 "title": "Canon Rules",
@@ -78,6 +78,16 @@
 ],
 "open": 0
 },
+"00 Home/INDEX.md": {
+"title": "INDEX",
+"type": "meta",
+"aliases": [],
+"canon": null,
+"sha": "a7a0ce437fbbedb8",
+"bytes": 7743,
+"links": [],
+"open": 0
+},
 "00 Home/Open Questions.md": {
 "title": "Open Questions",
 "type": "meta",
@@ -148,22 +158,27 @@
 "Canon decisions"
 ],
 "canon": null,
-"sha": "e69f166b665572cc",
-"bytes": 15070,
+"sha": "b9b2a06b8e20fb85",
+"bytes": 21916,
 "links": [
 "A Torchlight",
 "Ambition and Hope — The Ones Who Know All",
 "Astikasya Yellow",
+"Atanvi",
 "Canon Rules",
 "Kava with the Nine",
+"Kxayì",
 "MBTI Reference",
 "Miri Sugo",
+"Mitsìyo",
 "Name Fixes to Apply",
 "Narayra",
+"Notä",
 "Prelude to Fire",
 "Rängay",
 "Scattered Ashes, Burning Hearts",
 "Siege of the Falls",
+"Syulang",
 "The Great Games",
 "The Great Games Legacy",
 "The Lake",
@@ -172,6 +187,7 @@
 "The Thanator and the Slinger",
 "The Wild Hunt",
 "Tsa'rawm",
+"Txewan",
 "Welcome Back to Trench"
 ],
 "open": 0
@@ -185,8 +201,8 @@
 "'Eweyn te Ngotxì Mitsìyo'ite"
 ],
 "canon": "confirmed",
-"sha": "ce77b95848a45009",
-"bytes": 4304,
+"sha": "1ff56894e05e9524",
+"bytes": 4496,
 "links": [
 "Mitsìyo",
 "Na'vi Name Case Forms",
@@ -212,8 +228,8 @@
 "'Ipxerey te Samaya Kxar'o'ite"
 ],
 "canon": "confirmed",
-"sha": "1f35c2cccdf5a583",
-"bytes": 8605,
+"sha": "5a96b77744980a2e",
+"bytes": 9014,
 "links": [
 "Atanvi",
 "Eyfuwen",
@@ -254,14 +270,19 @@
 "Anake te Haykxa Tsa'rawm'itan"
 ],
 "canon": "confirmed",
-"sha": "db2fd202f167a17a",
-"bytes": 2760,
+"sha": "8effedc1c2f55cca",
+"bytes": 4126,
 "links": [
 "Haykxa",
+"Kaymi",
 "Kxayì",
+"Mìreya",
 "Na'vi Name Case Forms",
+"Notä",
 "Rawìl",
 "Rewon",
+"Siege of the Falls",
+"Sänrri",
 "Tsa'rawm"
 ],
 "open": 0
@@ -276,8 +297,8 @@
 "Apayì te Vozayo Oulu'ite"
 ],
 "canon": "confirmed",
-"sha": "460e63d9bfdab9fe",
-"bytes": 6588,
+"sha": "1f79c4e93e6d659a",
+"bytes": 6955,
 "links": [
 "Lawarey",
 "Na'vi Name Case Forms",
@@ -300,8 +321,8 @@
 "Atanvi te Samaya 'Ipxerey'ite"
 ],
 "canon": "confirmed",
-"sha": "655ca6bd83df8e70",
-"bytes": 8099,
+"sha": "31e1d982375079e2",
+"bytes": 8330,
 "links": [
 "'Ipxerey",
 "Eyfuwen",
@@ -348,12 +369,14 @@
 "Eantu te Korhe Tsu'ong'itan"
 ],
 "canon": "confirmed",
-"sha": "166ba1275a8a15cf",
-"bytes": 2937,
+"sha": "a0ee2bb8881b7f18",
+"bytes": 3883,
 "links": [
 "Anake",
+"Atanvi",
 "Ketxe",
 "Korhe",
+"Mìreya",
 "Na'vi Name Case Forms",
 "Notä",
 "Rawìl",
@@ -372,8 +395,8 @@
 "Eyfuwen te Samaya Tìrol'itan"
 ],
 "canon": "confirmed",
-"sha": "c4cc3ee569df179d",
-"bytes": 11828,
+"sha": "655b5d7bb7a15a58",
+"bytes": 12332,
 "links": [
 "'Ipxerey",
 "Atanvi",
@@ -462,8 +485,8 @@
 "Kayan te Haykxa Tse'kam'itan"
 ],
 "canon": "confirmed",
-"sha": "43ce2193ce27d74b",
-"bytes": 3476,
+"sha": "c53b5c3fbe0dbf00",
+"bytes": 3715,
 "links": [
 "Haykxa",
 "Lamaytxa",
@@ -555,13 +578,17 @@
 "Kxayì te Haykxa Rewon'ite"
 ],
 "canon": "confirmed",
-"sha": "3db50a67fb072379",
-"bytes": 3110,
+"sha": "86c53abb72c6391c",
+"bytes": 4407,
 "links": [
 "Anake",
 "Haykxa",
 "Kaymi",
+"Ketxe",
+"Lamaytxa",
 "Lawarey",
+"Lì'may",
+"Mawpay",
 "Na'vi Name Case Forms",
 "Notä",
 "Relationship Lore",
@@ -579,8 +606,8 @@
 "Lamaytxa te Haykxa Areya'ite"
 ],
 "canon": "confirmed",
-"sha": "6557e6dfb7412419",
-"bytes": 3077,
+"sha": "5f66476dfbc9920f",
+"bytes": 3262,
 "links": [
 "Haykxa",
 "Kayan",
@@ -602,8 +629,8 @@
 "Lawarey te Kll'i'a Pxayu'ite"
 ],
 "canon": "confirmed",
-"sha": "a035de9402d75fd3",
-"bytes": 3079,
+"sha": "404f1764e33e5111",
+"bytes": 3858,
 "links": [
 "Apayì",
 "Kxayì",
@@ -652,8 +679,8 @@
 "The Enemy"
 ],
 "canon": "confirmed",
-"sha": "945bd9ab005abdab",
-"bytes": 5402,
+"sha": "76ff58d343c3b1f9",
+"bytes": 5997,
 "links": [
 "ANAKT Fireteam",
 "Hyuna",
@@ -673,8 +700,8 @@
 "Lì'may te Samaya Sänrri'ite"
 ],
 "canon": "confirmed",
-"sha": "b74dd3413bef01e4",
-"bytes": 3181,
+"sha": "d9908918d2e48b80",
+"bytes": 3706,
 "links": [
 "Kaymi",
 "Kxayì",
@@ -705,14 +732,15 @@
 "title": "Mawpay",
 "type": "character",
 "aliases": [
-"Mirei Shiina",
+"Mirei Yahata",
 "Mirei",
 "Mawpay te Ikutxo Rängay'ite"
 ],
 "canon": "confirmed",
-"sha": "faf0159bb3bd36e7",
-"bytes": 2996,
+"sha": "bf785c6fb1db476d",
+"bytes": 3806,
 "links": [
+"Kxayì",
 "Lawarey",
 "Na'vi Name Case Forms",
 "Nìla",
@@ -784,8 +812,8 @@
 "Mìreya te Mowa'tal Notä'ite"
 ],
 "canon": "confirmed",
-"sha": "8a02eaad64af02e0",
-"bytes": 8530,
+"sha": "7e1d36c48f346d2f",
+"bytes": 8701,
 "links": [
 "'Ipxerey",
 "Atanvi",
@@ -809,15 +837,20 @@
 "Mìrì te Ngotxì Syulang'ite"
 ],
 "canon": "confirmed",
-"sha": "19aaf9ab6b680d82",
-"bytes": 3212,
+"sha": "2293fa9f7123b554",
+"bytes": 4364,
 "links": [
+"Atanvi",
+"Kxayì",
 "Mìyo",
 "Na'vi Name Case Forms",
+"Netezu",
 "Ngotxì",
+"Notä",
 "Oarä",
 "Relationship Lore",
 "Syulang",
+"Tsa'rawm",
 "Txewan"
 ],
 "open": 0
@@ -831,15 +864,20 @@
 "Mìyo te Ngotxì Syulang'ite"
 ],
 "canon": "confirmed",
-"sha": "dcfb724981cf0db5",
-"bytes": 3090,
+"sha": "4ef4d2631f2c134d",
+"bytes": 4268,
 "links": [
+"Atanvi",
+"Kxayì",
 "Mìrì",
 "Na'vi Name Case Forms",
+"Netezu",
 "Ngotxì",
+"Notä",
 "Oarä",
 "Relationship Lore",
 "Syulang",
+"Tsa'rawm",
 "Txewan"
 ],
 "open": 0
@@ -878,13 +916,18 @@
 "Netezu te Ngotxì Txewan'itan"
 ],
 "canon": "confirmed",
-"sha": "57a93e896dfcd842",
-"bytes": 2196,
+"sha": "03cd5530c450b0f2",
+"bytes": 2836,
 "links": [
+"'Eweyn",
+"Mitsìyo",
+"Mìrì",
+"Mìyo",
 "Na'vi Name Case Forms",
 "Ngotxì",
 "Relationship Lore",
 "Syulang",
+"The Great Games",
 "Txewan"
 ],
 "open": 0
@@ -914,11 +957,12 @@
 "Notä te Samaya Mìreya'ite"
 ],
 "canon": "confirmed",
-"sha": "56ba8ac7b02dfdb1",
-"bytes": 3684,
+"sha": "49bf49d62051e8a2",
+"bytes": 4822,
 "links": [
 "Atanvi",
 "Eantu",
+"Kaymi",
 "Kxayì",
 "Mìreya",
 "Na'vi Name Case Forms",
@@ -973,8 +1017,8 @@
 "Nìla te Ikutxo Txafwe'itan"
 ],
 "canon": "confirmed",
-"sha": "2709a4f9e8c627ac",
-"bytes": 4030,
+"sha": "955130a401f88801",
+"bytes": 5326,
 "links": [
 "Mawpay",
 "Na'vi Name Case Forms",
@@ -993,8 +1037,8 @@
 "Oarä te Hafyon Katirì'ite"
 ],
 "canon": "confirmed",
-"sha": "ffcf1e305cb1e875",
-"bytes": 3642,
+"sha": "e18774b5c9919e22",
+"bytes": 4329,
 "links": [
 "Katirì",
 "Mìrì",
@@ -1043,8 +1087,8 @@
 "Pamyaw te Nìrana Txìä'ite"
 ],
 "canon": "confirmed",
-"sha": "05a3d729ad9d7bd4",
-"bytes": 8109,
+"sha": "ff643d06148c456f",
+"bytes": 8308,
 "links": [
 "Apayì",
 "Na'vi Name Case Forms",
@@ -1079,8 +1123,8 @@
 "Pxayu te Kll'i'a Tsìra'ite"
 ],
 "canon": "confirmed",
-"sha": "5d5cb995b21bc638",
-"bytes": 6289,
+"sha": "e67d0a1027723a52",
+"bytes": 6594,
 "links": [
 "Apayì",
 "Lawarey",
@@ -1102,12 +1146,14 @@
 "Rawìl te Samaya Atanvi'itan"
 ],
 "canon": "confirmed",
-"sha": "0a78d58eefb3d61b",
-"bytes": 3002,
+"sha": "2ecf2d9c297a9e20",
+"bytes": 4345,
 "links": [
 "Anake",
 "Atanvi",
 "Mìreya",
+"Mìrì",
+"Mìyo",
 "Na'vi Name Case Forms",
 "Notä",
 "Samaya",
@@ -1164,8 +1210,8 @@
 "Rängay te Ikutxo Tosiwi'ite"
 ],
 "canon": "confirmed",
-"sha": "02e29d2812828764",
-"bytes": 7607,
+"sha": "6f6e2e50f568e6c0",
+"bytes": 7883,
 "links": [
 "Apayì",
 "Kaymi",
@@ -1250,8 +1296,8 @@
 "Syulang te Ayfomä Kxuryo'ite"
 ],
 "canon": "confirmed",
-"sha": "6abcbf9d30c0dd74",
-"bytes": 5376,
+"sha": "65e13725a40bf29e",
+"bytes": 5534,
 "links": [
 "Atanvi",
 "Katirì",
@@ -1283,8 +1329,8 @@
 "Clancy"
 ],
 "canon": "confirmed",
-"sha": "0e96f144b3380031",
-"bytes": 13376,
+"sha": "6852c47289f1e5bf",
+"bytes": 13661,
 "links": [
 "'Ipxerey",
 "Apayì",
@@ -1312,8 +1358,8 @@
 "Sänume te Haykxa Txalay'ite"
 ],
 "canon": "confirmed",
-"sha": "663c573d8f026d11",
-"bytes": 3082,
+"sha": "5e4391262c0dc42f",
+"bytes": 3290,
 "links": [
 "'Eweyn",
 "'Ipxerey",
@@ -1401,8 +1447,8 @@
 "Tsa'rawm te Haykxa Tse'kam'itan"
 ],
 "canon": "confirmed",
-"sha": "bd881217e5f0d608",
-"bytes": 12695,
+"sha": "b903e19600fb4911",
+"bytes": 12859,
 "links": [
 "Anake",
 "Atanvi",
@@ -1456,8 +1502,8 @@
 "Tsu'lan te Palu'vul Sayran'itan"
 ],
 "canon": "confirmed",
-"sha": "4b2351f352f0bd01",
-"bytes": 12756,
+"sha": "900f5e25859bb443",
+"bytes": 13042,
 "links": [
 "Astikasya Accent Reference",
 "Chuchu",
@@ -1543,8 +1589,8 @@
 "Tulìpey te Korhe Ketxe'ite"
 ],
 "canon": "confirmed",
-"sha": "653d2a36303cbf57",
-"bytes": 5831,
+"sha": "068b2a898f2bf833",
+"bytes": 6479,
 "links": [
 "Eantu",
 "Ketxe",
@@ -1589,8 +1635,8 @@
 "Txewan te Ngotxì Mitsìyo'ite"
 ],
 "canon": "confirmed",
-"sha": "1bfb357774a11a04",
-"bytes": 7102,
+"sha": "802375204e9d91aa",
+"bytes": 7391,
 "links": [
 "'Eweyn",
 "Atanvi",
@@ -1808,8 +1854,8 @@
 "Recombinant Unit-09"
 ],
 "canon": null,
-"sha": "0fa9b4fcebc88e38",
-"bytes": 3580,
+"sha": "ddf0c827374527b1",
+"bytes": 4063,
 "links": [
 "The Wild Hunt"
 ],
@@ -1824,8 +1870,8 @@
 "the Astikasya"
 ],
 "canon": null,
-"sha": "d27c54fdd4e818d1",
-"bytes": 4217,
+"sha": "9a6ee8cdf0ed3d8a",
+"bytes": 4549,
 "links": [
 "Ambition and Hope — The Ones Who Know All",
 "Eyfuwen",
@@ -1922,7 +1968,7 @@
 "te Ngotxì"
 ],
 "canon": null,
-"sha": "1134da576c4c50b8",
+"sha": "b7fb055c1b1feed1",
 "bytes": 2882,
 "links": [
 "'Eweyn",
@@ -1934,6 +1980,7 @@
 "Mìyo",
 "Netezu",
 "Rewon",
+"Rulings Log",
 "Syulang",
 "Sänume",
 "Tsa'rawm",
@@ -1942,7 +1989,7 @@
 "Txewan",
 "Tìfyaw"
 ],
-"open": 3
+"open": 2
 },
 "20 Groups/Nine Spears of the Mists.md": {
 "title": "Nine Spears of the Mists",
@@ -2175,11 +2222,12 @@
 "Eye of Eywa"
 ],
 "canon": "confirmed",
-"sha": "48263a3441b4f417",
-"bytes": 978,
+"sha": "e8eaa66489da0bb1",
+"bytes": 1413,
 "links": [
 "Apayì",
 "Atanvi",
+"Nìla",
 "Oarä",
 "Rulings Log",
 "Rängay",
@@ -2535,7 +2583,7 @@
 "type": "arc",
 "aliases": [],
 "canon": "confirmed",
-"sha": "58c537ffbee9a25f",
+"sha": "0c996f114792ec23",
 "bytes": 7140,
 "links": [
 "'Ipxerey",
@@ -2631,8 +2679,8 @@
 "Wild Hunt"
 ],
 "canon": "confirmed",
-"sha": "6fdc5ce9c2ab7ed5",
-"bytes": 31278,
+"sha": "15cc4b9f4e473ec8",
+"bytes": 31366,
 "links": [
 "'Ipxerey",
 "Breach — The Final Battle and the Wild Hunt",
@@ -2671,7 +2719,7 @@
 "Yezì",
 "Yukeyo"
 ],
-"open": 7
+"open": 6
 },
 "40 Story/Eras/Blurryface — The Varang Years.md": {
 "title": "Blurryface — The Varang Years",
@@ -3166,6 +3214,34 @@
 "links": [],
 "open": 0
 },
+"60 Meta/MyMuji Season Plan.md": {
+"title": "MyMuji Season Plan",
+"type": "meta",
+"aliases": [
+"MyMuji plan",
+"MyGO // Ave Mujica plan"
+],
+"canon": null,
+"sha": "fbe7cc0d9a744eff",
+"bytes": 4559,
+"links": [
+"Apayì",
+"Kaymi",
+"Narayra",
+"Nì'syu",
+"Pxayu",
+"Rulings Log",
+"Rängay",
+"Syayvi",
+"Sänrri",
+"The Lost Cohort",
+"The Scattered Ashes",
+"Txafwe",
+"Tìmeyo",
+"Yawyay"
+],
+"open": 1
+},
 "60 Meta/Vault Design.md": {
 "title": "Vault Design",
 "type": "meta",
@@ -3193,8 +3269,8 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "4d88ba64ae85798a",
-"bytes": 10151,
+"sha": "25d3b202e3b3f613",
+"bytes": 12386,
 "links": [
 "Ambition and Hope — The Ones Who Know All",
 "Apayì",
@@ -3203,7 +3279,6 @@
 "Canon Rules",
 "Gender Transition Through Eye of Eywa",
 "MBTI Reference",
-"Narayra",
 "Oarä",
 "Open Questions Index",
 "Operations Protocol",
@@ -3213,7 +3288,6 @@
 "Samaya",
 "Siege of the Falls",
 "Sänrri",
-"The Wild Hunt",
 "Tsa'rawm",
 "Tswesya",
 "Tsyokanì",
@@ -3230,8 +3304,8 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "329c57435caf5a31",
-"bytes": 18811,
+"sha": "2233c40fde8205f9",
+"bytes": 18687,
 "links": [
 "A Torchlight",
 "Ambition and Hope — The Ones Who Know All",
@@ -3240,6 +3314,7 @@
 "Haykxa",
 "Korhe",
 "Miri Sugo",
+"MyMuji Season Plan",
 "Narayra",
 "Ngotxì",
 "Open Questions",
