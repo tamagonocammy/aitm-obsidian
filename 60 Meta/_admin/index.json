@@ -158,8 +158,8 @@
 "Canon decisions"
 ],
 "canon": null,
-"sha": "b14e4b13a17708d2",
-"bytes": 21839,
+"sha": "b9b2a06b8e20fb85",
+"bytes": 21916,
 "links": [
 "A Torchlight",
 "Ambition and Hope — The Ones Who Know All",
@@ -1037,8 +1037,8 @@
 "Oarä te Hafyon Katirì'ite"
 ],
 "canon": "confirmed",
-"sha": "6a43e31978318088",
-"bytes": 4286,
+"sha": "e18774b5c9919e22",
+"bytes": 4329,
 "links": [
 "Katirì",
 "Mìrì",
@@ -2222,8 +2222,8 @@
 "Eye of Eywa"
 ],
 "canon": "confirmed",
-"sha": "18ef0af48ca4d098",
-"bytes": 1499,
+"sha": "e8eaa66489da0bb1",
+"bytes": 1413,
 "links": [
 "Apayì",
 "Atanvi",
@@ -2238,7 +2238,7 @@
 "Tìfyaw",
 "Zìsaw"
 ],
-"open": 1
+"open": 0
 },
 "30 World/Hostile Forces.md": {
 "title": "Hostile Forces",
@@ -3269,8 +3269,8 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "9e59e27723a9a05a",
-"bytes": 12063,
+"sha": "25d3b202e3b3f613",
+"bytes": 12386,
 "links": [
 "Ambition and Hope — The Ones Who Know All",
 "Apayì",
@@ -3304,14 +3304,13 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "a2986022be684bf2",
-"bytes": 18911,
+"sha": "2233c40fde8205f9",
+"bytes": 18687,
 "links": [
 "A Torchlight",
 "Ambition and Hope — The Ones Who Know All",
 "Astikasya",
 "Earth House",
-"Gender Transition Through Eye of Eywa",
 "Haykxa",
 "Korhe",
 "Miri Sugo",

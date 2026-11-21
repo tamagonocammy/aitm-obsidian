@@ -3,7 +3,7 @@ type: "meta"
 ---
 Generated list of every unticked question in the vault, grouped by note. Rebuilt by `60 Meta/_admin/build_index.py`; do not edit by hand. Tick questions on the note they live on.
 
-Total open: **143** across 21 notes (built 2026-11-21).
+Total open: **142** across 20 notes (built 2026-11-21).
 
 ## [[Open Questions]] (30)
 - Atanvi — profile from `AITM_00_Master_List`; earlier text kept from `AITM_02_Samaya_Family_Profiles`
@@ -183,9 +183,6 @@ Total open: **143** across 21 notes (built 2026-11-21).
 
 ## [[Astikasya]] (1)
 - The circumstances of the founding. No dates, intermediate generations, migrations, weapons or rituals are set, and none may be invented.
-
-## [[Gender Transition Through Eye of Eywa]] (1)
-- Oarä is 9 and is listed above as already through the Eye. Either "coming of age" has an earlier door for some, or Oarä is an exception, or the age is wrong. Not decided.
 
 ## [[MyMuji Season Plan]] (1)
 - The lock list: what the show can never change. Proposed: everything in the Rulings Log as of 2026-11-15.

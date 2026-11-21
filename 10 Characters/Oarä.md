@@ -16,7 +16,7 @@ gender: "nonbinary"
 pronouns:
   - "she/her"
   - "they/them"
-transition: "Through the Eye of Eywa"
+transition: "Not yet; has not passed through the Eye of Eywa (ruled 2026-11-21)"
 canon: "confirmed"
 ---
 

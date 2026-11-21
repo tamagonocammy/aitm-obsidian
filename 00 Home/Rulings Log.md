@@ -177,7 +177,7 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - **Rawìl** is Heero Yuy, Mikazuki Augus and above all his mother Mìreya: calculating, a momma's boy, and a sad boy. His scar is from protecting Mìrì and Mìyo.
 - **Notä** is an inventor drawn from Jinx, Cecilia Immergreen, Furina and her aunt Kaymi. She is a fangirl of Tamtey, gay, and in a situationship with Kxayì.
 - **Eantu** is the bully who is not quite the bully, the Aonung to Rawìl's Neteyam with an air of Eustass Kid, and **Tulìpey** is mature with Ketxe's edge, closest to Ino. Open: Eantu's build (burly or tall).
-- **Amendment to the Eye of Eywa rule above.** "Every trans Na'vi character transitioned through the Eye" now covers those who have transitioned. Nìla will go through it later, at coming of age. Oarä's age against the coming-of-age rite is open.
+- **Amendment to the Eye of Eywa rule above.** "Every trans Na'vi character transitioned through the Eye" now covers those who have transitioned. Nìla will go through it later, at coming of age. Oarä is nonbinary and has not passed through the Eye either; the earlier line that listed her among those who did is withdrawn.
 
 ## Standing rules
 
