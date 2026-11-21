@@ -42,6 +42,13 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Inspiration (ruled 2026-11-21).** A mini [[Apayì]] with [[Pxayu]]'s mannerisms, the Anon and Soyo of the sources. She has a class-president aura with a small kid's presence, and a hmph.
+- **The stones are her rulings (ruled 2026-11-21).** She settles the children's disputes, and when someone has been wronged she hands over a stone whose meaning only she knows.
+- **The hmph (ruled 2026-11-21).** When she is overruled she turns her back with her arms crossed and her nose up, and does the kind thing a few minutes later.
+- **She counts heads (ruled 2026-11-21).** At every gathering she notices who is missing. It comes from Pxayu's fear of abandonment and Apayì's gift for noticing, and from waiting at the Falls while both mothers were held by the Mangkwan.
+
 ## Appears in
 
 ```base

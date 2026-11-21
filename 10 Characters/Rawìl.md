@@ -44,6 +44,16 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Credit (2026-11-21).** Rawìl is an original character by @lindholm_lizzie. The notes below are Millie's relay of the artist's concept plus Millie's own development, ruled by Millie.
+- **Inspirations (ruled 2026-11-21).** Heero Yuy and Mikazuki Augus, and mostly his mother Miorine, who is [[Mìreya]] in AITM. He is more Rembran than Samaya, so he calculates. He is the Neteyam to Miorine's Neytiri: the golden boy, with a weirdness and a melancholy, and focused. A momma's boy, very much so. A sad boy.
+- **Beside his mother (ruled 2026-11-21).** He sits in whatever room Mìreya is working in and says nothing, and he weaves while she works.
+- **Counting (ruled 2026-11-21).** He counts exits and works out who will move next in a room.
+- **Anake (ruled 2026-11-21).** His stillness reads as calm to the adults. [[Anake]], his best friend, reads it as something else and keeps joking to loosen him.
+- **The scar (ruled 2026-11-21).** The cousins he protected, the reason for the large scar on his back, are [[Mìrì]] and [[Mìyo]], cousins by the sworn bond. When it happened and what attacked them is not established.
+- **Golden boy, not the fate (ruled 2026-11-21).** The comparison to Neteyam is about his role as the dutiful eldest son. It says nothing about his fate, and whether any main character dies is still open.
+
 ## Appears in
 
 ```base

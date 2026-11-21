@@ -62,7 +62,7 @@ The Rulings Log also places Overcompensate outside this arc. Welcome Back to Tre
 - Mìreya: Atanvi's mate; pregnant in Part II; mother of [[Notä]] in the children's notes.
 - Rewon: Tsa'rawm's mate; pregnant in Part II; a parent of Anake in the Era note; the rest of her children are outside this arc.
 - Tsa'rawm: Rewon's mate; loud and boastful at the games; father of Anake in the children's notes.
-- Txewan: at the games with Syulang; leaves early; father of [[Netezu]] in the children's notes.
+- Txewan: at the games with Syulang; leaves early; mother of [[Netezu]] in the children's notes.
 - Syulang: at the games with Txewan; leaves early; mother of the twins [[Mìyo]] and [[Mìrì]] in the children's notes.
 - Kayan: stern archery instructor to the children in Part III.
 - Kaymi: bonded with Sänrri; named in the era notes; not in the scene.

@@ -41,6 +41,12 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Parents (ruled 2026-11-21).** [[Syulang]] bore him, and [[Txewan]] and Syulang are both his mothers, as for [[Mìrì]] and [[Mìyo]]. The line in [[The Great Games]] that calls Txewan his father is corrected.
+- **What he is like (ruled 2026-11-21).** A baby, with nothing more forced on him. He takes after Syulang more than Txewan. He likes music and pulling on Txewan's hair (hair, not the kuru). He likes [['Eweyn]] and his grandmother, especially his grandmother.
+- **His grandmothers (ruled 2026-11-21).** His grandmother in the story is [[Mitsìyo]], Txewan's mother. His other grandmother is Kxuryo, Syulang's mother.
+
 ## Appears in
 
 ```base

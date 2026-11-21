@@ -41,6 +41,12 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Inspiration (ruled 2026-11-21).** Sucy Manbavaran from *Little Witch Academia*: hair over her eyes, deadpan, into mushrooms and odd living things. She is a weirdo with the energy of a feral kid who stuck around. She is the child of [[Tswesya]] and [[Katirì]].
+- **Tasting (ruled 2026-11-21).** She forages fungus and rot and tastes things to learn them, and she is quietly pleased when someone is disgusted. On Pandora that is dangerous, and the clan has stopped asking.
+- **The cord (ruled 2026-11-21).** She remembers each thing she has tasted as a knot in a cord. Na'vi have no writing, and the cord is memory in woven form.
+
 ## Appears in
 
 ```base

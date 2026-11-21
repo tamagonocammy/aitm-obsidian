@@ -46,6 +46,16 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **FUWAMOCO (ruled 2026-11-21).** Mìyo is Mococo and [[Mìrì]] is Fuwawa, from Hololive EN, checked against hololive.wiki. Mìyo is the younger twin by minutes: spontaneous, excitable and mischievous, and she teases her sister lightly. She is afraid of heights and of scary things.
+- **Shared feeling (ruled 2026-11-21).** What one twin feels often passes to the other, and some nights they have the same dream or the same nightmare. They rarely have a serious fight and make up fast. When either is down they fall back on each other.
+- **Alone as a pair (ruled 2026-11-21).** Other people do not know how to fit between the two, and sometimes they feel isolated together.
+- **Ears and tail (ruled 2026-11-21).** Both twins hate having their ear-tufts or tail touched.
+- **Birthday (ruled 2026-11-21).** Both keep 1 February, since they are twins.
+- **Cousins (ruled 2026-11-21).** [[Notä]] and [[Kxayì]] are her older cousins because their parents are sworn siblings ([[Txewan]], [[Atanvi]] and [[Tsa'rawm]]), not blood siblings.
+- **Parents (ruled 2026-11-21).** Mìyo, Mìrì and [[Netezu]] are all children of Txewan and [[Syulang]]. Syulang bore all three.
+
 ## Appears in
 
 ```base
