@@ -14,7 +14,7 @@ The **Astikasya Clan** is renowned for their spiritual depth, innovative spirit,
 - **Olo'eyktan:** Eyfuwen te Samaya Tìrol'itan
 - **Tsahìk:** 'Ipxerey te Samaya Kxar'o'ite  
 - **Eyktanay (future Olo'eyktan):** Kaymi te Samaya 'Ipxerey'ite
-- **Tsakarem (future Tsahìk):** Sänrri te Tsawtral Tanhì'ite
+- **Tsakarem (future Tsahìk):** Sänrri te Tsawtral Hikari'ite
 
 ---
 

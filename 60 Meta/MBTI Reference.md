@@ -18,7 +18,7 @@ A complete reference of MBTI personality types for the cast of *Avatar: Into the
 | Kaymi | Kaymi te Samaya 'Ipxerey'ite | Eyktanay · Nine Spears (The Brazen) | ENTJ — The Commander |
 | Atanvi | Atanvi te Samaya 'Ipxerey'ite | Nine Spears (The Merciful) | ISFJ — The Defender |
 | Mìreya | Mìreya te Mowa'tal Notä'ite | Botanist · Strategist | INTJ — The Architect |
-| Sänrri | Sänrri te Tsawtral Tanhì'ite | Tsakarem | INFP — The Mediator |
+| Sänrri | Sänrri te Tsawtral Hikari'ite | Tsakarem | INFP — The Mediator |
 | Lì'may | Lì'may te Samaya Sänrri'ite | Strongest Warrior on Pandora (self-proclaimed) | ESFP — The Entertainer |
 
 ---

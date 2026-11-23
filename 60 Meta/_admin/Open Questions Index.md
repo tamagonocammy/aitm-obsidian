@@ -3,7 +3,7 @@ type: "meta"
 ---
 Generated list of every unticked question in the vault, grouped by note. Rebuilt by `60 Meta/_admin/build_index.py`; do not edit by hand. Tick questions on the note they live on.
 
-Total open: **142** across 20 notes (built 2026-11-21).
+Total open: **143** across 21 notes (built 2026-11-23).
 
 ## [[Open Questions]] (30)
 - Atanvi — profile from `AITM_00_Master_List`; earlier text kept from `AITM_02_Samaya_Family_Profiles`
@@ -180,6 +180,9 @@ Total open: **142** across 20 notes (built 2026-11-21).
 ## [[Siege of the Falls]] (2)
 - **Do any main characters die?** Undecided. The old list (Eyfuwen, Kayan, Lamaytxa, Tìfyaw) is not canon.
 - **Exact length of the Occupation.**
+
+## [[Sänrri]] (1)
+- The paragraph beginning "Sänrri te Tsawtral Hikari'ite. Her name means starlight." was written for the old name (Tanhì is "star"). Millie to decide what the new name means and what stays of that parag
 
 ## [[Astikasya]] (1)
 - The circumstances of the founding. No dates, intermediate generations, migrations, weapons or rituals are set, and none may be invented.

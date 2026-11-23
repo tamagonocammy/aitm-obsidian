@@ -321,7 +321,7 @@ Sìltsyu put a hand briefly on Roneyu's arm.
 
 ## Round Seven: Sänrri Explains Things
 
-Sänrri te Tsawtral Tanhì'ite, tsakarem, former scientist, person who had once organized seventeen subspecies of Pandoran moss into taxonomic categories for personal satisfaction, was at the stage of zangke where everything was extremely interesting and required thorough explanation. She set the topic down first, as she always did, like an object on a table.
+Sänrri te Tsawtral Hikari'ite, tsakarem, former scientist, person who had once organized seventeen subspecies of Pandoran moss into taxonomic categories for personal satisfaction, was at the stage of zangke where everything was extremely interesting and required thorough explanation. She set the topic down first, as she always did, like an object on a table.
 
 **"Oeru lu 'aw. Palulukanìri, pelun po txonmì ke taron?"**
 *"I have one. As for the palulukan: why does it not hunt at night?"*

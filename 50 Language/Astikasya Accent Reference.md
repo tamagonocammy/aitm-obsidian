@@ -217,7 +217,7 @@ In ceremony the vowel duration doubles. The l of *oel* is so soft it is barely a
 
 ## 7. Individual Character Notes
 
-### Sänrri te Tsawtral Tanhì'ite
+### Sänrri te Tsawtral Hikari'ite
 
 Sänrri's Na'vi carries three permanent phonological signatures from her L1 Japanese, which interact with the Astikasya accent in specific ways.
 

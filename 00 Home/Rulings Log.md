@@ -179,6 +179,13 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - **Eantu** is the bully who is not quite the bully, the Aonung to Rawìl's Neteyam with an air of Eustass Kid, and **Tulìpey** is mature with Ketxe's edge, closest to Ino. Open: Eantu's build (burly or tall).
 - **Amendment to the Eye of Eywa rule above.** "Every trans Na'vi character transitioned through the Eye" now covers those who have transitioned. Nìla will go through it later, at coming of age. Oarä is nonbinary and has not passed through the Eye either; the earlier line that listed her among those who did is withdrawn.
 
+## Ruled on 2026-11-23: Sänrri's full name
+
+- Millie ruled that Sänrri's full Na'vi name is **Sänrri te Tsawtral Hikari'ite**. It replaces *Sänrri te Tsawtral Tanhì'ite*. Hikari is her mother's name, which Tomori's mother never changed, kept unchanged as an homage. The short name Sänrri is unchanged.
+- Spelling check (Reykunyu, 2026-11-23): `te` and `'ite` (daughter) are dictionary words; *Hikari* and *Tsawtral* are names and are not dictionary entries. *Hikari* uses only Na'vi sounds in plain consonant-vowel syllables. *Tsawtral* was already vetted in the [[Na'vi Name Audit]].
+- Updated in the live notes: [[Sänrri]], [[Astikasya Accent Reference]], [[Astikasya]], [[Samaya]], [[Worldbuilding Reference]], [[MBTI Reference]] and the scene *The Night the Warriors Lost Their Dignity*. `99 Archive`, the migration scripts and the proof logs keep the old name as historical records.
+- Open: the paragraph in [[Sänrri]] that says her name means starlight (Tanhì is "star") no longer matches the new name. Millie decides what the name means now and whether Sänrri's own choosing of it stays as written.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

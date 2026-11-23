@@ -3,7 +3,7 @@ type: "meta"
 ---
 # AITM vault checkpoint
 
-**Last updated:** 2026-11-21, Claude project thread (Bogotá): recorded the children's personality rulings in the Rulings Log and the children's notes. Before that, 2026-11-18, Claude chat (Bogotá): added `00 Home/INDEX.md` for assistants and pushed the missing folders to GitHub. Before that, 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
+**Last updated:** 2026-11-23, Claude project thread (Bogotá): changed Sänrri's full name to Sänrri te Tsawtral Hikari'ite in the live notes and the Rulings Log, then pushed the change to a branch of the GitHub backup. Before that, 2026-11-22, Claude project thread (Bogotá): added two inbox proposals (warm platform custom and scenes). Before that, 2026-11-21, Claude project thread (Bogotá): recorded the children's personality rulings in the Rulings Log and the children's notes. Before that, 2026-11-18, Claude chat (Bogotá): added `00 Home/INDEX.md` for assistants and pushed the missing folders to GitHub. Before that, 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
 
 ## State
 
@@ -80,6 +80,7 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 ## Inbox
 
 - 2026-11-14 (Claude, chat): added `_inbox/2026-11-14 Drunk Personalities of the Nine.md`, accepted in full by Millie the same day: new Rulings Log section "Ruled on 2026-11-14: the Nine when drunk", and one dated line under Notes on 18 character notes. The inbox note can be filed or left as is.
+- 2026-11-22 (Claude, project thread, Bogotá): added two proposals to `_inbox`, `2026-11-22 Warming the Falls.md` (Frontiers of Pandora research on the Spires and Clouded Forest, plus a proposed warm platform custom with Sänrri's kotatsu skirt) and `2026-11-22 Warm Platform Scenes.md` (two draft scenes). Nothing ruled, nothing else edited. Open questions are listed at the end of the first note.
 
 ## INDEX and GitHub backup: 2026-11-18 (Claude, at Millie's instruction)
 
@@ -93,3 +94,8 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 - Closed: Mawpay's surname is Yahata. Still open: Lì'may and Kaymi surnames, Nìla's name ending, Eantu's build.
 - Not done: the live vault still has the old text; the changes exist only on the GitHub backup.
 - Done later the same day: the indexes were rebuilt (the stale kuru question is gone), the Eye of Eywa note now says Nìla will go through it later, and the Netezu question on Ngotxì is ticked (Syulang). Oarä is nonbinary and has not passed through the Eye (Millie, same day); removed from the practitioners list.
+
+## Sänrri's full name, 2026-11-23 (Claude, at Millie's instruction)
+
+- Single writer: Claude (project thread). Millie ruled the new name; see [[Rulings Log]] ("Ruled on 2026-11-23: Sänrri's full name"). Seven live notes edited by a Haiku subagent with one exact replacement (Tsawtral Tanhì'ite to Tsawtral Hikari'ite). No archive, migration script or proof log was touched.
+- Open for Millie: what the new name means, since [[Sänrri]] still says her name means starlight. Recorded as an unchecked item on that note.

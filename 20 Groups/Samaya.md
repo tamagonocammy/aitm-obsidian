@@ -27,7 +27,7 @@ The house is a line of leaders and healers: Eyfuwen has encouraged his daughters
 - [x] Through whom the line from Tunskxe runs. **Ruled 2026-11-12:** through Eyfuwen.
 - [x] The generations between Tunskxe and Eyfuwen are not set.
 - [x] Where the name Samaya comes from. No note explains it.
-- [x] Mìreya's Na'vi name reads "te Mowa'tal Notä'ite" and Sänrri's reads "te Tsawtral Tanhì'ite", yet both notes file them under Samaya. The vault does not say what Mowa'tal is or how the two joined the house by name *(Mìreya's and Sänrri's notes)*.
+- [x] Mìreya's Na'vi name reads "te Mowa'tal Notä'ite" and Sänrri's reads "te Tsawtral Hikari'ite", yet both notes file them under Samaya. The vault does not say what Mowa'tal is or how the two joined the house by name *(Mìreya's and Sänrri's notes)*.
 - [x] Kaymi is eyktanay and Rawìl is "future eyktanay". The vault does not say how succession between them works *(Kaymi's and Rawìl's notes)*. **Ruled 2026-11-12:** it is the line of succession. When Kaymi becomes olo'eykte, Rawìl takes her role as eyktanay.
 
 ## Members
