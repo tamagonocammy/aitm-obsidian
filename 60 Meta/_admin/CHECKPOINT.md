@@ -103,4 +103,4 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 ## Na'vi heights, 2026-11-23 (Claude, at Millie's instruction)
 
 - Single writer: Claude (project thread). Millie ruled the heights; see [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights"). Added that section, one dated Height line under Notes on 26 character notes, and the source note `_inbox/2026-11-23 Navi Heights from the Reze Poster.md` (accepted). Pre-edit copies: `90 Sources/pre-navi-heights-20261123.tar.gz`.
-- Still open: Eyfuwen and 'Ipxerey have no height yet (options 3.08 or 3.17 m). The GitHub backup has the proposal on `main` but not these edits.
+- Still open: Eyfuwen and 'Ipxerey have no height yet (options 3.08 or 3.17 m). The same edits were pushed to the GitHub backup's `main` the same day (commit ad01080).
