@@ -51,6 +51,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** The clan's liaison to the Sky People; Narayra has opinions about that. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she corners [[Nika]] with questions about Earth. Kept small. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.63 m as an adult (human base 158 cm; no source; average adult woman, age 18 to 20; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

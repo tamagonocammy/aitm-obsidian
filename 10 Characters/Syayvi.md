@@ -56,6 +56,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - Drunk Syayvi belongs to the flashback arc (Scattered Ashes, Burning Hearts): her cold dignity cracks and she laughs like the girl from before the exile. In the Siege era she is pregnant and does not drink. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.58 m as an adult (human base 155 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

@@ -61,6 +61,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** With Sänrri's voice gone, Txewan carries the evening song at the fire, the one the children fell asleep to. She does not argue with Narayra; she keeps the song going. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - **Txewì** is a nickname for Txewan, the way Bocchi is for Hitori (ruled by Millie, 2026-11-12).
 - When drunk she turns into [[Tìfyaw]]: climbs on things, plays too loud, tells strangers they are beautiful, and loses her stutter as she does when performing. She regrets it all the next morning, which is why she drinks so slowly. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.82 m as an adult (human base 169 cm; 156 in source; growth spurt to 169 (Millie's exception); × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

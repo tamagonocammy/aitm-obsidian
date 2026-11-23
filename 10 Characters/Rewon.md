@@ -97,6 +97,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - When drunk she is giggly and clingy with [[Tsa'rawm]], says every soft thing she thinks about him and the children, and denies it all in the morning. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.77 m as an adult (human base 166 cm; 166 (fan estimate); × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

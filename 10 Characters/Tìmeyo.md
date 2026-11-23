@@ -54,6 +54,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **One note, two names.** Tìmeyo and Kerevi are a DID system, so they share this note (ruled by Millie, 2026-11-12).
 - **Kerevi** has a separate entry in the MBTI Reference: (alter, same body as Tìmeyo) · Tìmeyo's alter · ENFP — The Campaigner
+- **Height (ruled 2026-11-23):** 2.55 m as an adult (human base 153 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

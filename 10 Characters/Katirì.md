@@ -47,6 +47,10 @@ canon: "confirmed"
 
 Rules and exceptions: [[Na'vi Name Case Forms]]
 
+## Notes
+
+- **Height (ruled 2026-11-23):** 2.57 m as an adult (human base 154 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
+
 ## Appears in
 
 ```base

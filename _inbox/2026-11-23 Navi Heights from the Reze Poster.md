@@ -1,6 +1,6 @@
-# Na'vi heights from the Reze-arc poster (proposal, not canon)
+# Na'vi heights from the Reze-arc poster
 
-Date: 2026-11-23. Status: proposal for Millie's ruling. Nothing here is in the Rulings Log.
+Date: 2026-11-23. Status: **accepted** by Millie on 2026-11-23, with a conservative adult adjustment and exceptions for Txewan and 'Eweyn. The ruled numbers are in [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights"); where this note differs, the log wins.
 
 ## Scale in use
 
@@ -80,11 +80,10 @@ Witch from Mercury: a Tumblr post titled "Official height chart is in" (https://
 
 Atanvi: Astra used 1.70 m for Suletta, giving 2.83 m. The Tumblr figure of 171 cm would give 2.85 m. Kaymi also uses Suletta's height in Astra's list, so changing it moves both. Left as Astra had it.
 
-Still not found: Eyfuwen (Nadim) and 'Ipxerey (Prospera). No source gives a number for either. Millie remembers both as clearly taller than Suletta, and confirmed Prospera is tall. Japanese sources put Suletta at about 170 cm (pixiv, Japanese Wikipedia flagged as needing verification), and a Yahoo Chiebukuro answer says the 171 cm of the staff chart includes her shoes. Placeholder options under 5/3 until Millie picks a base: 1.85 m gives 3.08 m, 1.90 m gives 3.17 m.
+Still not found: Eyfuwen (Nadim) and 'Ipxerey (Prospera). No source gives a number for either. Millie remembers both as clearly taller than Suletta, Prospera about a head above her. Japanese sources put Suletta at about 170 cm (pixiv, Japanese Wikipedia flagged as needing verification), and a Yahoo Chiebukuro answer says the 171 cm of the staff chart includes her shoes. Placeholder options under 5/3 until Millie picks a base: 1.85 m gives 3.08 m, 1.90 m gives 3.17 m. A full head (about 20 cm or more) over 170 cm would be 190 cm or more, which I could not confirm for either character.
 
 ## Open questions
 
 - Ketxe and Rewon: do the proposed 2.78 m (Ketxe) and 2.77 m (Rewon) work, or does Millie want other numbers?
 - The 2.75 m calibration is not the wiki average (292 cm male, about 280 cm female). Keep it as an AU convention or recalibrate? A recalibration moves every number.
-- Eyfuwen and 'Ipxerey need a base height from Millie.
 - Next characters: any with an official human height can be added with the same formula.

@@ -187,6 +187,45 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - Updated in the live notes: [[Sänrri]], [[Astikasya Accent Reference]], [[Astikasya]], [[Samaya]], [[Worldbuilding Reference]], [[MBTI Reference]] and the scene *The Night the Warriors Lost Their Dignity*. `99 Archive`, the migration scripts and the proof logs keep the old name as historical records.
 - Meaning: Hikari is "light" and the old Tanhì was "star", so her name now means light, and the paragraph in [[Sänrri]] says so ("starlight" became "light", nothing else changed). Millie ruled this the same day.
 
+## Ruled on 2026-11-23: Na'vi heights
+
+- Millie ruled the adult heights of the cast below. Source note: `_inbox/2026-11-23 Navi Heights from the Reze Poster.md`.
+- **Scale.** H(Na'vi) = H(human counterpart) × 5/3, rounded to two decimals, one factor for everyone, no split by sex. Calibration 1.65 m human = 2.75 m Na'vi (Astra, 2026-11-12). This is an AU design convention, not the Avatar Wiki average (male 292 cm, females about 2.8 m).
+- **Adult adjustment (conservative).** Source heights are mostly of teenagers and AITM's cast are adults. Teenage girls in the source keep their height; teenage boys in the source get +2 cm human before the conversion; characters already adult in the source are unchanged.
+- **Exceptions chosen by Millie.** Txewan has a late growth spurt and ends up almost as tall as her bond siblings [[Atanvi]] and [[Tsa'rawm]], still the shortest of the three. 'Eweyn has no source height; she is shorter than Txewan and of average adult height for 18 to 20.
+
+| Na'vi | Counterpart | Human base (cm) | Na'vi (m) |
+|---|---|---|---|
+| [[Tsu'ong]] | Guel | 185 in source, +2 adult | 3.12 |
+| [[Kayan]] | Aki | 182, adult in source | 3.03 |
+| [[Tsa'rawm]] | Denji | 173 in source, +2 adult | 2.92 |
+| [[Tsu'lan]] | Yuji | 173 in source, +2 adult | 2.92 |
+| [[Atanvi]] | Suletta | 170 | 2.83 |
+| [[Kaymi]] | Ericht (Suletta's height) | 170 | 2.83 |
+| [[Lamaytxa]] | Power | 170 | 2.83 |
+| [[Txewan]] | Hitori | 156 in source; growth spurt to 169 (Millie's exception) | 2.82 |
+| [[Ketxe]] | Reze | 167 (fan estimate) | 2.78 |
+| [[Rewon]] | Asa | 166 (fan estimate) | 2.77 |
+| [[Yawyay]] | Nyamu | 164 | 2.73 |
+| [[Tswesya]] | Ryou | 163 | 2.72 |
+| [[Pxayu]] | Soyo | 162 | 2.70 |
+| [[Nì'syu]] | Uika | 160 | 2.67 |
+| [[Apayì]] | Anon | 160 | 2.67 |
+| [[Syulang]] | Ikuyo | 158 | 2.63 |
+| [[Txafwe]] | Umiri | 158 | 2.63 |
+| [['Eweyn]] | Futari | no source; average adult woman, age 18 to 20 | 2.63 |
+| [[Mìreya]] | Miorine | 157 | 2.62 |
+| [[Rängay]] | Taki | 156 | 2.60 |
+| [[Syayvi]] | Sakiko | 155 | 2.58 |
+| [[Sänrri]] | Tomori | 155 | 2.58 |
+| [[Txolaw]] | Angel | 155 | 2.58 |
+| [[Katirì]] | Nijika | 154 | 2.57 |
+| [[Tìmeyo]] | Mutsumi | 153 | 2.55 |
+| [[Pamyaw]] | Rana | 150 | 2.50 |
+
+- Sources for the human bases: Chainsaw Man Anime Exhibition chart (Denji, Aki, Angel, Power); Japanese Wikipedia citing the official profile video (Bocchi the Rock); Bandori game figures as listed on the Bandori Wiki (MyGO, Ave Mujica); a fan-reported staff chart (Witch from Mercury). Reze and Asa have no official height, so their bases are fan estimates, with Reze 1 cm taller.
+- **Still open:** [[Eyfuwen]] (Nadim) and [['Ipxerey]] (Prospera) have no source height. Both are taller than Suletta, Prospera about a head above. Options: 1.85 m gives 3.08 m, 1.90 m gives 3.17 m. Atanvi and Kaymi use 1.70 m; the staff chart's 171 cm would give 2.85 m.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

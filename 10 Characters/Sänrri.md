@@ -89,6 +89,7 @@ Voice notes: [[Astikasya Accent Reference#Sänrri te Tsawtral Hikari'ite]]
 - **Tomori Samaya**: her married name, ruled by Millie, 2026-11-12. Japanese naming gives a couple one surname, and the Samaya are far wealthier than the Takamatsu, so she takes theirs. Takamatsu stays her birth name (高松 燈). Earlier source name: *Tomori Samaya-Takamatsu*; the rosters had *Tomori Takamatsu-Samaya*.
 - **Towa** (her ikran): the name is Japanese but sounds Na'vi as well, and it is a Hololive reference (TMT). Ruled by Millie, 2026-11-11; the Character Database's *Zìsya* is superseded.
 - When drunk everything becomes extremely interesting and needs a thorough explanation, and she sings. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.58 m as an adult (human base 155 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

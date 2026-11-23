@@ -49,6 +49,10 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 Voice notes: [[Astikasya Accent Reference#Yawyay te Swotaw Eyìk'ite]]
 
+## Notes
+
+- **Height (ruled 2026-11-23):** 2.73 m as an adult (human base 164 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
+
 ## Appears in
 
 ```base

@@ -103,6 +103,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Loud in Sänrri's defense against Narayra. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk he changes least of the Nine: louder, until he suddenly turns sincere. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.92 m as an adult (human base 175 cm; 173 in source, +2 adult; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

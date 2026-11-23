@@ -51,6 +51,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Feeds Narayra wildly exaggerated war stories to watch her face. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk her lies get bigger. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.83 m as an adult (human base 170 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

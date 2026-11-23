@@ -49,6 +49,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Sits Narayra down and makes her eat. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk she organizes everyone, assigns seats and settles arguments nobody was having, then cries about how proud she is of [[Txewan]]. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.63 m as an adult (human base 158 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

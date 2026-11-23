@@ -48,6 +48,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** As mowarsiyu, the closest thing Narayra has to a peer; grants her a point on procedure and still sides with the clan. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
 - When drunk he cries over each of his siblings in turn and tells them they are his responsibility. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 3.03 m as an adult (human base 182 cm; 182, adult in source; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

@@ -53,6 +53,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - When drunk she happily explains seed-pod explosive chemistry to everyone while they move the fire away from her. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.78 m as an adult (human base 167 cm; 167 (fan estimate); × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

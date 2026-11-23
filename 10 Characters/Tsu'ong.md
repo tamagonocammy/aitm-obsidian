@@ -90,6 +90,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - When drunk he tells the story of his duel with [[Atanvi]] himself, louder each time, and the mud gets deeper with every telling. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 3.12 m as an adult (human base 187 cm; 185 in source, +2 adult; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

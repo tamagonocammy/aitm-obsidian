@@ -48,6 +48,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** In the Falls thread she tells Apayì that her playing is all fear. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+- **Height (ruled 2026-11-23):** 2.50 m as an adult (human base 150 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

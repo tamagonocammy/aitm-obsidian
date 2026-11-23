@@ -85,6 +85,7 @@ Voice notes: [[Astikasya Accent Reference#Tsu'lan te Palu'vul Sayran'itan]]
 - When drunk he challenges everyone to arm-wrestling, then falls asleep sitting upright mid-match, and nobody can move him. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 
 - **Ruled 2026-11-16:** Luka's kuru is severed at the end of the Wild Hunt and Tsu'lan carries it back to the Falls. Dying, Luka tells the hunters he is printed and there are more of him above. Tsu'lan cuts it, a parallel to Yuji ending Mahito in *Jujutsu Kaisen Modulo* (chapter 22).
+- **Height (ruled 2026-11-23):** 2.92 m as an adult (human base 175 cm; 173 in source, +2 adult; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

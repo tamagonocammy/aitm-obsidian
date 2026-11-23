@@ -50,6 +50,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - When drunk he falls asleep in the warmest spot and stays there; his aversion to touch is still respected. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
+- **Height (ruled 2026-11-23):** 2.58 m as an adult (human base 155 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 
