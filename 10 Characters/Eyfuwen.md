@@ -79,6 +79,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 - **Ruled 2026-11-17:** Eyfuwen takes the role of Tsu'lo from *Frontiers of Pandora*: he led the doubters out of the Kame'tire in 2138 and up to the Spires, leaving Anufi behind with Mokasa. See `_inbox/2026-11-17 Ke'awa Origin and AFOP Mappings.md`.
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Answers Narayra at the feast, smiling: the Founder's line runs through him, and his ancestor chose to speak to Sänrri. See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+- **Height (ruled 2026-11-23):** 3.08 m as an adult (human base 185 cm, no source; taller than Suletta; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

@@ -69,6 +69,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 ## Notes
 
 - **Ruled 2026-11-15 (Wild Hunt, Falls thread):** Answers Narayra for letting a human into the clan: it was strategy, and Sänrri has since reached Tunskxe and Yoko'fya. *"I did not bring a human into this clan out of kindness. We needed her. She has spoken with the one who founded us. Carry that to the other clans, envoy."* See `_inbox/2026-11-15 Falls Thread Fallout - Cohort and Families.md`.
+- **Height (ruled 2026-11-23):** 3.17 m as an adult (human base 190 cm, no source; about a head above Suletta; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
 
 ## Appears in
 

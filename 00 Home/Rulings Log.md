@@ -196,6 +196,8 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 
 | Na'vi | Counterpart | Human base (cm) | Na'vi (m) |
 |---|---|---|---|
+| [['Ipxerey]] | Prospera | 190 (no source; about a head above Suletta) | 3.17 |
+| [[Eyfuwen]] | Nadim | 185 (no source; taller than Suletta) | 3.08 |
 | [[Tsu'ong]] | Guel | 185 in source, +2 adult | 3.12 |
 | [[Kayan]] | Aki | 182, adult in source | 3.03 |
 | [[Tsa'rawm]] | Denji | 173 in source, +2 adult | 2.92 |
@@ -224,7 +226,8 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 | [[Pamyaw]] | Rana | 150 | 2.50 |
 
 - Sources for the human bases: Chainsaw Man Anime Exhibition chart (Denji, Aki, Angel, Power); Japanese Wikipedia citing the official profile video (Bocchi the Rock); Bandori game figures as listed on the Bandori Wiki (MyGO, Ave Mujica); a fan-reported staff chart (Witch from Mercury). Reze and Asa have no official height, so their bases are fan estimates, with Reze 1 cm taller.
-- **Still open:** [[Eyfuwen]] (Nadim) and [['Ipxerey]] (Prospera) have no source height. Both are taller than Suletta, Prospera about a head above. Options: 1.85 m gives 3.08 m, 1.90 m gives 3.17 m. Atanvi and Kaymi use 1.70 m; the staff chart's 171 cm would give 2.85 m.
+- **Added later the same day:** [[Eyfuwen]] (Nadim) and [['Ipxerey]] (Prospera) have no source height. Millie had them both taller than Suletta, Prospera about a head above, so Eyfuwen uses 185 cm (3.08 m) and 'Ipxerey 190 cm (3.17 m). Eyfuwen stays just under Tsu'ong (3.12 m), and 'Ipxerey becomes the tallest of the cast. Millie can change either number.
+- **Still open:** Atanvi and Kaymi use 1.70 m; the staff chart's 171 cm would give 2.85 m.
 
 ## Standing rules
 
