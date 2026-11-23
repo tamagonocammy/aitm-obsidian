@@ -182,6 +182,7 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 ## Ruled on 2026-11-23: Sänrri's full name
 
 - Millie ruled that Sänrri's full Na'vi name is **Sänrri te Tsawtral Hikari'ite**. It replaces *Sänrri te Tsawtral Tanhì'ite*. Hikari is her mother's name, which Tomori's mother never changed, kept unchanged as an homage. The short name Sänrri is unchanged.
+- Why: Millie first meant to translate her mother's name into Na'vi, then decided Sänrri would have no reason to, because Hikari can be spoken in Na'vi as it is (unlike Jake's name). So the name stays as it is.
 - Spelling check (Reykunyu, 2026-11-23): `te` and `'ite` (daughter) are dictionary words; *Hikari* and *Tsawtral* are names and are not dictionary entries. *Hikari* uses only Na'vi sounds in plain consonant-vowel syllables. *Tsawtral* was already vetted in the [[Na'vi Name Audit]].
 - Updated in the live notes: [[Sänrri]], [[Astikasya Accent Reference]], [[Astikasya]], [[Samaya]], [[Worldbuilding Reference]], [[MBTI Reference]] and the scene *The Night the Warriors Lost Their Dignity*. `99 Archive`, the migration scripts and the proof logs keep the old name as historical records.
 - Open: the paragraph in [[Sänrri]] that says her name means starlight (Tanhì is "star") no longer matches the new name. Millie decides what the name means now and whether Sänrri's own choosing of it stays as written.
