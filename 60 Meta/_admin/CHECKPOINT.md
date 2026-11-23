@@ -98,4 +98,4 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 ## Sänrri's full name, 2026-11-23 (Claude, at Millie's instruction)
 
 - Single writer: Claude (project thread). Millie ruled the new name; see [[Rulings Log]] ("Ruled on 2026-11-23: Sänrri's full name"). Seven live notes edited by a Haiku subagent with one exact replacement (Tsawtral Tanhì'ite to Tsawtral Hikari'ite). No archive, migration script or proof log was touched.
-- Open for Millie: what the new name means, since [[Sänrri]] still says her name means starlight. Recorded as an unchecked item on that note.
+- Later the same day Millie ruled the meaning: the name now means light (Hikari), so [[Sänrri]] says "light" where it said "starlight"; the open item on that note is ticked.

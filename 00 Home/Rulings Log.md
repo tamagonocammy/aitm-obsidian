@@ -185,7 +185,7 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - Why: Millie first meant to translate her mother's name into Na'vi, then decided Sänrri would have no reason to, because Hikari can be spoken in Na'vi as it is (unlike Jake's name). So the name stays as it is.
 - Spelling check (Reykunyu, 2026-11-23): `te` and `'ite` (daughter) are dictionary words; *Hikari* and *Tsawtral* are names and are not dictionary entries. *Hikari* uses only Na'vi sounds in plain consonant-vowel syllables. *Tsawtral* was already vetted in the [[Na'vi Name Audit]].
 - Updated in the live notes: [[Sänrri]], [[Astikasya Accent Reference]], [[Astikasya]], [[Samaya]], [[Worldbuilding Reference]], [[MBTI Reference]] and the scene *The Night the Warriors Lost Their Dignity*. `99 Archive`, the migration scripts and the proof logs keep the old name as historical records.
-- Open: the paragraph in [[Sänrri]] that says her name means starlight (Tanhì is "star") no longer matches the new name. Millie decides what the name means now and whether Sänrri's own choosing of it stays as written.
+- Meaning: Hikari is "light" and the old Tanhì was "star", so her name now means light, and the paragraph in [[Sänrri]] says so ("starlight" became "light", nothing else changed). Millie ruled this the same day.
 
 ## Standing rules
 
