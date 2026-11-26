@@ -1,0 +1,20 @@
+# Builds the NotebookLM / Gemini bundles from the vault notes.
+# Read-only: it never commits, never pushes, never edits a vault note.
+# The bundles show up as a downloadable "aitm-bundles" file on each run.
+name: Build AITM bundles
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  bundles:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/notebooklm/build_bundles.py . bundles
+      - uses: actions/upload-artifact@v4
+        with:
+          name: aitm-bundles
+          path: bundles/*.md
