@@ -229,6 +229,17 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - **Added later the same day:** [[Eyfuwen]] (Nadim) and [['Ipxerey]] (Prospera) have no source height. Millie had them both taller than Suletta, Prospera about a head above, so Eyfuwen uses 185 cm (3.08 m) and 'Ipxerey 190 cm (3.17 m). Eyfuwen stays just under Tsu'ong (3.12 m), and 'Ipxerey becomes the tallest of the cast. Millie can change either number.
 - **Still open:** Atanvi and Kaymi use 1.70 m; the staff chart's 171 cm would give 2.85 m.
 
+## Ruled on 2026-11-26: the Three Laws of Eywa (top rule)
+
+Millie's ruling in the project thread: the Three Laws of Eywa (the Na'vi Way) are the first thing every scene and note is checked against.
+
+- **The Laws:** you shall not set stone upon stone; neither shall you use the turning wheel; nor use the metals of the ground. Source: *Avatar: The Way of Water*, as summarized on the Avatar Fandom wiki ("Three Laws of Eywa").
+- **No wheels in Na'vi hands:** no pulleys, gears, carts or wheeled toys. Levers, ropes, slings, sleds and counterweights are fine.
+- **No stone building, no mining.** A fire-pit hearth of stones is allowed, as in the films.
+- **Metal belongs to the Sky People.** Recoms, humans and avatar drivers may carry it. A Na'vi who touches steel is breaking a Law, and the story treats that as a heavy act.
+- **First fix:** Notä's pulley in the Samaya stamina draft became a counterweight lever.
+- **Still open:** whether anything already in Astikasya or Mangkwan canon crosses a Law (the Falls made of unobtanium, Mangkwan fire doctrine, the Nine Spears' weapons), and how the story treats it. Nothing outside the Samaya draft has been checked.
+
 ## Standing rules
 
 See [[Canon Rules]]. Above all: nothing is invented. If the files do not say it and Millie has not ruled it, it is an open question.

@@ -33,6 +33,7 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 - Never delete originals. Older wording is kept in a folded `> [!quote]-` box.
 - Na'vi text is carried, never composed. Na'vi characters use no contractions.
 - A new ruling goes into [[Rulings Log]] with its date, and onto the note it changes.
+- The Three Laws of Eywa (no stone upon stone, no turning wheel, no metals of the ground) come before everything else. Check every scene for pulleys, carts, stone building and Na'vi metal tools.
 
 ## What cost the most, and what to do instead
 
@@ -104,3 +105,8 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 
 - Single writer: Claude (project thread). Millie ruled the heights; see [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights"). Added that section, one dated Height line under Notes on 26 character notes, and the source note `_inbox/2026-11-23 Navi Heights from the Reze Poster.md` (accepted). Pre-edit copies: `90 Sources/pre-navi-heights-20261123.tar.gz`.
 - Later the same day, Eyfuwen (185 cm, 3.08 m) and 'Ipxerey (190 cm, 3.17 m) were added with a Height line on their notes. Pre-edit copies: `90 Sources/pre-navi-heights-eyfuwen-ipxerey-20261123.tar.gz`. The same edits were pushed to the GitHub backup's `main` the same day (commit ad01080).
+
+## Three Laws of Eywa, 2026-11-26 (Claude, at Millie's instruction)
+
+- Single writer: Claude (project thread). Millie ruled the Three Laws as the top rule; see [[Rulings Log]] ("Ruled on 2026-11-26: the Three Laws of Eywa"). Edited [[Rulings Log]], [[Canon Rules]] and this file. Pre-edit copies: `90 Sources/pre-three-laws-20261126.tar.gz`. Live vault only; not pushed to GitHub.
+- Still open: a scan of existing canon for places that cross a Law.

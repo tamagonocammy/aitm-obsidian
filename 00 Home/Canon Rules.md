@@ -7,6 +7,7 @@ aliases:
 The rules every scene and note has to pass. Taken from the folder guide written for Claude; the project instructions carry the same rules.
 
 ## Lore rules (flag violations as errors)
+- **Top rule: the Three Laws of Eywa.** No stone upon stone, no turning wheel (so no pulleys or carts), no metals of the ground. Check every scene against them first. Details in [[Rulings Log]] ("Ruled on 2026-11-26: the Three Laws of Eywa").
 - Na'vi have no written language. Flag any Na'vi character reading or writing.
 - Na'vi never use contractions in speech. Sänrri (Tomori Takamatsu) also never uses them.
 - Humans, Recoms and Avatar drivers (Kobeni, Nika, Chuchu, Aliya and other Sky People) use contractions normally.
