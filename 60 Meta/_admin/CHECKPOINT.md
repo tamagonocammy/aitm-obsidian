@@ -3,7 +3,7 @@ type: "meta"
 ---
 # AITM vault checkpoint
 
-**Last updated:** 2026-11-23, Claude project thread (Bogotá): changed Sänrri's full name to Sänrri te Tsawtral Hikari'ite in the live notes and the Rulings Log, then pushed the change to a branch of the GitHub backup. Before that, 2026-11-22, Claude project thread (Bogotá): added two inbox proposals (warm platform custom and scenes). Before that, 2026-11-21, Claude project thread (Bogotá): recorded the children's personality rulings in the Rulings Log and the children's notes. Before that, 2026-11-18, Claude chat (Bogotá): added `00 Home/INDEX.md` for assistants and pushed the missing folders to GitHub. Before that, 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
+**Last updated:** 2026-11-26 (evening), Claude (Bogotá): Mutsumi (Tìmeyo and Kerevi) ruled nonbinary and renamed Luey'itu; see the Mutsumi ruling in the Rulings Log. Earlier: 2026-11-26 (evening), Claude chat (Bogotá): added `_admin/canon_check.py` (read-only canon lint) with its tests and a first report; see "Canon check — 2026-11-26" below. No lore note was edited. Before that, 2026-11-26, Claude project thread (Bogotá): logged Millie's answers on climate, the mountain settlement, timing, the nantang, Yoko'fya's death and Choso in the Rulings Log (fruit and custom name settled later the same day: utumauti, somtskxe; Kaymi 2.82 m; Kaymi's Height line updated). Before that, 2026-11-24, Claude project thread (Bogotá): logged the approved inbox notes (Lost Cohort chart, Warming the Falls and scenes, Ketxe and Sänrri, Txomì) in the Rulings Log; open choices are listed there. Character notes not yet edited. Before that, 2026-11-23, Claude project thread (Bogotá): changed Sänrri's full name to Sänrri te Tsawtral Hikari'ite in the live notes and the Rulings Log, then pushed the change to a branch of the GitHub backup. Before that, 2026-11-22, Claude project thread (Bogotá): added two inbox proposals (warm platform custom and scenes). Before that, 2026-11-21, Claude project thread (Bogotá): recorded the children's personality rulings in the Rulings Log and the children's notes. Before that, 2026-11-18, Claude chat (Bogotá): added `00 Home/INDEX.md` for assistants and pushed the missing folders to GitHub. Before that, 2026-11-17, Claude chat (Bogotá): added the 2026-11-17 ruling on the Ke'awa origin the Anufi/Nesim mappings, and Eyfuwen in Tsu'lo's role. Before that, 2026-11-16: added the 2026-11-16 ruling on why the ANAKT exists (Ardmore, the Mangkwan play, Luka) and Luka's kuru (Tsu'lan brings it back). Previous: 2026-11-15, Narayra and the Falls thread. Previous: 2026-11-12, maintenance handoff. **Phase:** migration built and cleaned; now in maintenance and renovation.
 
 ## State
 
@@ -25,7 +25,8 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 2. For canon, read [[Rulings Log]] only. For one arc or character, read that one note.
 3. Rebuild indexes only when needed: `"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/build_index.py"`. Add `--check` for no writes. Run these example commands from the vault root; the scripts locate the vault from their own paths, so absolute script paths also work from elsewhere.
 4. Validate affected notes with `"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_migration scripts/proof.py" --notes "00 Home/Canon Rules.md"`. Use `--full` only for the final archival proof; it remains pending. See `_admin/README.txt` for dependencies and tests.
-5. Do not rerun migration builders during maintenance. Their note writes now refuse to replace changed or untracked files using the local `manifest.json`; originals are write-protected by the shared helper. This is overwrite protection, not a concurrency lock. Prefer small direct edits and maintain one writer at a time.
+5. Before showing Millie any edit to a lore note (characters, groups, world, story, inbox), run the canon check on the notes you changed: `"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/canon_check.py" --notes "<note path>"`. Fix or explain every error; list the review items for Millie. The check never edits anything, and its findings are leads, not rulings.
+6. Do not rerun migration builders during maintenance. Their note writes now refuse to replace changed or untracked files using the local `manifest.json`; originals are write-protected by the shared helper. This is overwrite protection, not a concurrency lock. Prefer small direct edits and maintain one writer at a time.
 
 ## Rules that must not be broken
 
@@ -40,6 +41,16 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 - Every subagent pays a large fixed cost per turn, whatever the size of its task. Measured: Haiku agents with a 10k-token source pack and 3 to 4 tool calls used 104k to 120k tokens each; Sonnet agents that explored freely used 139k to 190k.
 - So: use scripts for anything deterministic; give one agent several small jobs instead of one job each; keep each agent to as few tool calls as possible; do small judgment calls in the main session.
 - A long main conversation is itself expensive, because all of it is re-read on every turn. Start a fresh session from this checkpoint when a conversation gets long.
+
+## Canon check — 2026-11-26 (Claude chat, at Millie's request)
+
+- Added `_admin/canon_check.py` and `_admin/test_canon_check.py` (19 fixture tests, pass with or without PyYAML). It is read-only unless `--out` is given and refuses to write into `99 Archive`.
+- It checks what `proof.py` does not: the Three Laws of Eywa, contractions in Na'vi dialogue (speaker from speech tags; characters with no `navi_name` are Sky People and may use them), Na'vi reading or writing, banned style words and patterns, retired spellings, garbled accents, frontmatter (canon values, folder types, links in `characters`/`family`/`groups`/`arc`/`era`) and dated inbox names.
+- Rule lists are read live from [[Canon Rules]] and [[Name Fixes to Apply]]; edit those notes to change what it checks. Earlier-version boxes, code blocks, callouts, checklists and Millie's quoted words are skipped.
+- First full run: `_admin/reports/canon-check-2026-11-26.md`. 9 errors: 8 Na'vi contractions in [[The Great Games Legacy]] (Sänrri, 'Ipxerey, Mìreya, Rewon, Atanvi) and "Mowpay" in [[Working Reference]]. Three Laws sweep of every lore note (the Rulings Log's open item): 4 leads, none a clear break; the most notable is Kaymi holding Nika's metal hand in [[The Mark of Earth House]]. One inbox note says `canon: proposed` where the rest say `proposal`.
+- `GEMINI.md` now tells Gemini how and when to run the check (new section "The canon check", plus a step in its writer rules). Pre-edit copy: `90 Sources/pre-canon-check-gemini-20261126.tar.gz`.
+- Nothing was fixed. Each finding waits for Millie's ruling. Pre-edit copies of CHECKPOINT and README.txt: `90 Sources/pre-canon-check-20261126.tar.gz`.
+- Verified in the Cowork Linux shell with system Python. `test_maintenance.py` shows 2 errors there only because it uses the macOS path `/private/tmp`; run it on the Mac as before.
 
 ## Portability maintenance — 2026-11-12
 
@@ -77,6 +88,7 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 - Later the same evening Millie gave the full list of trans characters and ruled that -'itu is the nonbinary name ending (both in [[Rulings Log]]). Gender now set on 11 notes: trans women [[Txewan]], [[Atanvi]], [[Rängay]], [[Apayì]], [[Tìfyaw]], [[Zìsaw]]; trans men [[Txafwe]], [[Txolaw]]; nonbinary [[Tswesya]], [[Oarä]], [[Roneyu]]. Pre-edit copies: `90 Sources/pre-gender-rulings-20261112.tar.gz`. Oarä's name (-'ite) and pronouns are left for Millie; no Na'vi text or prose was changed.
 - Third pass, same evening: Millie ruled that every trans Na'vi went through the Eye of Eywa except Roneyu (Mangkwan-born), Oarä is she/they, Kerevi is they/them, and everyone else is cis with the proposed pronouns. All 76 character notes now carry the three properties; [[Gender Transition Through Eye of Eywa]] lists every practitioner. Pre-edit copies (whole `10 Characters` folder): `90 Sources/pre-gender-cast-20261112.tar.gz`. Left open: Oarä's -'ite ending, and Tìmeyo/Kerevi's gender.
 - Last answers: Oarä's name is now *Oarä te Hafyon Katirì'itu* (old form kept as an alias, Family line now "Child of"); Tìmeyo is a cis woman and Kerevi is Kerevi. Nothing left open for the gender metadata. Pre-edit copies: `90 Sources/pre-oara-timeyo-20261112.tar.gz`. Optional prose follow-up: Katirì and Tswesya still say "daughter" for Oarä.
+- 2026-11-26 (evening), Mutsumi ruling: Tìmeyo and Kerevi are a nonbinary, agender, plural system using they/them, and the full name is now *Tìmeyo te Kilvay Luey'itu* (old form kept as an alias); transition left not established. Edited: Tìmeyo, Syayvi, Relationship Lore, The Scattered Ashes, MyMuji Season Plan, MBTI Reference, the Drunk Personalities inbox note, GEMINI.md and the Rulings Log (new dated entry; the 2026-11-12 lines stay as history). The "Earlier version" callouts keep the old prose. Pre-edit copies: `90 Sources/pre-mutsumi-enby-20261126.tar.gz`. Not done: the Claude project's own instructions and `gemini-skill/GEMINI.md` copy still list Kerevi alone as they/them.
 
 ## Inbox
 
@@ -95,6 +107,15 @@ Machine-readable list: `60 Meta/_admin/tasks.json`.
 - Closed: Mawpay's surname is Yahata. Still open: Lì'may and Kaymi surnames, Nìla's name ending, Eantu's build.
 - Not done: the live vault still has the old text; the changes exist only on the GitHub backup.
 - Done later the same day: the indexes were rebuilt (the stale kuru question is gone), the Eye of Eywa note now says Nìla will go through it later, and the Netezu question on Ngotxì is ticked (Syulang). Oarä is nonbinary and has not passed through the Eye (Millie, same day); removed from the practitioners list.
+
+## Inbox rulings, 2026-11-24 (Claude, at Millie's instruction)
+
+- Single writer: Claude (project thread). Added one section to [[Rulings Log]]; no other note edited. Pre-edit copies: `90 Sources/pre-inbox-rulings-20261124.tar.gz`. Live vault only; not pushed to GitHub.
+- Still open: fruit name, cold season, settlement location, timeline placement, Na'vi name for the custom, nantang habits, Yoko'fya's death, Choso. Dated lines on the Ketxe, Sänrri, Tsu'ong notes are pending.
+
+## Inbox answers, 2026-11-26 (Claude, at Millie's instruction)
+
+- One section added to [[Rulings Log]]. Pre-edit copies: `90 Sources/pre-inbox-answers-20261126.tar.gz`. Live vault only.
 
 ## Sänrri's full name, 2026-11-23 (Claude, at Millie's instruction)
 

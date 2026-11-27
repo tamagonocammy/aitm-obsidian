@@ -229,6 +229,55 @@ Millie approved all of the following in chat and asked for it to be recorded as 
 - **Added later the same day:** [[Eyfuwen]] (Nadim) and [['Ipxerey]] (Prospera) have no source height. Millie had them both taller than Suletta, Prospera about a head above, so Eyfuwen uses 185 cm (3.08 m) and 'Ipxerey 190 cm (3.17 m). Eyfuwen stays just under Tsu'ong (3.12 m), and 'Ipxerey becomes the tallest of the cast. Millie can change either number.
 - **Still open:** Atanvi and Kaymi use 1.70 m; the staff chart's 171 cm would give 2.85 m.
 
+## Ruled on 2026-11-24: inbox proposals approved
+
+Millie approved the pending inbox notes in the project chat ("all approved", 2026-11-24). Her approval settles what each note proposes. The choices it cannot settle stay open and are listed at the end of each part. Sources stay in `_inbox`.
+
+**Lost Cohort relationship chart** (`_inbox/2026-11-24 Lost Cohort Relationship Chart.md`).
+- The 20 arrows between Sänrri, Rängay, Pxayu, Apayì and Pamyaw are approved as written in the note, including the lines marked extrapolated. Spoken lines carry no contractions.
+- Sänrri's line to Apayì, "We were lost together", answers why the group is called Lost.
+- Pet names: Apayì calls Sänrri *ma oeyä 'eylan* and Pxayu *ma yawnetu*. Na'vi has no regular diminutive system, so no clipped names.
+- Still open: the sweet fruit Pamyaw trades hunts for (her note says "tawtute fruit", but Reykunyu lists tawtute as "Skyperson"). The live parser was not rerun on the pet-name phrases, and Kelutral was not checked on diminutives.
+
+**Warming the Falls and the Warm Platform scenes** (`_inbox/2026-11-22 Warming the Falls.md`, `_inbox/2026-11-22 Warm Platform Scenes.md`).
+- The warm platform custom with Sänrri's kotatsu skirt is approved: a board on short legs over the heated stone ring, a heavy cover to the floor, the materials mapped in the note, and the rule never to use Fire Seed near the ring.
+- Mitsìyo weaves the big covers and Tse'hayu is fussy about the stew (Millie liked both on 2026-11-22; now approved).
+- The scenes stay drafts. The warm platform, board, covers and stew rules are invented for them.
+- Still open: whether the Falls has a cold season or only cold mist and nights; whether the settlement is inside the mountain or on its cliff faces; where the scenes fall in the timeline; whether the nantang keep their own habits; whether the custom gets a Na'vi name. No Na'vi phrase is composed until she chooses.
+
+**Ketxe and Sänrri; Tsu'ong and Ketxe** (`_inbox/2026-11-15 Ketxe y Sänrri, Tsu'ong apoya a Ketxe.md`).
+- Ketxe is the bad-influence school friend and Sänrri the most well-behaved girl in class who always goes along. Sänrri never stops being well-behaved, and she loves her friend. The idea comes from Millie's friend Amy.
+- Tsu'ong backs Ketxe completely.
+- Ketxe and Tsu'ong accept Sänrri because she is headstrong, kind, means it, and has no hidden agenda.
+- Tsu'lan and Tsa'rawm are protective of Sänrri in a "dumb friend" way, for example shoving food at her.
+- The sketch in the note (the fuse, the salves, the crater) is not canon wording.
+- Not yet done: a dated line on the Ketxe, Sänrri, Tsu'ong and Relationship Lore notes.
+
+**Txomì and other source characters** (`_inbox/2026-11-15 Txomi and Other Source Characters.md`).
+- Txomì (Homura Akemi) is the founder of the Mangkwan, thousands of years ago in the era of the Third Toruk Makto, and Yoko'fya is her mate. This is an AITM addition; the Mangkwan themselves are canon from *Fire and Ash*.
+- Still open: how, when and why Yoko'fya died; Choso's way in; the spelling check of Txomì against Kelutral's generator. Kamina, Medusa, Sabina, Eliza and Shima, and Mana Sumida stay as the note leaves them.
+
+## Ruled on 2026-11-26: answers to the open inbox questions
+
+Millie's answers in the project thread. They settle the open items listed under "Ruled on 2026-11-24". The fruit name and the custom's name are settled in the next section.
+
+- **Climate of the Falls:** cold mist and cold nights, like the Altiplano Cundiboyacense around Bogotá. No winter is ruled.
+- **The settlement is inside the mountain.** Its "windows" are holes in the rock.
+- **Timing of the warm platform scenes:** somewhat before the Reckoning.
+- **The nantang** keep some habits of their own. They are puppies: larger than a person, but still puppies.
+- **How Yoko'fya died:** the Third Toruk Makto died in a great storm. There is no Walpurgisnacht in AITM, so the storm stands in for it. This answers the open question on Txomì and Yoko'fya.
+- **Choso's way in:** Choso is a Death Painting and helps the Disaster curses until his fight with Yuji ([[Tsu'lan]]). He is Mangkwan. Through the forced tsaheylu he realizes Tsu'lan is his little brother, and that he has many other siblings, the Spears, and he helps them. He also bonds with Power ([[Lamaytxa]]) over their blood. His Na'vi name is not chosen, and nothing about the Disaster curses beyond her words is ruled.
+- **Still open:** the sweet fruit's name and the Na'vi name for the warm platform custom. Millie asked for a name; options go through Reykunyu first.
+
+## Ruled on 2026-11-26: fruit, custom name, Kaymi's height, scene timing
+
+Millie's answers in the project thread, later the same day. They close the fruit and name questions left open above.
+
+- **The sweet fruit** Pamyaw trades hunts for is *utumauti*, "banana fruit" in the project lexicon (a real Pandoran fruit, Millie says). It replaces "tawtute fruit", because Reykunyu lists tawtute as "Skyperson". Millie suggests checking the Avatar wiki for further flora names. The live parser was not reachable on 2026-11-26; this check rests on the lexicon copy.
+- **The warm platform custom is called *somtskxe*.** Millie chose it (an earlier tentative answer from another thread). It is a compound that is not a single Reykunyu entry, and it was not checked against Kelutral's generator. The custom's scope is still open.
+- **Kaymi is 2.82 m**, one centimeter shorter than Atanvi (2.83 m), so the elder sister is the shorter one, and Millie likes it for that reason. This replaces 2.83 m in the heights table; Kaymi's human base is about 169 cm (2.82 m divided by 5/3 is 1.692 m). Atanvi stays 2.83 m.
+- **Timing of the warm platform scenes:** after the clan knows Sänrri well and with the children around, still somewhat before the Reckoning.
+
 ## Ruled on 2026-11-26: the Three Laws of Eywa (top rule)
 
 Millie's ruling in the project thread: the Three Laws of Eywa (the Na'vi Way) are the first thing every scene and note is checked against.
@@ -239,6 +288,15 @@ Millie's ruling in the project thread: the Three Laws of Eywa (the Na'vi Way) ar
 - **Metal belongs to the Sky People.** Recoms, humans and avatar drivers may carry it. A Na'vi who touches steel is breaking a Law, and the story treats that as a heavy act.
 - **First fix:** Notä's pulley in the Samaya stamina draft became a counterweight lever.
 - **Still open:** whether anything already in Astikasya or Mangkwan canon crosses a Law (the Falls made of unobtanium, Mangkwan fire doctrine, the Nine Spears' weapons), and how the story treats it. Nothing outside the Samaya draft has been checked.
+
+## Ruled on 2026-11-26: Mutsumi (Tìmeyo and Kerevi) is nonbinary
+
+- Tìmeyo (Mutsumi Togawa) and Kerevi are a nonbinary, agender, plural system. They use they/them. This supersedes the 2026-11-12 lines that made Tìmeyo a cis woman using she/her, and Kerevi the only they/them.
+- Kerevi is Kerevi: that stays, now inside the same nonbinary system. The profile prose uses they/them for both.
+- The full name is **Tìmeyo te Kilvay Luey'itu**, following the -'itu rule (it was Luey'ite). The old form stays as an alias. Syayvi keeps Luey'ite. *'itu* is Pawl's own word (Naviteri, October 2026).
+- Transition is left blank, which means not established. It is not assumed to be the Eye of Eywa.
+- Syayvi and Tìmeyo are twins, children of Luey. The notes say "twin" instead of "sister" and "children" instead of "daughters".
+- The "Earlier version" callout in Tìmeyo's note keeps the old prose on purpose. Pre-edit copies: `90 Sources/pre-mutsumi-enby-20261126.tar.gz`.
 
 ## Standing rules
 

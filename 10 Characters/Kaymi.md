@@ -80,6 +80,7 @@ Rules and exceptions: [[Na'vi Name Case Forms]]
 
 - When drunk she goes sentimental and tells people she loves them, [[Sänrri]] most of all, then acts as if it never happened. (ruled by Millie, 2026-11-14; see [[Rulings Log]])
 - **Height (ruled 2026-11-23):** 2.83 m as an adult (human base 170 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-23: Na'vi heights").
+- **Height (changed 2026-11-26):** 2.82 m, one centimeter shorter than her sister Atanvi (human base about 169 cm; × 5/3). See [[Rulings Log]] ("Ruled on 2026-11-26").
 
 ## Appears in
 
