@@ -11,7 +11,7 @@ source_series: "BanG Dream! Ave Mujica"
 The Scattered Ashes are the exiles Syayvi gathered from inside the Mangkwan, after she and her twin Tìmeyo took shelter there and saw the heresy *(Blurryface era)*. The Relationship Lore calls them "an exile's found family", built around shared exclusion. They came home with the Lost Cohort and the warning "They are coming", proved themselves in the Siege, and then began to separate. Syayvi and Nì'syu stay at the Falls with Sìlpey on the way, and Tìmeyo and Yawyay leave for the Ta'unui reef *(Siege of the Falls)*.
 ### Who they are
 - [[Syayvi]]: leader; The Penitent, Ninth of the Nine Spears with the Ashen Spear; twin of Tìmeyo, formerly named Tswa'avä in exile; mate of Nì'syu, pregnant with Sìlpey.
-- [[Tìmeyo]]: twin of Syayvi; she and Kerevi are a DID system who share one note. Once destined to be tsakarem and Kaymi's mate. Leaves with Yawyay for the reef after the Siege.
+- [[Tìmeyo]]: twin of Syayvi; Tìmeyo and Kerevi are a DID system who share one note. Once destined to be tsakarem and Kaymi's mate. Leaves with Yawyay for the reef after the Siege.
 - [[Nì'syu]]: also 'Awll, who took Nì'syu's name herself and knows who she is; mate of Syayvi.
 - [[Txafwe]]: Tayrangi rhythm-keeper from the Eastern Sea; mate of [[Rängay]], father of Nìla and Mawpay; captured with the Cohort.
 - [[Yawyay]]: from the Ta'unui coastal clan; a drummer who sought the Mangkwan willingly and lost faith in them; Tìmeyo's mate after the Siege.

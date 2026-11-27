@@ -41,7 +41,7 @@ AITM's families and couples, with what rests on each. If a reveal touches one of
 | AITM bond | Source | What rests on it |
 |---|---|---|
 | [[Syayvi]] and [[Nì'syu]], mates, different families (Kilvay, Pxeon) | Sakiko and Uika/Hatsune | Sìlpey, their son; 'Awll's borrowed name; the Penitent's redemption |
-| [[Syayvi]] and [[Tìmeyo]], twins, daughters of Luey | Sakiko and Mutsumi (not sisters in the show) | the exile for killing their father; Kerevi; Tìmeyo once meant to be Kaymi's mate |
+| [[Syayvi]] and [[Tìmeyo]], twins, children of Luey | Sakiko and Mutsumi (not siblings in the show) | the exile for killing their father; Kerevi; Tìmeyo once meant to be Kaymi's mate |
 | [[Sänrri]] and [[Kaymi]], mates | Tomori and Ericht (crossover) | Lì'may; the Clancy and Torchbearer parallels |
 | [[Rängay]] and [[Txafwe]], mates, ST4T | Taki and Umiri | Nìla and Mawpay |
 | [[Rängay]] and [[Narayra]], sisters, daughters of Tosiwi | Taki and Maki | the Falls thread; "Backslide" |
