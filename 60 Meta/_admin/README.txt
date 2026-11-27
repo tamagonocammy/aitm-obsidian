@@ -12,6 +12,14 @@ Commands from the vault root (absolute script paths also work from other folders
 "60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/build_index.py" --check
 "60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/build_index.py"
 "60 Meta/_admin/.venv/bin/python" -B "60 Meta/_migration scripts/proof.py" --notes "00 Home/Canon Rules.md"
+"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/test_canon_check.py"
+"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/canon_check.py"
+"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/canon_check.py" --notes "40 Story/Scenes/<scene>.md"
+"60 Meta/_admin/.venv/bin/python" -B "60 Meta/_admin/canon_check.py" --out "60 Meta/_admin/reports/canon-check-<date>.md"
+
+canon_check.py is read-only: it checks the lore and style rules in Canon Rules
+(Three Laws, Na'vi contractions and writing, banned words, retired spellings,
+encoding, frontmatter, inbox names). Exit 1 means errors; review items are leads.
 
 Only at the final validation gate:
 "60 Meta/_admin/.venv/bin/python" -B "60 Meta/_migration scripts/proof.py" --full

@@ -1,5 +1,5 @@
 {
-"built": "2026-11-21",
+"built": "2026-11-23",
 "notes": {
 "00 Home/Canon Rules.md": {
 "title": "Canon Rules",
@@ -158,11 +158,13 @@
 "Canon decisions"
 ],
 "canon": null,
-"sha": "b9b2a06b8e20fb85",
-"bytes": 21916,
+"sha": "00098a69d4b7d125",
+"bytes": 23238,
 "links": [
 "A Torchlight",
 "Ambition and Hope — The Ones Who Know All",
+"Astikasya",
+"Astikasya Accent Reference",
 "Astikasya Yellow",
 "Atanvi",
 "Canon Rules",
@@ -171,14 +173,17 @@
 "MBTI Reference",
 "Miri Sugo",
 "Mitsìyo",
+"Na'vi Name Audit",
 "Name Fixes to Apply",
 "Narayra",
 "Notä",
 "Prelude to Fire",
 "Rängay",
+"Samaya",
 "Scattered Ashes, Burning Hearts",
 "Siege of the Falls",
 "Syulang",
+"Sänrri",
 "The Great Games",
 "The Great Games Legacy",
 "The Lake",
@@ -188,7 +193,8 @@
 "The Wild Hunt",
 "Tsa'rawm",
 "Txewan",
-"Welcome Back to Trench"
+"Welcome Back to Trench",
+"Worldbuilding Reference"
 ],
 "open": 0
 },
@@ -1329,8 +1335,8 @@
 "Clancy"
 ],
 "canon": "confirmed",
-"sha": "6852c47289f1e5bf",
-"bytes": 13661,
+"sha": "52d59142452f7a19",
+"bytes": 14074,
 "links": [
 "'Ipxerey",
 "Apayì",
@@ -1870,7 +1876,7 @@
 "the Astikasya"
 ],
 "canon": null,
-"sha": "9a6ee8cdf0ed3d8a",
+"sha": "04749d0fe1f26edf",
 "bytes": 4549,
 "links": [
 "Ambition and Hope — The Ones Who Know All",
@@ -2039,7 +2045,7 @@
 "House Samaya"
 ],
 "canon": null,
-"sha": "e882c2dfcf5c761d",
+"sha": "5dd068ab4fdf69e7",
 "bytes": 4093,
 "links": [
 "'Ipxerey",
@@ -2387,7 +2393,7 @@
 "Astikasya Clan - World-Building Reference"
 ],
 "canon": null,
-"sha": "a2936a11efe5e296",
+"sha": "4986c33b750da8c2",
 "bytes": 9046,
 "links": [
 "Allied Clans",
@@ -2962,7 +2968,7 @@
 "Txon a aysamsiyul meuiat holan"
 ],
 "canon": "confirmed",
-"sha": "7f4e370b4eeeae1d",
+"sha": "ba70421c89c6a935",
 "bytes": 20946,
 "links": [
 "Anake",
@@ -3050,6 +3056,16 @@
 ],
 "open": 0
 },
+"50 Language/AITM_Navi_Lexicon_Reykunyu.md": {
+"title": "AITM_Navi_Lexicon_Reykunyu",
+"type": null,
+"aliases": [],
+"canon": null,
+"sha": "d44468d4692f8510",
+"bytes": 238127,
+"links": [],
+"open": 0
+},
 "50 Language/Astikasya Accent Reference.md": {
 "title": "Astikasya Accent Reference",
 "type": "reference",
@@ -3057,7 +3073,7 @@
 "AITM_Astikasya_Accent_Reference"
 ],
 "canon": null,
-"sha": "5030e0e3d2031685",
+"sha": "e3aa1f6c63d0467f",
 "bytes": 18027,
 "links": [],
 "open": 0
@@ -3209,7 +3225,7 @@
 "AITM_MBTI_Reference"
 ],
 "canon": null,
-"sha": "e443f183dcf349c7",
+"sha": "62e94529169a24d7",
 "bytes": 8471,
 "links": [],
 "open": 0
@@ -3269,8 +3285,8 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "25d3b202e3b3f613",
-"bytes": 12386,
+"sha": "82e642222f4ab4da",
+"bytes": 13676,
 "links": [
 "Ambition and Hope — The Ones Who Know All",
 "Apayì",
@@ -3304,7 +3320,7 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "2233c40fde8205f9",
+"sha": "7aacdaf096802166",
 "bytes": 18687,
 "links": [
 "A Torchlight",
@@ -3345,8 +3361,8 @@
 "type": "meta",
 "aliases": [],
 "canon": null,
-"sha": "9e184b9e2a82f078",
-"bytes": 16512,
+"sha": "6562f908b5bb36fc",
+"bytes": 16727,
 "links": [
 "'Eweyn",
 "'Ipxerey",

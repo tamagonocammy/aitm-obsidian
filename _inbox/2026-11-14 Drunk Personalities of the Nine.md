@@ -71,7 +71,7 @@ Legendarily lazy; drunk, he falls asleep in the warmest spot and stays there. Hi
 Sänume corrects Sänrri's plant facts; 'Eweyn corners [[Nika]] with questions about Earth. Keep both small.
 
 ### [[Tìmeyo]]: left out on purpose
-Tìmeyo/Kerevi is a DID system. Treating a switch as a drunk gag would not fit the character, so this note does not give her a drunk version.
+Tìmeyo/Kerevi is a DID system. Treating a switch as a drunk gag would not fit the character, so this note does not give them a drunk version.
 
 ## Open questions
 - [x] Is "Txewan drinks slowly because she becomes Tìfyaw" canon?

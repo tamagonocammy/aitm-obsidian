@@ -158,7 +158,7 @@ Born 'Awll, forced to assume her dead twin sister's identity to preserve a polit
 > 'Awll took Nì'syu's name herself. She was not forced into it, and she knows who she is.
 
 ### Tìmeyo's old bond with Kaymi
-Tìmeyo was once destined to be tsakarem and to mate with Kaymi. Exile severed both callings. Tìmeyo carries this loss in ways she rarely speaks about. Kerevi occasionally references it with childlike directness and then has to watch Tìmeyo move through the complicated grief of hearing the truth out loud.
+Tìmeyo was once destined to be tsakarem and to mate with Kaymi. Exile severed both callings. Tìmeyo carries this loss in ways they rarely speak about. Kerevi occasionally references it with childlike directness and then has to watch Tìmeyo move through the complicated grief of hearing the truth out loud.
 
 ### Luka's obsession with Tsu'lan
 Luka's fixation is on Tsu'lan. At the end of the Siege, Tsu'lan lets him go, and the vow that follows becomes [[The Wild Hunt]], where Luka dies.
