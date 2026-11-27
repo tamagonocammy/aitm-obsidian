@@ -88,7 +88,7 @@ A complete reference of MBTI personality types for the cast of *Avatar: Into the
 | Character | Na'vi Name | Role | MBTI |
 |---|---|---|---|
 | Syayvi | Syayvi te Kilvay Luey'ite | Nine Spears (The Penitent) | ENFJ — The Protagonist |
-| Tìmeyo | Tìmeyo te Kilvay Luey'ite | Scattered Ashes | INTP — The Thinker |
+| Tìmeyo | Tìmeyo te Kilvay Luey'itu | Scattered Ashes | INTP — The Thinker |
 | Kerevi | (alter, same body as Tìmeyo) | Tìmeyo's alter | ENFP — The Campaigner |
 | Nì'syu / 'Awll | Nì'syu/'Awll te Pxeon Kxlli'ite | Warrior · Mate of Syayvi | INFJ — The Advocate |
 | Txafwe | Txafwe te Volsrä Mìuä'itan | Rhythm-keeper | ISTP — The Virtuoso |
