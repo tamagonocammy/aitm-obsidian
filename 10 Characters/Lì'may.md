@@ -22,11 +22,13 @@ canon: "confirmed"
 
 > [!abstract] At a glance
 > **Family:** Adopted daughter of [[Kaymi]] & [[Sänrri]]
-> **Key Traits:** Rescued from RDA facility. Was initially non-verbal. Now a boisterous whirlwind declaring herself strongest warrior while collecting "very important specimens." Adores playing with [[Mìyo]] & [[Mìrì]]. Impetuous personality influenced by [[Notä]] and [[Kxayì]].
+> **Key Traits:** Three. Rescued from an old RDA facility, silent at first and clinging to Sänrri. Now loud. Calls herself the strongest warrior on Pandora, has a gap tooth, bites, and wins when she bites because the adults let her. Demands to be picked up. Collects "very important specimens". Copies [[Notä]]'s smugness and [[Kxayì]]'s drama. The comic relief of the whole story.
 
 ## Profile
 
-**Personality:** Lì'may is a precocious three-year-old who channels her parents' contrasting energies - her mother Kaymi's warrior spirit and Sänrri's curious nature. When first rescued from an old RDA facility, she was non-verbal and extremely attached to Sänrri, only gradually emerging from her shell through patient care and love. Now she's a constant whirlwind of activity, declaring herself the "strongest warrior" in all Pandora while collecting "very important specimens" that suspiciously resemble her mother's rock collection. Her transition from silent, traumatized child to boisterous warrior-in-training showcases her resilience and the healing power of family. While she adores playing with the Ngotxì twins, she's especially drawn to her older cousins Notä and Kxayì, whose influence has contributed significantly to her impetuous personality. She often mimics Notä's smug confidence and Kxayì's dramatic flair, creating her own unique blend of chaos that both amuses and concerns her family. While fierce in her proclamations of strength, she maintains an innocence that endears her to even the most serious clan members, turning hardened warriors into indulgent caretakers with her genuine charm and determination to prove herself the "strongest."
+**Personality:** Lì'may is three. She was rescued from an old RDA facility, and at first she did not speak and held on to Sänrri so hard that it took a long time before she would let anyone else near her. She is loud now. She tells everyone she is the strongest warrior on all of Pandora. She has a gap tooth, and she bites. Biting is her fighting style, she is winning when she bites, and the adults let her win. She collects "very important specimens" that look a lot like her mother's rock collection.
+
+When she wants to be picked up she demands it from her mothers like an order, and they do it. She plays with Mìyo and Mìrì, and she copies Notä's smug face and Kxayì's dramatics, which amuses her family and worries them a little. Kxayì goes soft around her. The most serious warriors in the clan turn into people who carry her around and let her lecture them.
 
 ## Relationships
 

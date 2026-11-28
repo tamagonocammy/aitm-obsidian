@@ -28,7 +28,7 @@ aliases:
 
 - Fixed parallels: Sänrri is Clancy; Kaymi is the Torchbearer; the RDA is Dema; the Astikasya are the Banditos; ANAKT are the Bishops; Luka is Nico (Blurryface); forced tsaheylu is seizing; the Mangkwan fire doctrine is Vialism; Tunskxe and Yoko'fya are the Neds of Voldsøy.
 - The Nine Spears are Sänrri's Banditos: they protect her and she protects them.
-- Songs: "Overcompensate" is Sänrri's, and its "we both" is Sänrri and Kaymi. "Paladin Strait" is the Battle over the Lake. "My Clematis" (RUBYEYE & C!naH) is the reveal and destruction of ANAKT. "City Walls" is the final battle. "The Contract" is Sänrri after the Siege. "The Line" is human Tomori and the consciousness transfer. "Drag Path" (original version) is tentatively the song of the whole AU.
+- Songs: "Overcompensate" is Sänrri's, and its "we both" is Sänrri and Kaymi. "Paladin Strait" is the Battle over the Lake. "My Clematis" (RUBYEYE & C!naH) is the reveal and destruction of ANAKT. "City Walls" is the final battle. "The Contract" is Sänrri after the Siege. "The Line" is human Tomori and the consciousness transfer. "Drag Path" (original version) is tentatively the song of the whole AU. "Bandito" is the main theme of the Astikasya clan (ruled 2026-11-28).
 
 ## Names (October 2026)
 
@@ -297,6 +297,10 @@ Millie's ruling in the project thread: the Three Laws of Eywa (the Na'vi Way) ar
 - Transition is left blank, which means not established. It is not assumed to be the Eye of Eywa.
 - Syayvi and Tìmeyo are twins, children of Luey. The notes say "twin" instead of "sister" and "children" instead of "daughters".
 - The "Earlier version" callout in Tìmeyo's note keeps the old prose on purpose. Pre-edit copies: `90 Sources/pre-mutsumi-enby-20261126.tar.gz`.
+
+## Ruled on 2026-11-28: the Astikasya theme
+
+- **"Bandito" (Twenty One Pilots) is confirmed as the main theme of the [[Astikasya]] clan.** Millie approved it in chat on 2026-11-28. Source note: `_inbox/2026-11-28 Bandito as Astikasya Theme.md`. Added to the Songs line under "Twenty One Pilots overlay".
 
 ## Standing rules
 

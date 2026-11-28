@@ -29,3 +29,4 @@ This spirit of adaptation is further exemplified by their remarkable ingenuity, 
 ## Notes
 
 - **Ruled 2026-11-17 (origin):** The Astikasya began as the Ke'awa Kame'tire of *Frontiers of Pandora* (split from the Kame'tire in 2138) and took back the ancient name of Tunskxe's clan, which the Samaya line remembered. They never reunite with the Kame'tire. See `_inbox/2026-11-17 Ke'awa Origin and AFOP Mappings.md`.
+- **Ruled 2026-11-28 (theme):** "Bandito" (Twenty One Pilots) is the clan's main theme. See [[2026-11-28 Bandito as Astikasya Theme]].
