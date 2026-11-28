@@ -22,12 +22,16 @@ canon: "confirmed"
 ---
 
 > [!abstract] At a glance
-> **Family:** Daughters of [[Txewan]] & [[Syulang]]
-> **Key Traits:** Spitting image of [[Txewan]]. Older twin (by minutes). Tacturn but wise beyond years. Always carries carved ikran toy. Clumsier than [[Mìyo]]. Provides calm planning to balance chaos.
+> **Family:** Daughter of [[Txewan]] & [[Syulang]]
+> **Key Traits:** Eight, older twin by minutes, spitting image of [[Txewan]]. Quiet with strangers, answers for both twins with people she knows. Clumsier than [[Mìyo]]. Carries a named carved ikran toy everywhere. Shares feelings and dreams with Mìyo; neither lets anyone touch her ear-tufts or tail.
 
 ## Profile
 
-**Personality:** Similar to her sister in her zest for life and exploration, Mìrì shares the special childish accent with twin Mìyo, often finishing each other’s sentences in that bewildering way that makes adults smile and shake their heads. However, where Mìyo is scattered sunshine, Mìrì is focused moonlight - she’s the spitting image of her mother Txewan in both appearance and temperament, naturally more taciturn with strangers but surprisingly wise when she chooses to speak. Despite being only eight years old, when Mìrì does talk, she often says things that are startlingly mature for her age, causing adults to do double-takes and wonder where such insight comes from. She’s always seen carrying her small carved ikran toy, a gift that has become her constant companion and security object, which she’s named and treats as if it were alive. As the older twin (by mere minutes, but she takes this responsibility seriously), Mìrì often takes the conversational lead despite her generally quieter nature, her calmer and more collected demeanor providing stability when Mìyo’s enthusiasm threatens to overwhelm a situation. Paradoxically, while she appears more mature and thoughtful, she’s actually the clumsier of the two - frequently tripping over her own feet or accidentally knocking things over, though she handles these mishaps with such dignified resignation that it only adds to her charm. Her treasure collection tends toward more practical or beautiful items rather than random curiosities, showing an early aesthetic sense that mirrors her musical family’s artistic nature.
+**Personality:** Mìrì is eight and the older twin by a few minutes, and she mentions the minutes whenever they help her case. She is the spitting image of her mother Txewan, and she is quiet around strangers in the way Txewan is quiet. With people she knows she takes the lead in conversation: she answers for both twins, and when Mìyo gets too wound up she is the one who slows the game down and says what they are doing next. She is the clumsier twin. She trips over her own feet and knocks things off ledges, and she gets up and carries on as if nothing happened.
+
+She takes her small carved ikran toy everywhere. It has a name, and she talks about it as if it were alive. Her pile of finds leans toward things that are useful or pretty, where Mìyo's fills up with odd rocks and seed pods. She found a good drumming stone for Oarä and has been extra nice to Oarä since, and Oarä has not noticed.
+
+She and Mìyo talk in the same childish accent. They finish each other's sentences and sometimes say the same sentence at the same moment, and adults smile and shake their heads. What one feels tends to reach the other, and some nights they have the same dream, or the same nightmare. They rarely have a real fight, and when they do they make up fast. Both of them hate having their ear-tufts or tails touched and will not put up with it. Other people do not know how to fit between the two of them, so the twins end up alone together, and when either one is feeling low she goes straight to the other. They are eight and stubborn, and they stay together.
 
 ## Relationships
 

@@ -22,12 +22,16 @@ canon: "confirmed"
 ---
 
 > [!abstract] At a glance
-> **Family:** Daughters of [[Txewan]] & [[Syulang]]
-> **Key Traits:** Cheerful, playful dancer. Endearingly scatterbrained. Special childish accent with twin. Supplies chaotic energy to adventures. Makes everyone laugh.
+> **Family:** Daughter of [[Txewan]] & [[Syulang]]
+> **Key Traits:** Eight, younger twin by minutes, the loud one. Dances. Forgets where she put things and loses sentences to shiny objects. Pranks and silly faces aimed at [[Mìrì]]. Afraid of heights and scary things. Copies [[Notä]] and [[Kxayì]]'s grown-up words and gets them wrong. Shares feelings and dreams with Mìrì; neither lets anyone touch her ear-tufts or tail.
 
 ## Profile
 
-**Personality:** Mìyo is a cheerful and playful girl, full of energy and curiosity, already showing signs of being a talented dancer who enjoys participating in ritual dances with her family. She has a special childish accent shared with her twin sister Mìrì, and they often finish each other’s sentences and speak in unison, which sometimes bewilders adults but delights other children. Mìyo and Mìrì love exploring together, maintaining a collection of small treasures they’ve found during their adventures around Pandora - everything from unusually shaped rocks to brilliantly colored feathers to seed pods that make interesting sounds. She’s endearingly scatterbrained, often forgetting where she put things or getting distracted mid-sentence by something shiny, but her enthusiasm is so infectious that no one has the heart to scold her. She spends considerable time with her older cousins Notä and Kxayì, unconsciously adopting their mannerisms and speech patterns, which sometimes results in an eight-year-old using surprisingly sophisticated vocabulary or attempting “mature” expressions that come out adorably wrong. Mìyo’s spontaneity, excitability, and mischievousness make her a perfect foil to her twin - while Mìrì provides the calm planning, Mìyo supplies the chaotic energy that turns simple games into grand adventures. Her light-hearted teasing of her sister often involves gentle pranks or silly faces, and she has an innate talent for making anyone laugh, even during the most serious moments.
+**Personality:** Mìyo is eight and the younger twin by a few minutes, and she is the loud one. She dances, and she is already good at it, and she joins the ritual dances with her family whenever she is let. She forgets where she put things, and she drops the end of a sentence halfway through because something shiny went past. She is spontaneous and excitable and nearly always up to something small and sneaky: a prank on Mìrì, a silly face at the wrong moment, anything that gets a laugh. It works even on people who were about to scold her. She is afraid of heights and of scary things.
+
+She keeps a pile of finds with Mìrì: oddly shaped rocks, bright feathers, seed pods that rattle when shaken. She spends a lot of time with her older cousins Notä and Kxayì and copies how they talk. She comes home with grown-up words and uses them in the wrong places, and her attempts at mature expressions come out wrong.
+
+She and Mìrì share the childish accent and finish each other's sentences. Whatever one feels tends to land on the other. Some nights they have the same dream, or the same nightmare. They rarely have a serious fight, and they make up quickly when they do. Neither of them lets anyone touch her ear-tufts or tail. Other people do not know how to fit between the two of them, and sometimes that leaves the twins lonely together. When Mìyo is down it is Mìrì she goes to, and the other way around.
 
 ## Relationships
 

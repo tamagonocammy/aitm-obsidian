@@ -20,12 +20,14 @@ canon: "confirmed"
 ---
 
 > [!abstract] At a glance
-> **Family:** Son of [[Txewan]] & [[Syulang]]
-> **Key Traits:** Large golden eyes fascinated by bioluminescence. Surprisingly quiet. Strong attachment to mothers' voices/music. Recently started walking and making word-sounds.
+> **Family:** Son of [[Txewan]] & [[Syulang]]; Syulang bore him
+> **Key Traits:** One year old and quiet. Stares at glowing plants. Calms for his mothers' voices and for music. Takes after Syulang more than Txewan. Pulls Txewan's hair. Likes [['Eweyn]] and, most of all, his grandmother [[Mitsìyo]]. Just started walking.
 
 ## Profile
 
-**Personality:** Netezu is a 1 year old Na'vi baby, full of curiosity about the world around him. His large golden eyes observe everything with fascination, especially the lights and colors of bioluminescent plants. He has a strong attachment to his mothers, Txewan and Syulang, calming immediately upon hearing their voices or music. Netezu is surprisingly quiet for his age, but has a cheerful gurgle he uses to express happiness. He shows an early affinity for sounds, turning his head towards the source of any melody. His older sisters, Mìyo and Mìrì, adore him and he responds with smiles and excited movements whenever he sees them. Although still very young, Netezu already shows signs of being an observant and sensitive baby. He recently began to walk on his own, making sounds that are like the words taught by everyone in the clan.
+**Personality:** Netezu is one year old, and he is a baby, with nothing more asked of him than that. He is quiet for his age, and when he is happy he gurgles. His large golden eyes follow the glowing plants for as long as anyone lets him look. Music and his mothers' voices settle him at once: he turns his head toward any melody before he has found where it is coming from, and he calms the moment Txewan or Syulang speaks. He takes after Syulang more than Txewan. Syulang bore him, and both of them are his mothers, as they are for Mìrì and Mìyo.
+
+He has just learned to walk by himself, and he makes sounds that are close to the words the whole clan keeps teaching him. He pulls Txewan's hair, the hair and not the kuru. He likes [['Eweyn]], and he likes his grandmother Mitsìyo best of anyone. Mìyo and Mìrì adore him, and he smiles and waves his arms whenever he sees them.
 
 ## Relationships
 
